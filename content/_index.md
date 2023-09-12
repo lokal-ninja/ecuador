@@ -1,0 +1,1 @@
+Ecuador, oficialmente República del Ecuador, es un país soberano constituido en un Estado social, democrático, de derecho y plurinacional, cuya forma de gobierno es la de una república presidencialista, unitaria y descentralizada. Está ubicado en la región noroccidental de América del Sur. (Wikipedia)
