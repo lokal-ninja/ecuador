@@ -1,5 +1,5 @@
 ---
 title: "Oki Doki"
-url: /guayaquil/oki-doki/
+url: /guayaquil/oki-doki-carchi/
 shop: comodidad
 ---

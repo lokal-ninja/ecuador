@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
-url: /guayaquil/hyundai/
+url: /guayaquil/hyundai-victor-emilio-estrada-s/
 shop: coche
 ---

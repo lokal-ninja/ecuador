@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia"
-url: /quito/lavanderia/
+url: /quito/lavanderia-luis-cordero/
 shop: lavandería
 ---

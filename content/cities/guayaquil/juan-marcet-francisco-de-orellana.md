@@ -1,5 +1,5 @@
 ---
 title: "Juan Marcet"
-url: /guayaquil/juan-marcet/
+url: /guayaquil/juan-marcet-francisco-de-orellana/
 shop: material de oficina
 ---

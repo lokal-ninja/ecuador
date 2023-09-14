@@ -1,5 +1,5 @@
 ---
 title: "ETA Fashion"
-url: /quito/eta-fashion/
+url: /quito/eta-fashion-santa-lucia/
 shop: ropa
 ---

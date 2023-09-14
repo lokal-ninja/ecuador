@@ -1,5 +1,5 @@
 ---
 title: "Gastro Frio"
-url: /quito/gastro-frio/
+url: /quito/gastro-frio-avenida-mariscal-sucre/
 shop: general
 ---

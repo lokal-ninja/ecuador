@@ -1,5 +1,5 @@
 ---
 title: "Heladeria"
-url: /quito/heladeria/
+url: /quito/heladeria-de-los-eucaliptos/
 shop: helado
 ---

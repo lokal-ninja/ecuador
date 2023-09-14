@@ -1,5 +1,5 @@
 ---
 title: "Imprenta-Offset"
-url: /quito/imprenta-offset/
+url: /quito/imprenta-offset-mariscal-foch/
 shop: copyshop
 ---

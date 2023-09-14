@@ -1,5 +1,5 @@
 ---
 title: "Dipaso"
-url: /guayaquil/dipaso/
+url: /guayaquil/dipaso-victor-emilio-estrada-s/
 shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TIA"
-url: /quito/tia/
+url: /quito/tia-carlos-mantilla/
 shop: supermercado
 ---

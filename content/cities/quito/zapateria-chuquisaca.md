@@ -1,5 +1,5 @@
 ---
 title: "Zapateria"
-url: /quito/zapateria/
+url: /quito/zapateria-chuquisaca/
 shop: zapatos
 ---

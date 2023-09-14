@@ -1,5 +1,5 @@
 ---
 title: "Gypsum"
-url: /quito/gypsum/
+url: /quito/gypsum-avenida-rodrigo-de-chavez/
 shop: general
 ---

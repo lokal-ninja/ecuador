@@ -1,5 +1,5 @@
 ---
 title: "Listo"
-url: /quito/listo/
+url: /quito/listo-avenida-america/
 shop: comodidad
 ---

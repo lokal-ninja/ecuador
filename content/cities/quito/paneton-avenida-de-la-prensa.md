@@ -1,5 +1,5 @@
 ---
 title: "Panetón"
-url: /quito/paneton/
+url: /quito/paneton-avenida-de-la-prensa/
 shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tattoo"
-url: /quito/tattoo/
+url: /quito/tattoo-avenida-6-de-diciembre/
 shop: tatuaje
 ---

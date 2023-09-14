@@ -1,5 +1,5 @@
 ---
 title: "Pintulac"
-url: /quito/pintulac/
+url: /quito/pintulac-avenida-juan-molineros/
 shop: pintura
 ---

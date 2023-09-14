@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
-url: /quito/tienda/
+url: /quito/tienda-julio-arellano/
 shop: comodidad
 ---

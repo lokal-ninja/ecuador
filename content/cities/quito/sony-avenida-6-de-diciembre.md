@@ -1,5 +1,5 @@
 ---
 title: "Sony"
-url: /quito/sony/
+url: /quito/sony-avenida-6-de-diciembre/
 shop: electrónica
 ---

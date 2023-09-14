@@ -1,5 +1,5 @@
 ---
 title: "Cortinas"
-url: /quito/cortinas/
+url: /quito/cortinas-capitan-ramon-borja/
 shop: cortina
 ---

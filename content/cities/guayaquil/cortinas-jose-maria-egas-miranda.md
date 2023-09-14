@@ -1,5 +1,5 @@
 ---
 title: "Cortinas"
-url: /guayaquil/cortinas/
+url: /guayaquil/cortinas-jose-maria-egas-miranda/
 shop: cortina
 ---

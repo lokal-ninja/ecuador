@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
-url: /guayaquil/ferreteria/
+url: /guayaquil/ferreteria-avenida-barcelona/
 shop: hardware
 ---

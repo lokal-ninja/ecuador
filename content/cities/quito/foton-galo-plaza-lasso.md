@@ -1,5 +1,5 @@
 ---
 title: "FOTON"
-url: /quito/foton/
+url: /quito/foton-galo-plaza-lasso/
 shop: coche
 ---

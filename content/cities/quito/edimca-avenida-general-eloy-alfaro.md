@@ -1,5 +1,5 @@
 ---
 title: "Edimca"
-url: /quito/edimca/
+url: /quito/edimca-avenida-general-eloy-alfaro/
 shop: general
 ---

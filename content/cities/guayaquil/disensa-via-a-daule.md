@@ -1,5 +1,5 @@
 ---
 title: "Disensa"
-url: /guayaquil/disensa/
+url: /guayaquil/disensa-via-a-daule/
 shop: comercio
 ---

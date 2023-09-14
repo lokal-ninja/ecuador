@@ -1,5 +1,5 @@
 ---
 title: "Tecnicentro Ibarra Express"
-url: /ibarra/tecnicentro-ibarra-express/
+url: /ibarra/tecnicentro-ibarra-express-avenida-mariano-acosta/
 shop: general
 ---

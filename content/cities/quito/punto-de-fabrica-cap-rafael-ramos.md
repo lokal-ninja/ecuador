@@ -1,5 +1,5 @@
 ---
 title: "Punto de Fabrica"
-url: /quito/punto-de-fabrica/
+url: /quito/punto-de-fabrica-cap-rafael-ramos/
 shop: ropa
 ---

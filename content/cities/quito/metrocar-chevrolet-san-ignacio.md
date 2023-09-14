@@ -1,5 +1,5 @@
 ---
 title: "Metrocar Chevrolet"
-url: /quito/metrocar-chevrolet/
+url: /quito/metrocar-chevrolet-san-ignacio/
 shop: coche
 ---

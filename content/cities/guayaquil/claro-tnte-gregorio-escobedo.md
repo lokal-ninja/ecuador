@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /guayaquil/claro/
+url: /guayaquil/claro-tnte-gregorio-escobedo/
 shop: teléfono móvil
 ---

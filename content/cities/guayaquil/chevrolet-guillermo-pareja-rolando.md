@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
-url: /guayaquil/chevrolet/
+url: /guayaquil/chevrolet-guillermo-pareja-rolando/
 shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Radiadores"
-url: /quito/radiadores/
+url: /quito/radiadores-calle-machala/
 shop: reparación de automóviles
 ---

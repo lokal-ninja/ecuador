@@ -1,5 +1,5 @@
 ---
 title: "La Ganga"
-url: /quito/la-ganga/
+url: /quito/la-ganga-lizardo-ruiz/
 shop: electrónica
 ---

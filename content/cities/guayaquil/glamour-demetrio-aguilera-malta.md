@@ -1,5 +1,5 @@
 ---
 title: "Glamour"
-url: /guayaquil/glamour/
+url: /guayaquil/glamour-demetrio-aguilera-malta/
 shop: peluquería
 ---

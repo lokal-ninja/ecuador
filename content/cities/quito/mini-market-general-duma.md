@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
-url: /quito/mini-market/
+url: /quito/mini-market-general-duma/
 shop: comodidad
 ---

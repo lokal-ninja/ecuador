@@ -1,5 +1,5 @@
 ---
 title: "GeekSide"
-url: /loja-ecuador/geekside/
+url: /loja-ecuador/geekside-simon-bolivar/
 shop: ordenador
 ---

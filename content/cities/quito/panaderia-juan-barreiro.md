@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
-url: /quito/panaderia/
+url: /quito/panaderia-juan-barreiro/
 shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sastreria y Modas"
-url: /quito/sastreria-y-modas/
+url: /quito/sastreria-y-modas-republica/
 shop: sastre
 ---

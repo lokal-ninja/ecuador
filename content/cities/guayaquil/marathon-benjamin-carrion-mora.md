@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /guayaquil/marathon/
+url: /guayaquil/marathon-benjamin-carrion-mora/
 shop: deportes
 ---

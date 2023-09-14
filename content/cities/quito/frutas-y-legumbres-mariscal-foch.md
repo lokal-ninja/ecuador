@@ -1,5 +1,5 @@
 ---
 title: "Frutas y Legumbres"
-url: /quito/frutas-y-legumbres/
+url: /quito/frutas-y-legumbres-mariscal-foch/
 shop: frutería
 ---

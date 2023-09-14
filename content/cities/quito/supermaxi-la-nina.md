@@ -1,5 +1,5 @@
 ---
 title: "Supermaxi"
-url: /quito/supermaxi/
+url: /quito/supermaxi-la-nina/
 shop: supermercado
 ---

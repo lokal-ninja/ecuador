@@ -1,5 +1,5 @@
 ---
 title: "Alvarez"
-url: /guayaquil/alvarez/
+url: /guayaquil/alvarez-miguel-alcivar-vasquez/
 shop: coche
 ---

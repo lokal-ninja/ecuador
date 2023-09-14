@@ -1,5 +1,5 @@
 ---
 title: "Viveres Normita"
-url: /quito/viveres-normita/
+url: /quito/viveres-normita-chambo/
 shop: comodidad
 ---

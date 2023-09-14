@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /quito/movistar/
+url: /quito/movistar-avenida-la-coruna/
 shop: teléfono móvil
 ---

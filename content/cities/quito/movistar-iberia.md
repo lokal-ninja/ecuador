@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /quito/movistar/
+url: /quito/movistar-iberia/
 shop: teléfono móvil
 ---

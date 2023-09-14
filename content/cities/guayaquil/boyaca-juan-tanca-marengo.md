@@ -1,5 +1,5 @@
 ---
 title: "Boyacá"
-url: /guayaquil/boyaca/
+url: /guayaquil/boyaca-juan-tanca-marengo/
 shop: hágalo usted mismo
 ---

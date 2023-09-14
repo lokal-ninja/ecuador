@@ -1,5 +1,5 @@
 ---
 title: "California"
-url: /guayaquil/california/
+url: /guayaquil/california-monsenor-domingo-comin/
 shop: panadería
 ---

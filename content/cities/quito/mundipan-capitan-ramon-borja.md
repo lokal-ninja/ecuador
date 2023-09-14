@@ -1,5 +1,5 @@
 ---
 title: "Mundipan"
-url: /quito/mundipan/
+url: /quito/mundipan-capitan-ramon-borja/
 shop: panadería
 ---

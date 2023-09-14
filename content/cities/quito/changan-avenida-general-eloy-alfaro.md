@@ -1,5 +1,5 @@
 ---
 title: "Changan"
-url: /quito/changan/
+url: /quito/changan-avenida-general-eloy-alfaro/
 shop: coche
 ---

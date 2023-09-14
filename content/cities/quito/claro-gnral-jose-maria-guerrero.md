@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /quito/claro/
+url: /quito/claro-gnral-jose-maria-guerrero/
 shop: teléfono móvil
 ---

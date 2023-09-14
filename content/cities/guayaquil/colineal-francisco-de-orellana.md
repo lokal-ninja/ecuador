@@ -1,5 +1,5 @@
 ---
 title: "Colineal"
-url: /guayaquil/colineal/
+url: /guayaquil/colineal-francisco-de-orellana/
 shop: muebles
 ---

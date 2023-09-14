@@ -1,5 +1,5 @@
 ---
 title: "Escocesa"
-url: /quito/escocesa/
+url: /quito/escocesa-corazon/
 shop: panadería
 ---

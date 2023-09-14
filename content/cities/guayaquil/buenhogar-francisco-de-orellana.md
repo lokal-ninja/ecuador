@@ -1,5 +1,5 @@
 ---
 title: "Buenhogar"
-url: /guayaquil/buenhogar/
+url: /guayaquil/buenhogar-francisco-de-orellana/
 shop: general
 ---

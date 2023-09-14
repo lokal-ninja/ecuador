@@ -1,5 +1,5 @@
 ---
 title: "Artefacta"
-url: /quito/artefacta/
+url: /quito/artefacta-jose-maria-aleman/
 shop: aparato
 ---

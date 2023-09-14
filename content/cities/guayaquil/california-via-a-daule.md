@@ -1,5 +1,5 @@
 ---
 title: "California"
-url: /guayaquil/california/
+url: /guayaquil/california-via-a-daule/
 shop: panadería
 ---

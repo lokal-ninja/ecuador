@@ -1,5 +1,5 @@
 ---
 title: "Ferrisariato"
-url: /guayaquil/ferrisariato/
+url: /guayaquil/ferrisariato-francisco-de-orellana/
 shop: hardware
 ---

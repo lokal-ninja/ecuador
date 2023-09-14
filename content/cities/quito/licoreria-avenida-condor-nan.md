@@ -1,5 +1,5 @@
 ---
 title: "Licorería"
-url: /quito/licoreria/
+url: /quito/licoreria-avenida-condor-nan/
 shop: alcohol
 ---

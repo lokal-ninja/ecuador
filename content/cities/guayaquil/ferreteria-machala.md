@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
-url: /guayaquil/ferreteria/
+url: /guayaquil/ferreteria-machala/
 shop: general
 ---

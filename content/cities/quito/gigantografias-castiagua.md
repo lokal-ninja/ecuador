@@ -1,5 +1,5 @@
 ---
 title: "Gigantografias"
-url: /quito/gigantografias/
+url: /quito/gigantografias-castiagua/
 shop: copyshop
 ---

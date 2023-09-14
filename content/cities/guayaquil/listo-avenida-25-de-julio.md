@@ -1,5 +1,5 @@
 ---
 title: "Listo!"
-url: /guayaquil/listo/
+url: /guayaquil/listo-avenida-25-de-julio/
 shop: comodidad
 ---

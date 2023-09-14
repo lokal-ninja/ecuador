@@ -1,5 +1,5 @@
 ---
 title: "Electronica Digital Jaramillo"
-url: /loja-ecuador/electronica-digital-jaramillo/
+url: /loja-ecuador/electronica-digital-jaramillo-lourdes/
 shop: radiotecnia
 ---

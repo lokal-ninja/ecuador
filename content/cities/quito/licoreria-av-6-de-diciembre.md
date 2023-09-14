@@ -1,5 +1,5 @@
 ---
 title: "Licoreria"
-url: /quito/licoreria/
+url: /quito/licoreria-av-6-de-diciembre/
 shop: alcohol
 ---

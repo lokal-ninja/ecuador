@@ -1,5 +1,5 @@
 ---
 title: "Panificadora Ambato"
-url: /quito/panificadora-ambato/
+url: /quito/panificadora-ambato-giacomo-roca/
 shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pycca"
-url: /guayaquil/pycca/
+url: /guayaquil/pycca-victor-emilio-estrada-s/
 shop: grandes almacenes
 ---

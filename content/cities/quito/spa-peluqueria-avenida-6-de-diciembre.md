@@ -1,5 +1,5 @@
 ---
 title: "Spa Peluqueria"
-url: /quito/spa-peluqueria/
+url: /quito/spa-peluqueria-avenida-6-de-diciembre/
 shop: peluquería
 ---

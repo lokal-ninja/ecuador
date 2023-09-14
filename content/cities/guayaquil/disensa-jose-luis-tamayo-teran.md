@@ -1,5 +1,5 @@
 ---
 title: "Disensa"
-url: /guayaquil/disensa/
+url: /guayaquil/disensa-jose-luis-tamayo-teran/
 shop: general
 ---

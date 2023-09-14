@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
-url: /guayaquil/hyundai/
+url: /guayaquil/hyundai-avenida-carlos-julio-arosemena-tola/
 shop: coche
 ---

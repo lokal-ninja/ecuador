@@ -1,5 +1,5 @@
 ---
 title: "Disensa"
-url: /guayaquil/disensa/
+url: /guayaquil/disensa-via-perimetral-2/
 shop: hardware
 ---

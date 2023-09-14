@@ -1,5 +1,5 @@
 ---
 title: "Genesis"
-url: /quito/genesis/
+url: /quito/genesis-oe3k/
 shop: cama
 ---

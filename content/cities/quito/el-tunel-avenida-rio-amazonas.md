@@ -1,5 +1,5 @@
 ---
 title: "El Túnel"
-url: /quito/el-tunel/
+url: /quito/el-tunel-avenida-rio-amazonas/
 shop: panadería
 ---

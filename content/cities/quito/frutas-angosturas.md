@@ -1,5 +1,5 @@
 ---
 title: "Frutas"
-url: /quito/frutas/
+url: /quito/frutas-angosturas/
 shop: frutería
 ---

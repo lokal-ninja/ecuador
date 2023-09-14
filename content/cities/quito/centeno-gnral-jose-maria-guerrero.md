@@ -1,5 +1,5 @@
 ---
 title: "Centeno"
-url: /quito/centeno/
+url: /quito/centeno-gnral-jose-maria-guerrero/
 shop: panadería
 ---

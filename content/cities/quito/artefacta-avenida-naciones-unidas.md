@@ -1,5 +1,5 @@
 ---
 title: "Artefacta"
-url: /quito/artefacta/
+url: /quito/artefacta-avenida-naciones-unidas/
 shop: electrónica
 ---

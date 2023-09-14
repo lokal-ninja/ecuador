@@ -1,5 +1,5 @@
 ---
 title: "Viveres Carmita"
-url: /quito/viveres-carmita/
+url: /quito/viveres-carmita-de-los-pinos/
 shop: alcohol
 ---

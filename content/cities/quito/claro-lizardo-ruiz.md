@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /quito/claro/
+url: /quito/claro-lizardo-ruiz/
 shop: teléfono móvil
 ---

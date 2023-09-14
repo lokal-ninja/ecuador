@@ -1,5 +1,5 @@
 ---
 title: "Cabinas"
-url: /quito/cabinas/
+url: /quito/cabinas-avenida-del-maestro/
 shop: frutería
 ---

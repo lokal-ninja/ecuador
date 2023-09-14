@@ -1,5 +1,5 @@
 ---
 title: "Sociedad Funeraria Nacional"
-url: /quito/sociedad-funeraria-nacional/
+url: /quito/sociedad-funeraria-nacional-avenida-america/
 shop: directores de funerarias
 ---

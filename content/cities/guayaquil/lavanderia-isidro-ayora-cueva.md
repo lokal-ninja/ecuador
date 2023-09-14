@@ -1,5 +1,5 @@
 ---
 title: "Lavandería"
-url: /guayaquil/lavanderia/
+url: /guayaquil/lavanderia-isidro-ayora-cueva/
 shop: lavandería
 ---

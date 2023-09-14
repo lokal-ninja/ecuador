@@ -1,5 +1,5 @@
 ---
 title: "Bunky"
-url: /quito/bunky/
+url: /quito/bunky-ayapamba/
 shop: zapatos
 ---

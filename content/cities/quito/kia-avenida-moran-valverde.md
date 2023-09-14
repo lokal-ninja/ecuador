@@ -1,5 +1,5 @@
 ---
 title: "Kia"
-url: /quito/kia/
+url: /quito/kia-avenida-moran-valverde/
 shop: coche
 ---

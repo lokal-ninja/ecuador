@@ -1,5 +1,5 @@
 ---
 title: "Aceros Center"
-url: /quito/aceros-center/
+url: /quito/aceros-center-avenida-juan-molineros/
 shop: comercio
 ---

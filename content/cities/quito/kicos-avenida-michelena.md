@@ -1,5 +1,5 @@
 ---
 title: "Kicos"
-url: /quito/kicos/
+url: /quito/kicos-avenida-michelena/
 shop: general
 ---

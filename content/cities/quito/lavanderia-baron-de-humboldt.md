@@ -1,5 +1,5 @@
 ---
 title: "Lavandería"
-url: /quito/lavanderia/
+url: /quito/lavanderia-baron-de-humboldt/
 shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
-url: /guayaquil/nissan/
+url: /guayaquil/nissan-juan-tanca-marengo/
 shop: coche
 ---

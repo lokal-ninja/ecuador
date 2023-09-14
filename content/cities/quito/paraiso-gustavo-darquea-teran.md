@@ -1,5 +1,5 @@
 ---
 title: "Paraíso"
-url: /quito/paraiso/
+url: /quito/paraiso-gustavo-darquea-teran/
 shop: muebles
 ---

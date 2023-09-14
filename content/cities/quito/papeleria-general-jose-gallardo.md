@@ -1,5 +1,5 @@
 ---
 title: "Papeleria"
-url: /quito/papeleria/
+url: /quito/papeleria-general-jose-gallardo/
 shop: general
 ---

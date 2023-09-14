@@ -1,5 +1,5 @@
 ---
 title: "Japón"
-url: /guayaquil/japon/
+url: /guayaquil/japon-rodolfo-baquerizo-nazur/
 shop: electrónica
 ---

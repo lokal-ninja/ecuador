@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
-url: /quito/hyundai/
+url: /quito/hyundai-avenida-eloy-alfaro/
 shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autolujos"
-url: /quito/autolujos/
+url: /quito/autolujos-bellavista/
 shop: piezas de automóviles
 ---

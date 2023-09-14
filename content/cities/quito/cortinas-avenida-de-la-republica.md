@@ -1,5 +1,5 @@
 ---
 title: "Cortinas"
-url: /quito/cortinas/
+url: /quito/cortinas-avenida-de-la-republica/
 shop: cortina
 ---

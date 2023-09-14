@@ -1,5 +1,5 @@
 ---
 title: "Kywi"
-url: /quito/kywi/
+url: /quito/kywi-avenida-de-la-prensa/
 shop: hardware
 ---

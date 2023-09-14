@@ -1,5 +1,5 @@
 ---
 title: "Viveres"
-url: /quito/viveres/
+url: /quito/viveres-general-jose-gallardo/
 shop: comodidad
 ---

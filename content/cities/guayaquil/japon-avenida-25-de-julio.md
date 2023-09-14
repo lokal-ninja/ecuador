@@ -1,5 +1,5 @@
 ---
 title: "Japon"
-url: /guayaquil/japon/
+url: /guayaquil/japon-avenida-25-de-julio/
 shop: electrónica
 ---

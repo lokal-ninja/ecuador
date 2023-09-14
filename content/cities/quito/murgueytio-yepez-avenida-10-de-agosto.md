@@ -1,5 +1,5 @@
 ---
 title: "Murgueytio Yèpez"
-url: /quito/murgueytio-yepez/
+url: /quito/murgueytio-yepez-avenida-10-de-agosto/
 shop: hardware
 ---

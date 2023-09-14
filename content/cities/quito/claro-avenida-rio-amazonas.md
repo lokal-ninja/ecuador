@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /quito/claro/
+url: /quito/claro-avenida-rio-amazonas/
 shop: teléfono móvil
 ---

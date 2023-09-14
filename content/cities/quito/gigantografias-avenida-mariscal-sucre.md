@@ -1,5 +1,5 @@
 ---
 title: "Gigantografías"
-url: /quito/gigantografias/
+url: /quito/gigantografias-avenida-mariscal-sucre/
 shop: copyshop
 ---

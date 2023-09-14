@@ -1,5 +1,5 @@
 ---
 title: "Erco Tires"
-url: /quito/erco-tires/
+url: /quito/erco-tires-toledo/
 shop: neumáticos
 ---

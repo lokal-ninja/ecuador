@@ -1,5 +1,5 @@
 ---
 title: "Fotos"
-url: /quito/fotos/
+url: /quito/fotos-paris/
 shop: general
 ---

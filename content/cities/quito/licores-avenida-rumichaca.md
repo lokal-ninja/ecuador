@@ -1,5 +1,5 @@
 ---
 title: "Licores"
-url: /quito/licores/
+url: /quito/licores-avenida-rumichaca/
 shop: alcohol
 ---

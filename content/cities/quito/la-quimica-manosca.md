@@ -1,5 +1,5 @@
 ---
 title: "La Química"
-url: /quito/la-quimica/
+url: /quito/la-quimica-manosca/
 shop: lavandería
 ---

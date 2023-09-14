@@ -1,5 +1,5 @@
 ---
 title: "Mi Comisariato"
-url: /guayaquil/mi-comisariato/
+url: /guayaquil/mi-comisariato-victor-emilio-estrada-s/
 shop: supermercado
 ---

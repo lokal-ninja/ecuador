@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /quito/movistar/
+url: /quito/movistar-luis-cordero/
 shop: teléfono móvil
 ---
