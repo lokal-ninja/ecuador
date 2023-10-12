@@ -1,6 +1,6 @@
 ---
 title: Pimampiro
 url: /pimampiro/
-latitude: 0.392
-longitude: -77.94
+latitude: 0.39
+longitude: -77.941
 ---
