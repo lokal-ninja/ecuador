@@ -1,5 +1,5 @@
 ---
-title: "La reforma"
+title: "LA REFORMA"
 url: /loja-ecuador/la-reforma/
 shop: libros
 ---
