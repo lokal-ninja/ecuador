@@ -1,6 +1,6 @@
 ---
 title: Cumbayá
 url: /cumbaya/
-latitude: -0.198
-longitude: -78.436
+latitude: -0.197
+longitude: -78.427
 ---
