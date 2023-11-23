@@ -1,5 +1,5 @@
 ---
 title: "Domremi"
 url: /guayaquil/domremi/
-shop: general
+shop: panadería
 ---
