@@ -1,5 +1,5 @@
 ---
 title: "Gigantografias"
-url: /quito/gigantografias-avenida-america/
+url: /quito/gigantografias-pedro-de-alfaro/
 shop: general
 ---

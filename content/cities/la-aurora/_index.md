@@ -1,6 +1,6 @@
 ---
 title: La Aurora
 url: /la-aurora/
-latitude: -2.052
-longitude: -79.883
+latitude: -2.053
+longitude: -79.88
 ---
