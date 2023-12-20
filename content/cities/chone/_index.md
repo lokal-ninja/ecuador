@@ -1,6 +1,6 @@
 ---
-title: CHONE
+title: Chone
 url: /chone/
-latitude: -0.698
-longitude: -80.114
+latitude: -0.697
+longitude: -80.092
 ---
