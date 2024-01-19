@@ -1,5 +1,5 @@
 ---
 title: "Artefacta"
 url: /quito/artefacta/
-shop: electrónica
+shop: aparato
 ---
