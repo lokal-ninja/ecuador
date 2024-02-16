@@ -1,6 +1,6 @@
 ---
-title: Samborondon
+title: Samborondón
 url: /samborondon/
-latitude: -2.072
-longitude: -79.873
+latitude: -2.11
+longitude: -79.872
 ---
