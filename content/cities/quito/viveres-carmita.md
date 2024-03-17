@@ -1,5 +1,5 @@
 ---
-title: "Víveres Carmita"
+title: "Viveres Carmita"
 url: /quito/viveres-carmita/
-shop: general
+shop: comodidad
 ---
