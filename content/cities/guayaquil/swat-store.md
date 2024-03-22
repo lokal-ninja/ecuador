@@ -1,5 +1,5 @@
 ---
 title: "Swat Store"
 url: /guayaquil/swat-store/
-shop: armas
+shop: general
 ---

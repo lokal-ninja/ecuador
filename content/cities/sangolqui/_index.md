@@ -1,6 +1,6 @@
 ---
 title: Sangolquí
 url: /sangolqui/
-latitude: -0.329
-longitude: -78.451
+latitude: -0.328
+longitude: -78.45
 ---
