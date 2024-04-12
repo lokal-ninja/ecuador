@@ -1,5 +1,5 @@
 ---
 title: "Aceros Center"
 url: /quito/aceros-center/
-shop: general
+shop: reparación de automóviles
 ---
