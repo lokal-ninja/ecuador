@@ -1,5 +1,5 @@
 ---
-title: "Avícola Fernández"
+title: "Avicola Fernandez"
 url: /guayaquil/avicola-fernandez/
-shop: supermercado
+shop: alimentación sana
 ---
