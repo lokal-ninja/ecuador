@@ -1,5 +1,5 @@
 ---
 title: "Rapi-Frenos"
 url: /quito/rapi-frenos/
-shop: general
+shop: reparación de automóviles
 ---
