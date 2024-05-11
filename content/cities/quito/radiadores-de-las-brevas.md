@@ -1,5 +1,5 @@
 ---
 title: "Radiadores"
-url: /quito/radiadores-ayapamba/
+url: /quito/radiadores-de-las-brevas/
 shop: reparación de automóviles
 ---
