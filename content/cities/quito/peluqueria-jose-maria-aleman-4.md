@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
-url: /quito/peluqueria-avenida-america-2/
+url: /quito/peluqueria-jose-maria-aleman-4/
 shop: peluquería
 ---
