@@ -1,6 +1,6 @@
 ---
 title: Javier Loyola
 url: /javier-loyola/
-latitude: -2.804
-longitude: -78.882
+latitude: -2.807
+longitude: -78.874
 ---
