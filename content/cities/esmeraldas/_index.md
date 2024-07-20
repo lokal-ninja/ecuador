@@ -1,6 +1,6 @@
 ---
 title: Esmeraldas
 url: /esmeraldas/
-latitude: 0.933
-longitude: -79.67
+latitude: 0.907
+longitude: -79.691
 ---
