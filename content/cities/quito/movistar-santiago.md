@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /quito/movistar-e6c/
+url: /quito/movistar-santiago/
 shop: general
 ---
