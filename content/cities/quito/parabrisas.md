@@ -1,5 +1,5 @@
 ---
 title: "Parabrisas"
 url: /quito/parabrisas/
-shop: general
+shop: piezas de automóviles
 ---
