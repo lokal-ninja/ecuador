@@ -1,5 +1,5 @@
 ---
 title: "Don Can"
 url: /conocoto/don-can/
-shop: mascotas
+shop: Tiere
 ---

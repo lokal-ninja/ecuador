@@ -1,5 +1,5 @@
 ---
 title: "MUNDOLLANTAS"
 url: /quito/mundollantas/
-shop: neumáticos
+shop: Reifen
 ---

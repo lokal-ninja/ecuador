@@ -1,5 +1,5 @@
 ---
 title: "Katty"
 url: /ciudadela-ibarra/katty/
-shop: zapatos
+shop: Schuhe
 ---

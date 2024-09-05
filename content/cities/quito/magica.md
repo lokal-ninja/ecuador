@@ -1,5 +1,5 @@
 ---
 title: "Magica"
 url: /quito/magica/
-shop: lavandería
+shop: Wäscherei
 ---

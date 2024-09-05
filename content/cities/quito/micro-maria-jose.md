@@ -1,5 +1,5 @@
 ---
 title: "Micro Maria Jose"
 url: /quito/micro-maria-jose/
-shop: comodidad
+shop: Lebensmittel
 ---

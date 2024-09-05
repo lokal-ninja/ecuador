@@ -1,5 +1,5 @@
 ---
 title: "Dolupa"
 url: /guayaquil/dolupa/
-shop: pastelería
+shop: Konditorei
 ---

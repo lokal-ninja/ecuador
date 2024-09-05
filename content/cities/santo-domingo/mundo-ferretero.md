@@ -1,5 +1,5 @@
 ---
 title: "Mundo Ferretero"
 url: /santo-domingo/mundo-ferretero/
-shop: hardware
+shop: Eisenwaren
 ---

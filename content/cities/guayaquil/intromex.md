@@ -1,5 +1,5 @@
 ---
 title: "Intromex"
 url: /guayaquil/intromex/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frutería María"
 url: /quito/fruteria-maria/
-shop: quiosco
+shop: Kiosk
 ---

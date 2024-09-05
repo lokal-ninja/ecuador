@@ -1,5 +1,5 @@
 ---
 title: "Meiji"
 url: /quito/meiji/
-shop: cosméticos
+shop: Kosmetik
 ---

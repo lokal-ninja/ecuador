@@ -1,5 +1,5 @@
 ---
 title: "Ecuacerámica"
 url: /quito/ecuaceramica-avenida-el-inca/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salud Natural"
 url: /quito/salud-natural/
-shop: frutería
+shop: Gemüse & Obst
 ---

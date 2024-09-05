@@ -1,5 +1,5 @@
 ---
 title: "Stylos"
 url: /ciudadela-ibarra/stylos/
-shop: peluquería
+shop: Friseur
 ---

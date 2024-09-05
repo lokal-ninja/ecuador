@@ -1,5 +1,5 @@
 ---
 title: "Distruta"
 url: /quito/distruta/
-shop: general
+shop: Allgemein
 ---

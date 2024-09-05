@@ -1,5 +1,5 @@
 ---
 title: "Pa'pies"
 url: /quito/papies/
-shop: ropa
+shop: Kleidung
 ---

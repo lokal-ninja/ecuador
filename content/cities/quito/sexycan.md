@@ -1,5 +1,5 @@
 ---
 title: "SexyCan"
 url: /quito/sexycan/
-shop: general
+shop: Allgemein
 ---

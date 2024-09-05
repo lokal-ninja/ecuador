@@ -1,5 +1,5 @@
 ---
 title: "Hitome"
 url: /quito/hitome/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Megasoft"
 url: /cuenca/megasoft/
-shop: ordenador
+shop: Computer
 ---

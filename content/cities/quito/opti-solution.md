@@ -1,5 +1,5 @@
 ---
 title: "Opti Solution"
 url: /quito/opti-solution/
-shop: óptico
+shop: Optiker
 ---

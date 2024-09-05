@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Espin"
 url: /quito/ferreteria-espin/
-shop: hardware
+shop: Eisenwaren
 ---

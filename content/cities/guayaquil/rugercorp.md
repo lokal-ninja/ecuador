@@ -1,5 +1,5 @@
 ---
 title: "Rugercorp"
 url: /guayaquil/rugercorp/
-shop: general
+shop: Allgemein
 ---

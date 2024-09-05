@@ -1,5 +1,5 @@
 ---
 title: "Tuti"
 url: /guayaquil/tuti/
-shop: supermercado
+shop: Supermarkt
 ---

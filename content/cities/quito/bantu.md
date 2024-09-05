@@ -1,5 +1,5 @@
 ---
 title: "Bantu"
 url: /quito/bantu/
-shop: pintura
+shop: Farben
 ---

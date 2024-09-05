@@ -1,5 +1,5 @@
 ---
 title: "Love Me"
 url: /quito/love-me/
-shop: ropa
+shop: Kleidung
 ---

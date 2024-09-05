@@ -1,5 +1,5 @@
 ---
 title: "PYCCA"
 url: /milagro/pycca/
-shop: supermercado
+shop: Supermarkt
 ---

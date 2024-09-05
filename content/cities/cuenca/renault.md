@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /cuenca/renault/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cortinas"
 url: /quito/cortinas-de-los-pinos/
-shop: cortina
+shop: Gardinen
 ---

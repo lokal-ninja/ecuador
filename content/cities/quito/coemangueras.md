@@ -1,5 +1,5 @@
 ---
 title: "Coemangueras"
 url: /quito/coemangueras/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kelly"
 url: /quito/kelly/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alemaña"
 url: /conocoto/alemana/
-shop: lavandería
+shop: Wäscherei
 ---

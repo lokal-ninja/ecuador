@@ -1,5 +1,5 @@
 ---
 title: "CompuMax"
 url: /puyo/compumax/
-shop: ordenador
+shop: Computer
 ---

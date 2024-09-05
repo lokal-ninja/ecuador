@@ -1,5 +1,5 @@
 ---
 title: "Credimuebles"
 url: /conocoto/credimuebles/
-shop: muebles
+shop: Möbel
 ---

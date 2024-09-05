@@ -1,5 +1,5 @@
 ---
 title: "Chaide"
 url: /daule/chaide/
-shop: cama
+shop: Betten
 ---

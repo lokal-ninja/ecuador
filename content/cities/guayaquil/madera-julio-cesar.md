@@ -1,5 +1,5 @@
 ---
 title: "Madera Julio César"
 url: /guayaquil/madera-julio-cesar/
-shop: general
+shop: Allgemein
 ---

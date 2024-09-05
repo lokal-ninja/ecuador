@@ -1,5 +1,5 @@
 ---
 title: "Continental"
 url: /guayaquil/continental/
-shop: general
+shop: Allgemein
 ---

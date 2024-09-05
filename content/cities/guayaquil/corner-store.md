@@ -1,5 +1,5 @@
 ---
 title: "Corner Store"
 url: /guayaquil/corner-store/
-shop: comodidad
+shop: Lebensmittel
 ---

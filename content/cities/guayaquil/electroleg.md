@@ -1,5 +1,5 @@
 ---
 title: "Electroleg"
 url: /guayaquil/electroleg/
-shop: eléctrico
+shop: Elektrisch
 ---

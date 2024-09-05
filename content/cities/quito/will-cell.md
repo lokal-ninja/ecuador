@@ -1,5 +1,5 @@
 ---
 title: "Will Cell"
 url: /quito/will-cell/
-shop: teléfono móvil
+shop: Handy
 ---

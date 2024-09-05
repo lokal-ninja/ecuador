@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial El Salto"
 url: /latacunga/centro-comercial-el-salto/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maximetales"
 url: /guayaquil/maximetales/
-shop: hardware
+shop: Eisenwaren
 ---

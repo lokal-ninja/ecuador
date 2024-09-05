@@ -1,5 +1,5 @@
 ---
 title: "Bertero"
 url: /quito/bertero/
-shop: ropa
+shop: Kleidung
 ---

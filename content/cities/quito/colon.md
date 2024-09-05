@@ -1,5 +1,5 @@
 ---
 title: "Colon"
 url: /quito/colon/
-shop: copyshop
+shop: Kopieren
 ---

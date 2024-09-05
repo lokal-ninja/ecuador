@@ -1,5 +1,5 @@
 ---
 title: "Cabinas Telefónicas"
 url: /quito/cabinas-telefonicas/
-shop: general
+shop: Allgemein
 ---

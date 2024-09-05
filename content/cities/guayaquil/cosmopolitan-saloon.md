@@ -1,5 +1,5 @@
 ---
 title: "Cosmopolitan Saloon"
 url: /guayaquil/cosmopolitan-saloon/
-shop: peluquería
+shop: Friseur
 ---

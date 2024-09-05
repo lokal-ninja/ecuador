@@ -1,5 +1,5 @@
 ---
 title: "Sandy"
 url: /quito/sandy/
-shop: cosméticos
+shop: Kosmetik
 ---

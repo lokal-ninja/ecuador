@@ -1,5 +1,5 @@
 ---
 title: "Interfashion Spa"
 url: /guayaquil/interfashion-spa/
-shop: masaje
+shop: Massage
 ---

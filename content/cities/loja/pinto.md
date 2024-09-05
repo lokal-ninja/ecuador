@@ -1,5 +1,5 @@
 ---
 title: "PINTO"
 url: /loja/pinto/
-shop: ropa
+shop: Kleidung
 ---

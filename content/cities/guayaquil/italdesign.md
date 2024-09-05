@@ -1,5 +1,5 @@
 ---
 title: "ItalDesign"
 url: /guayaquil/italdesign/
-shop: tienda
+shop: Modehaus
 ---

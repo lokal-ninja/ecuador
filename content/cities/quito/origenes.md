@@ -1,5 +1,5 @@
 ---
 title: "Origenes"
 url: /quito/origenes/
-shop: general
+shop: Allgemein
 ---

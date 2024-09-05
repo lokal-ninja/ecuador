@@ -1,5 +1,5 @@
 ---
 title: "Double Coin Tyres"
 url: /guayaquil/double-coin-tyres/
-shop: neumáticos
+shop: Reifen
 ---

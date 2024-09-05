@@ -1,5 +1,5 @@
 ---
 title: "Amarilis"
 url: /quito/amarilis/
-shop: floristería
+shop: Blumen
 ---

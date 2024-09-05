@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /ambato/peugeot/
-shop: coche
+shop: Autohaus
 ---

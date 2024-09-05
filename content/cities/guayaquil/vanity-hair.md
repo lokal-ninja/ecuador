@@ -1,5 +1,5 @@
 ---
 title: "Vanity Hair"
 url: /guayaquil/vanity-hair/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kywi"
 url: /quito/kywi/
-shop: hardware
+shop: Eisenwaren
 ---

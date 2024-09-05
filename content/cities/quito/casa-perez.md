@@ -1,5 +1,5 @@
 ---
 title: "Casa Perez"
 url: /quito/casa-perez/
-shop: electrónica
+shop: Elektronik
 ---

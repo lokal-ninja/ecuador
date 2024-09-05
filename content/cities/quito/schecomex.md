@@ -1,5 +1,5 @@
 ---
 title: "Schecomex"
 url: /quito/schecomex/
-shop: hardware
+shop: Eisenwaren
 ---

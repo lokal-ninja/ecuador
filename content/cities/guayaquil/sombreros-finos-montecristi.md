@@ -1,5 +1,5 @@
 ---
 title: "Sombreros Finos Montecristi"
 url: /guayaquil/sombreros-finos-montecristi/
-shop: general
+shop: Allgemein
 ---

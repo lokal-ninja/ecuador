@@ -1,5 +1,5 @@
 ---
 title: "Hormipisos"
 url: /guayaquil/hormipisos/
-shop: suelos
+shop: Fußböden
 ---

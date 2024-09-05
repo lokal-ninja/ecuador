@@ -1,5 +1,5 @@
 ---
 title: "Reina del Cisne"
 url: /zumba/reina-del-cisne/
-shop: panadería
+shop: Bäckerei
 ---

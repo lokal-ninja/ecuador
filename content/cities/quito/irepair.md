@@ -1,5 +1,5 @@
 ---
 title: "iRepair"
 url: /quito/irepair/
-shop: ordenador
+shop: Computer
 ---

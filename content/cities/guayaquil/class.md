@@ -1,5 +1,5 @@
 ---
 title: "Class"
 url: /guayaquil/class/
-shop: coche
+shop: Autohaus
 ---

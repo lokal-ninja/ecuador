@@ -1,5 +1,5 @@
 ---
 title: "Insuasty"
 url: /quito/insuasty/
-shop: peluquería
+shop: Friseur
 ---

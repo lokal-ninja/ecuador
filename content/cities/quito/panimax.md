@@ -1,5 +1,5 @@
 ---
 title: "Panimax"
 url: /quito/panimax/
-shop: comodidad
+shop: Lebensmittel
 ---

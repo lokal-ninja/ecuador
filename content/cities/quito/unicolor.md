@@ -1,5 +1,5 @@
 ---
 title: "Unicolor"
 url: /quito/unicolor/
-shop: pintura
+shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Palacio de Mueble"
 url: /quito/el-palacio-de-mueble/
-shop: muebles
+shop: Möbel
 ---

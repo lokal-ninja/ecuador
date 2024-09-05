@@ -1,5 +1,5 @@
 ---
 title: "El Mercadito"
 url: /zumba/el-mercadito/
-shop: frutería
+shop: Gemüse & Obst
 ---

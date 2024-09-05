@@ -1,5 +1,5 @@
 ---
 title: "Marmoles Granitos"
 url: /quito/marmoles-granitos/
-shop: general
+shop: Allgemein
 ---

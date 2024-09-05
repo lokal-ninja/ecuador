@@ -1,5 +1,5 @@
 ---
 title: "Camisetas"
 url: /quito/camisetas/
-shop: general
+shop: Allgemein
 ---

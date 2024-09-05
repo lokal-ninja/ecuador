@@ -1,5 +1,5 @@
 ---
 title: "Ecomobilia"
 url: /quito/ecomobilia/
-shop: cocina
+shop: Küchen
 ---

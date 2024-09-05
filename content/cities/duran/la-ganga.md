@@ -1,5 +1,5 @@
 ---
 title: "La Ganga"
 url: /duran/la-ganga/
-shop: electrónica
+shop: Elektronik
 ---

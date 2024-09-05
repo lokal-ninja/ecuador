@@ -1,5 +1,5 @@
 ---
 title: "Arciblock"
 url: /loja-ecuador/arciblock/
-shop: comercio
+shop: Baustoffe
 ---

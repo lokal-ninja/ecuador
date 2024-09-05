@@ -1,5 +1,5 @@
 ---
 title: "Coneca"
 url: /guayaquil/coneca/
-shop: coche
+shop: Autohaus
 ---

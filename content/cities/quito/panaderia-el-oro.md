@@ -1,5 +1,5 @@
 ---
 title: "Panaderia El Oro"
 url: /quito/panaderia-el-oro/
-shop: panadería
+shop: Bäckerei
 ---

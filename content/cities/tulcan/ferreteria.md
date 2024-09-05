@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /tulcan/ferreteria/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centeno"
 url: /quito/centeno/
-shop: panadería
+shop: Bäckerei
 ---

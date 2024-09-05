@@ -1,5 +1,5 @@
 ---
 title: "Centro de Copiado"
 url: /quito/centro-de-copiado/
-shop: copyshop
+shop: Kopieren
 ---

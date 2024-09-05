@@ -1,5 +1,5 @@
 ---
 title: "TIA Olmedo"
 url: /guayaquil/tia-olmedo/
-shop: supermercado
+shop: Supermarkt
 ---

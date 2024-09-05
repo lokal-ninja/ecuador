@@ -1,5 +1,5 @@
 ---
 title: "Planet Tecno"
 url: /loja/planet-tecno/
-shop: ordenador
+shop: Computer
 ---

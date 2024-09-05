@@ -1,5 +1,5 @@
 ---
 title: "Lojacar"
 url: /loja-ecuador/lojacar/
-shop: coche
+shop: Autohaus
 ---

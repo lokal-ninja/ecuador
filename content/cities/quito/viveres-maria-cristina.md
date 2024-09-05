@@ -1,5 +1,5 @@
 ---
 title: "Viveres Maria Cristina"
 url: /quito/viveres-maria-cristina/
-shop: comodidad
+shop: Lebensmittel
 ---

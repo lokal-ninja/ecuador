@@ -1,5 +1,5 @@
 ---
 title: "Codisur"
 url: /sangolqui/codisur/
-shop: muebles
+shop: Möbel
 ---

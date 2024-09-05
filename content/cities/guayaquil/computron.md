@@ -1,5 +1,5 @@
 ---
 title: "Computron"
 url: /guayaquil/computron/
-shop: ordenador
+shop: Computer
 ---

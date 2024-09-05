@@ -1,5 +1,5 @@
 ---
 title: "Lojagas"
 url: /alamor/lojagas/
-shop: gas
+shop: Gasflaschen
 ---

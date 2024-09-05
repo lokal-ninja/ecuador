@@ -1,5 +1,5 @@
 ---
 title: "Kerámikos"
 url: /quito/keramikos/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

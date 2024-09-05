@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Ecolaundry"
 url: /quito/lavanderia-ecolaundry/
-shop: lavandería
+shop: Wäscherei
 ---

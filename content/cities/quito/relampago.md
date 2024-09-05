@@ -1,5 +1,5 @@
 ---
 title: "Relámpago"
 url: /quito/relampago/
-shop: panadería
+shop: Bäckerei
 ---

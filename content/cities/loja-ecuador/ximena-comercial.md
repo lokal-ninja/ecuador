@@ -1,5 +1,5 @@
 ---
 title: "Ximena Comercial"
 url: /loja-ecuador/ximena-comercial/
-shop: supermercado
+shop: Supermarkt
 ---

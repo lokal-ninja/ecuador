@@ -1,5 +1,5 @@
 ---
 title: "Trajes"
 url: /guayaquil/trajes/
-shop: sastre
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Despensa Elihet"
 url: /quito/despensa-elihet/
-shop: comodidad
+shop: Lebensmittel
 ---

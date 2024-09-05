@@ -1,5 +1,5 @@
 ---
 title: "Capia"
 url: /guayaquil/capia/
-shop: general
+shop: Allgemein
 ---

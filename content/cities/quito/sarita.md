@@ -1,5 +1,5 @@
 ---
 title: "Sarita"
 url: /quito/sarita/
-shop: frutería
+shop: Gemüse & Obst
 ---

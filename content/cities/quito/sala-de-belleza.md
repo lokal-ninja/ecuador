@@ -1,5 +1,5 @@
 ---
 title: "Sala De Belleza"
 url: /quito/sala-de-belleza/
-shop: cosméticos
+shop: Kosmetik
 ---

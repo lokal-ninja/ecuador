@@ -1,5 +1,5 @@
 ---
 title: "Acrilunas"
 url: /quito/acrilunas/
-shop: general
+shop: Allgemein
 ---

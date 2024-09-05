@@ -1,5 +1,5 @@
 ---
 title: "Calzado Riofrio Sport"
 url: /quito/calzado-riofrio-sport/
-shop: zapatos
+shop: Schuhe
 ---

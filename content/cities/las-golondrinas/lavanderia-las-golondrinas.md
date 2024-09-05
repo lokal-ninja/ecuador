@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia Las Golondrinas"
 url: /las-golondrinas/lavanderia-las-golondrinas/
-shop: lavandería
+shop: Wäscherei
 ---

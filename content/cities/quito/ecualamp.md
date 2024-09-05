@@ -1,5 +1,5 @@
 ---
 title: "Ecualamp"
 url: /quito/ecualamp/
-shop: eléctrico
+shop: Elektrisch
 ---

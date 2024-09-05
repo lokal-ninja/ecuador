@@ -1,5 +1,5 @@
 ---
 title: "HRV"
 url: /quito/hrv/
-shop: artesanía
+shop: Basteln
 ---

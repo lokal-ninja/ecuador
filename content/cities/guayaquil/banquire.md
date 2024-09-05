@@ -1,5 +1,5 @@
 ---
 title: "Banquire"
 url: /guayaquil/banquire/
-shop: general
+shop: Allgemein
 ---

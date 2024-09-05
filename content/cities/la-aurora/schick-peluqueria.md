@@ -1,5 +1,5 @@
 ---
 title: "Schick  Peluqueria"
 url: /la-aurora/schick-peluqueria/
-shop: peluquería
+shop: Friseur
 ---

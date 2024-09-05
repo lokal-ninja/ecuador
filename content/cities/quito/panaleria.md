@@ -1,5 +1,5 @@
 ---
 title: "Panaleria"
 url: /quito/panaleria/
-shop: general
+shop: Allgemein
 ---

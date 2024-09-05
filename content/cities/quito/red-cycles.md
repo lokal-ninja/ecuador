@@ -1,5 +1,5 @@
 ---
 title: "Red Cycles"
 url: /quito/red-cycles/
-shop: bicicleta
+shop: Fahrrad
 ---

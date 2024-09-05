@@ -1,5 +1,5 @@
 ---
 title: "Technicolor"
 url: /quito/technicolor/
-shop: pintura
+shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hunter Conexiones"
 url: /guayaquil/hunter-conexiones/
-shop: general
+shop: Allgemein
 ---

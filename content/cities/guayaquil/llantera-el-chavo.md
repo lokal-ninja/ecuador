@@ -1,5 +1,5 @@
 ---
 title: "Llantera El Chavo"
 url: /guayaquil/llantera-el-chavo/
-shop: neumáticos
+shop: Reifen
 ---

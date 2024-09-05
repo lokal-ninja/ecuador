@@ -1,5 +1,5 @@
 ---
 title: "Mueblería"
 url: /ambato/muebleria/
-shop: óptico
+shop: Optiker
 ---

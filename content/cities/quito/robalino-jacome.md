@@ -1,5 +1,5 @@
 ---
 title: "Robalino Jacome"
 url: /quito/robalino-jacome/
-shop: lámparas
+shop: Lampen
 ---

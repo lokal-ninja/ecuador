@@ -1,5 +1,5 @@
 ---
 title: "Roshfrans"
 url: /quito/roshfrans/
-shop: general
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
-title: Pörtoviejo
+title: Portoviejo
 url: /portoviejo/
-latitude: -1.05
-longitude: -80.464
+latitude: -1.056
+longitude: -80.46
 ---

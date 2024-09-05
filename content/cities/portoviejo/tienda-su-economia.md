@@ -1,5 +1,5 @@
 ---
 title: "Tienda Su Economía"
 url: /portoviejo/tienda-su-economia/
-shop: general
+shop: Allgemein
 ---

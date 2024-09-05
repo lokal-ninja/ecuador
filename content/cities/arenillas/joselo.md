@@ -1,5 +1,5 @@
 ---
 title: "Joselo"
 url: /arenillas/joselo/
-shop: general
+shop: Allgemein
 ---

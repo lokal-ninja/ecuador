@@ -1,5 +1,5 @@
 ---
 title: "Colchones Paraíso"
 url: /quito/colchones-paraiso/
-shop: cama
+shop: Betten
 ---

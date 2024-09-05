@@ -1,5 +1,5 @@
 ---
 title: "Sastrología"
 url: /guayaquil/sastrologia/
-shop: sastre
+shop: Schneiderei
 ---

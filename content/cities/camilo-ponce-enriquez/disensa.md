@@ -1,5 +1,5 @@
 ---
 title: "Disensa"
 url: /camilo-ponce-enriquez/disensa/
-shop: hardware
+shop: Eisenwaren
 ---

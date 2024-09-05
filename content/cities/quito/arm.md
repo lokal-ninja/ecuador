@@ -1,5 +1,5 @@
 ---
 title: "arm"
 url: /quito/arm/
-shop: muebles
+shop: Möbel
 ---

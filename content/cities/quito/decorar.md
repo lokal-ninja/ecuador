@@ -1,5 +1,5 @@
 ---
 title: "Decorar"
 url: /quito/decorar/
-shop: general
+shop: Allgemein
 ---

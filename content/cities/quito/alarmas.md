@@ -1,5 +1,5 @@
 ---
 title: "Alarmas"
 url: /quito/alarmas/
-shop: general
+shop: Allgemein
 ---

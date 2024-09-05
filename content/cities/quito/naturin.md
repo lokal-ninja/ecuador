@@ -1,5 +1,5 @@
 ---
 title: "NATURIN"
 url: /quito/naturin/
-shop: supermercado
+shop: Supermarkt
 ---

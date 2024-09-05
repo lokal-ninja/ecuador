@@ -1,5 +1,5 @@
 ---
 title: "Impex"
 url: /guayaquil/impex/
-shop: general
+shop: Allgemein
 ---

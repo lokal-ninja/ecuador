@@ -1,5 +1,5 @@
 ---
 title: "Emprovit"
 url: /quito/emprovit/
-shop: general
+shop: Allgemein
 ---

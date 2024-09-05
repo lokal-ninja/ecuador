@@ -1,5 +1,5 @@
 ---
 title: "Frutas Frescas"
 url: /quito/frutas-frescas/
-shop: frutería
+shop: Gemüse & Obst
 ---

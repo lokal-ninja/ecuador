@@ -1,5 +1,5 @@
 ---
 title: "Donbo"
 url: /guayaquil/donbo/
-shop: general
+shop: Allgemein
 ---

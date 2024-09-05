@@ -1,5 +1,5 @@
 ---
 title: "Galerías Su Casa"
 url: /samborondon/galerias-su-casa/
-shop: muebles
+shop: Möbel
 ---

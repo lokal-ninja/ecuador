@@ -1,5 +1,5 @@
 ---
 title: "Ikon"
 url: /quito/ikon/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zaruma"
 url: /quito/zaruma/
-shop: piezas de automóviles
+shop: Autoteile
 ---

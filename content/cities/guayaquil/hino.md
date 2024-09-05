@@ -1,5 +1,5 @@
 ---
 title: "Hino"
 url: /guayaquil/hino/
-shop: coche
+shop: Autohaus
 ---

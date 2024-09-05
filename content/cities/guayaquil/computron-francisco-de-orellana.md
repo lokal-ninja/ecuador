@@ -1,5 +1,5 @@
 ---
 title: "Computron"
 url: /guayaquil/computron-francisco-de-orellana/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MiniMarket La Chinita"
 url: /quito/minimarket-la-chinita/
-shop: comodidad
+shop: Lebensmittel
 ---

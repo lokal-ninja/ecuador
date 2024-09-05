@@ -1,5 +1,5 @@
 ---
 title: "Pintulac La Campiña"
 url: /manta/pintulac-la-campina/
-shop: pintura
+shop: Farben
 ---

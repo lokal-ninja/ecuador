@@ -1,5 +1,5 @@
 ---
 title: "Ecuaceramica"
 url: /guayaquil/ecuaceramica/
-shop: cerámica
+shop: Töpferei
 ---

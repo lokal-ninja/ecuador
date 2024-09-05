@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Y Libreria"
 url: /quito/papeleria-y-libreria/
-shop: comodidad
+shop: Lebensmittel
 ---

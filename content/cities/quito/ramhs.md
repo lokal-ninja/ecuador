@@ -1,5 +1,5 @@
 ---
 title: "Ramhs"
 url: /quito/ramhs/
-shop: hardware
+shop: Eisenwaren
 ---

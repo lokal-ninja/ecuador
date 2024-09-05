@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora López"
 url: /santo-domingo/distribuidora-lopez/
-shop: hardware
+shop: Eisenwaren
 ---

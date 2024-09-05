@@ -1,5 +1,5 @@
 ---
 title: "Induwagen"
 url: /guayaquil/induwagen/
-shop: coche
+shop: Autohaus
 ---

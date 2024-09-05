@@ -1,5 +1,5 @@
 ---
 title: "Mooié"
 url: /quito/mooie/
-shop: chocolate
+shop: Schokolade
 ---

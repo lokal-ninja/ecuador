@@ -1,5 +1,5 @@
 ---
 title: "Solmatic"
 url: /quito/solmatic/
-shop: lavandería
+shop: Wäscherei
 ---

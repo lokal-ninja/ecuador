@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Clásica Montoya"
 url: /loja-ecuador/peluqueria-clasica-montoya/
-shop: peluquería
+shop: Friseur
 ---

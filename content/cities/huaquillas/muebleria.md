@@ -1,5 +1,5 @@
 ---
 title: "Muebleria"
 url: /huaquillas/muebleria/
-shop: muebles
+shop: Möbel
 ---

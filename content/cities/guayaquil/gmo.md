@@ -1,5 +1,5 @@
 ---
 title: "GMO"
 url: /guayaquil/gmo/
-shop: óptico
+shop: Optiker
 ---

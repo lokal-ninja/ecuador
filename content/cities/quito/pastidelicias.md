@@ -1,5 +1,5 @@
 ---
 title: "Pastidelicias"
 url: /quito/pastidelicias/
-shop: pastelería
+shop: Konditorei
 ---

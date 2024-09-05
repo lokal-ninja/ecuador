@@ -1,5 +1,5 @@
 ---
 title: "Compromisos"
 url: /quito/compromisos/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Las Carabelas"
 url: /quito/tienda-las-carabelas/
-shop: comodidad
+shop: Lebensmittel
 ---

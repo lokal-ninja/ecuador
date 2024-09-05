@@ -1,5 +1,5 @@
 ---
 title: "Frigorifico"
 url: /quito/frigorifico/
-shop: comodidad
+shop: Lebensmittel
 ---

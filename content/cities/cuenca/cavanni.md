@@ -1,5 +1,5 @@
 ---
 title: "CAVANNI"
 url: /cuenca/cavanni/
-shop: muebles
+shop: Möbel
 ---

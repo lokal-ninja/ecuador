@@ -1,5 +1,5 @@
 ---
 title: "BAIC"
 url: /quito/baic/
-shop: coche
+shop: Autohaus
 ---

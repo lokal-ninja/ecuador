@@ -1,5 +1,5 @@
 ---
 title: "TIA"
 url: /quito/tia/
-shop: supermercado
+shop: Supermarkt
 ---

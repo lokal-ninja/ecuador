@@ -1,5 +1,5 @@
 ---
 title: "Plasticos"
 url: /guayaquil/plasticos/
-shop: general
+shop: Allgemein
 ---

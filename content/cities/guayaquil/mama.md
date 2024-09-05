@@ -1,5 +1,5 @@
 ---
 title: "Mama"
 url: /guayaquil/mama/
-shop: floristería
+shop: Blumen
 ---

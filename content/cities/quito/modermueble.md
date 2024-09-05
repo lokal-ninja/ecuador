@@ -1,5 +1,5 @@
 ---
 title: "Modermueble"
 url: /quito/modermueble/
-shop: muebles
+shop: Möbel
 ---

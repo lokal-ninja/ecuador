@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /quito/claro-jose-maria-aleman-2/
-shop: general
+shop: Allgemein
 ---

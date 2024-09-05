@@ -1,5 +1,5 @@
 ---
 title: "Solidario"
 url: /quito/solidario/
-shop: general
+shop: Allgemein
 ---

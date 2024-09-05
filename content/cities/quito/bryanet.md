@@ -1,5 +1,5 @@
 ---
 title: "Bryanet"
 url: /quito/bryanet/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevyplan"
 url: /quito/chevyplan/
-shop: coche
+shop: Autohaus
 ---

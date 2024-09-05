@@ -1,5 +1,5 @@
 ---
 title: "Tensaoelectric"
 url: /quito/tensaoelectric/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multialarmas"
 url: /loja-ecuador/multialarmas/
-shop: ordenador
+shop: Computer
 ---

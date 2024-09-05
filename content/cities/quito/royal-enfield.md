@@ -1,5 +1,5 @@
 ---
 title: "Royal Enfield"
 url: /quito/royal-enfield/
-shop: motocicleta
+shop: Motorrad
 ---

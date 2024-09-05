@@ -1,5 +1,5 @@
 ---
 title: "Rodritex"
 url: /quito/rodritex/
-shop: sastre
+shop: Schneiderei
 ---

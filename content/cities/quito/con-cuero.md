@@ -1,5 +1,5 @@
 ---
 title: "Con Cuero"
 url: /quito/con-cuero/
-shop: cuero
+shop: Leder
 ---

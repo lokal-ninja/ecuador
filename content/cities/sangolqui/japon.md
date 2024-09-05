@@ -1,5 +1,5 @@
 ---
 title: "Japón"
 url: /sangolqui/japon/
-shop: electrónica
+shop: Elektronik
 ---

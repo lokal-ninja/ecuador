@@ -1,5 +1,5 @@
 ---
 title: "Listo!"
 url: /guayaquil/listo/
-shop: comodidad
+shop: Lebensmittel
 ---

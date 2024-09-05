@@ -1,5 +1,5 @@
 ---
 title: "Sumisys Telecom CA"
 url: /guayaquil/sumisys-telecom-ca/
-shop: ordenador
+shop: Computer
 ---

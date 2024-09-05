@@ -1,5 +1,5 @@
 ---
 title: "Dominicanos Barber Shop"
 url: /sangolqui/dominicanos-barber-shop/
-shop: peluquería
+shop: Friseur
 ---

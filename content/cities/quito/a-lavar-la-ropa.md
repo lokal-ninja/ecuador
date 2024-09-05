@@ -1,5 +1,5 @@
 ---
 title: "A Lavar La Ropa"
 url: /quito/a-lavar-la-ropa/
-shop: lavandería
+shop: Wäscherei
 ---

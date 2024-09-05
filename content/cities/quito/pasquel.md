@@ -1,5 +1,5 @@
 ---
 title: "Pasquel"
 url: /quito/pasquel/
-shop: general
+shop: Allgemein
 ---

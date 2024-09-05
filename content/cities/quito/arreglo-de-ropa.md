@@ -1,5 +1,5 @@
 ---
 title: "Arreglo de Ropa"
 url: /quito/arreglo-de-ropa/
-shop: ropa
+shop: Kleidung
 ---

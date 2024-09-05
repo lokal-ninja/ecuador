@@ -1,5 +1,5 @@
 ---
 title: "Croissant's"
 url: /quito/croissants/
-shop: panadería
+shop: Bäckerei
 ---

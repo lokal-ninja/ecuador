@@ -1,5 +1,5 @@
 ---
 title: "Promac"
 url: /quito/promac/
-shop: hardware
+shop: Eisenwaren
 ---

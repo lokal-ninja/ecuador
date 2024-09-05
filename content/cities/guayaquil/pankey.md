@@ -1,5 +1,5 @@
 ---
 title: "Pankey"
 url: /guayaquil/pankey/
-shop: panadería
+shop: Bäckerei
 ---

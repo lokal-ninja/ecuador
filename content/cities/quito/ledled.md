@@ -1,5 +1,5 @@
 ---
 title: "LedLed"
 url: /quito/ledled/
-shop: electrónica
+shop: Elektronik
 ---

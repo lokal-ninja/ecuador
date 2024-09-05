@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /milagro/kia/
-shop: coche
+shop: Autohaus
 ---

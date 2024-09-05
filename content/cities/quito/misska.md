@@ -1,5 +1,5 @@
 ---
 title: "Misska"
 url: /quito/misska/
-shop: ropa
+shop: Kleidung
 ---

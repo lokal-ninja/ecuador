@@ -1,5 +1,5 @@
 ---
 title: "Delta Mackalles CIA"
 url: /guayaquil/delta-mackalles-cia/
-shop: general
+shop: Allgemein
 ---

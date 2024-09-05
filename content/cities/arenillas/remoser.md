@@ -1,5 +1,5 @@
 ---
 title: "REMOSER"
 url: /arenillas/remoser/
-shop: ordenador
+shop: Computer
 ---

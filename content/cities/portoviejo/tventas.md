@@ -1,5 +1,5 @@
 ---
 title: "Tventas"
 url: /portoviejo/tventas/
-shop: electrónica
+shop: Elektronik
 ---

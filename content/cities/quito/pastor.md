@@ -1,5 +1,5 @@
 ---
 title: "Pastor"
 url: /quito/pastor/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Dayana"
 url: /guayaquil/panaderia-dayana/
-shop: panadería
+shop: Bäckerei
 ---

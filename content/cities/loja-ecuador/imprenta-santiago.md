@@ -1,5 +1,5 @@
 ---
 title: "IMPRENTA SANTIAGO"
 url: /loja-ecuador/imprenta-santiago/
-shop: libros
+shop: Bücher
 ---

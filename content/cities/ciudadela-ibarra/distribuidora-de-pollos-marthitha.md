@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora de Pollos Marthitha"
 url: /ciudadela-ibarra/distribuidora-de-pollos-marthitha/
-shop: carnicero
+shop: Metzgerei
 ---

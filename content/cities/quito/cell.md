@@ -1,5 +1,5 @@
 ---
 title: "Cell"
 url: /quito/cell/
-shop: teléfono móvil
+shop: Handy
 ---

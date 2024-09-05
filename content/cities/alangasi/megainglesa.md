@@ -1,5 +1,5 @@
 ---
 title: "Megainglesa"
 url: /alangasi/megainglesa/
-shop: panadería
+shop: Bäckerei
 ---

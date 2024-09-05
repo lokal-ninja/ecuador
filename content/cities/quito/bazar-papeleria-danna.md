@@ -1,5 +1,5 @@
 ---
 title: "Bazar Papeleria Danna"
 url: /quito/bazar-papeleria-danna/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Embers"
 url: /quito/embers/
-shop: ropa
+shop: Kleidung
 ---

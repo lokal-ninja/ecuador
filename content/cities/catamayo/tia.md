@@ -1,5 +1,5 @@
 ---
 title: "TIA"
 url: /catamayo/tia/
-shop: supermercado
+shop: Supermarkt
 ---

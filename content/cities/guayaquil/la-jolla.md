@@ -1,5 +1,5 @@
 ---
 title: "La Jolla"
 url: /guayaquil/la-jolla/
-shop: joyería
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluquería y Spa"
 url: /guayaquil/peluqueria-y-spa/
-shop: peluquería
+shop: Friseur
 ---

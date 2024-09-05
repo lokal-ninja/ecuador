@@ -1,5 +1,5 @@
 ---
 title: "Dr.cell Y Dr.PC"
 url: /tulcan/dr-cell-y-dr-pc/
-shop: teléfono móvil
+shop: Handy
 ---

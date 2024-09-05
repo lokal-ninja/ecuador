@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /quito/kia-avenida-moran-valverde/
-shop: coche
+shop: Autohaus
 ---

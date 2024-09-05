@@ -1,5 +1,5 @@
 ---
 title: "Jicaza"
 url: /guayaquil/jicaza/
-shop: óptico
+shop: Optiker
 ---

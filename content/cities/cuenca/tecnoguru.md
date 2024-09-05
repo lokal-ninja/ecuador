@@ -1,5 +1,5 @@
 ---
 title: "Tecnogurú"
 url: /cuenca/tecnoguru/
-shop: ordenador
+shop: Computer
 ---

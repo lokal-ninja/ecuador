@@ -1,5 +1,5 @@
 ---
 title: "Papel y Lapiz"
 url: /quito/papel-y-lapiz/
-shop: general
+shop: Allgemein
 ---

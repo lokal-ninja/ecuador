@@ -1,5 +1,5 @@
 ---
 title: "Mi Comisariato"
 url: /santo-domingo/mi-comisariato/
-shop: supermercado
+shop: Supermarkt
 ---

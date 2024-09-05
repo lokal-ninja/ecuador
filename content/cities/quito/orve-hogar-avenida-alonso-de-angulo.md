@@ -1,5 +1,5 @@
 ---
 title: "Orve Hogar"
 url: /quito/orve-hogar-avenida-alonso-de-angulo/
-shop: grandes almacenes
+shop: Warenhaus
 ---

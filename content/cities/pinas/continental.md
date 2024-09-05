@@ -1,5 +1,5 @@
 ---
 title: "Continental"
 url: /pinas/continental/
-shop: muebles
+shop: Möbel
 ---

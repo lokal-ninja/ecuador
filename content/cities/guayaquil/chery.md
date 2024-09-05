@@ -1,5 +1,5 @@
 ---
 title: "Chery"
 url: /guayaquil/chery/
-shop: coche
+shop: Autohaus
 ---

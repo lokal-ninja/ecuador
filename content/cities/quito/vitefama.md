@@ -1,5 +1,5 @@
 ---
 title: "Vitefama"
 url: /quito/vitefama/
-shop: muebles
+shop: Möbel
 ---

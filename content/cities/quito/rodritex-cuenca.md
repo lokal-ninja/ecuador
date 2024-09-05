@@ -1,5 +1,5 @@
 ---
 title: "Rodritex"
 url: /quito/rodritex-cuenca/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freaty"
 url: /guayaquil/freaty/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Remodelate"
 url: /quito/remodelate/
-shop: ropa
+shop: Kleidung
 ---

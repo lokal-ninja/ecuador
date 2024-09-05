@@ -1,5 +1,5 @@
 ---
 title: "Oyefm"
 url: /ibarra/oyefm/
-shop: música
+shop: Musik
 ---

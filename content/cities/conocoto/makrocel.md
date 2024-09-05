@@ -1,5 +1,5 @@
 ---
 title: "Makrocel"
 url: /conocoto/makrocel/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Listo!"
 url: /guayaquil/listo-juan-tanca-marengo/
-shop: comodidad
+shop: Lebensmittel
 ---

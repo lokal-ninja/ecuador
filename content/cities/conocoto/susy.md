@@ -1,5 +1,5 @@
 ---
 title: "Susy"
 url: /conocoto/susy/
-shop: general
+shop: Allgemein
 ---

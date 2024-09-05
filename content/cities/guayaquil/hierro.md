@@ -1,5 +1,5 @@
 ---
 title: "Hierro"
 url: /guayaquil/hierro/
-shop: comercio
+shop: Baustoffe
 ---

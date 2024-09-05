@@ -1,5 +1,5 @@
 ---
 title: "David"
 url: /sangolqui/david/
-shop: zapatos
+shop: Schuhe
 ---

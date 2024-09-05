@@ -1,5 +1,5 @@
 ---
 title: "Megamaxi"
 url: /manta/megamaxi/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monimania"
 url: /quito/monimania/
-shop: general
+shop: Allgemein
 ---

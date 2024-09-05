@@ -1,5 +1,5 @@
 ---
 title: "Cube"
 url: /cuenca/cube/
-shop: bicicleta
+shop: Fahrrad
 ---

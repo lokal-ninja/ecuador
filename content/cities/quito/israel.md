@@ -1,5 +1,5 @@
 ---
 title: "Israel"
 url: /quito/israel/
-shop: panadería
+shop: Bäckerei
 ---

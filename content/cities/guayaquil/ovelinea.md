@@ -1,5 +1,5 @@
 ---
 title: "Ovelinea"
 url: /guayaquil/ovelinea/
-shop: muebles
+shop: Möbel
 ---

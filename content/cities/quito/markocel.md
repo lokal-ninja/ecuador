@@ -1,5 +1,5 @@
 ---
 title: "Markocel"
 url: /quito/markocel/
-shop: general
+shop: Allgemein
 ---

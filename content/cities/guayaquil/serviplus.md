@@ -1,5 +1,5 @@
 ---
 title: "Serviplus"
 url: /guayaquil/serviplus/
-shop: aparato
+shop: Haushaltsgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Franco"
 url: /guayaquil/ferreteria-franco/
-shop: hardware
+shop: Eisenwaren
 ---

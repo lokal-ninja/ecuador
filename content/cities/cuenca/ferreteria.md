@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /cuenca/ferreteria/
-shop: hardware
+shop: Eisenwaren
 ---

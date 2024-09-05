@@ -1,5 +1,5 @@
 ---
 title: "Hivimar"
 url: /guayaquil/hivimar/
-shop: general
+shop: Allgemein
 ---

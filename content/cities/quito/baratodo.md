@@ -1,5 +1,5 @@
 ---
 title: "Baratodo"
 url: /quito/baratodo/
-shop: electrónica
+shop: Elektronik
 ---

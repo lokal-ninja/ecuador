@@ -1,5 +1,5 @@
 ---
 title: "Asac"
 url: /guayaquil/asac/
-shop: coche
+shop: Autohaus
 ---

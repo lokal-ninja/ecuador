@@ -1,5 +1,5 @@
 ---
 title: "Indumaster"
 url: /guayaquil/indumaster/
-shop: muebles
+shop: Möbel
 ---

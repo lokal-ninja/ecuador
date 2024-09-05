@@ -1,5 +1,5 @@
 ---
 title: "Dipaso"
 url: /guayaquil/dipaso/
-shop: cosméticos
+shop: Kosmetik
 ---

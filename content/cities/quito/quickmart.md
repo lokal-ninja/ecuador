@@ -1,5 +1,5 @@
 ---
 title: "QuickMart"
 url: /quito/quickmart/
-shop: supermercado
+shop: Supermarkt
 ---

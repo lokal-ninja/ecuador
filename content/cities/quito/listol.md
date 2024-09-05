@@ -1,5 +1,5 @@
 ---
 title: "Listol"
 url: /quito/listol/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller Técnico Stock"
 url: /guayaquil/taller-tecnico-stock/
-shop: general
+shop: Allgemein
 ---

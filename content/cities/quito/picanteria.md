@@ -1,5 +1,5 @@
 ---
 title: "Picantería"
 url: /quito/picanteria/
-shop: general
+shop: Allgemein
 ---

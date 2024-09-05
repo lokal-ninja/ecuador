@@ -1,5 +1,5 @@
 ---
 title: "Baghu"
 url: /quito/baghu/
-shop: ropa
+shop: Kleidung
 ---

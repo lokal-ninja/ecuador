@@ -1,5 +1,5 @@
 ---
 title: "Anny"
 url: /quito/anny/
-shop: peluquería
+shop: Friseur
 ---

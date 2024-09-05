@@ -1,5 +1,5 @@
 ---
 title: "La Unión"
 url: /sangolqui/la-union/
-shop: general
+shop: Allgemein
 ---

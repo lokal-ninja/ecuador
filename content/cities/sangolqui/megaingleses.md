@@ -1,5 +1,5 @@
 ---
 title: "Megaingleses"
 url: /sangolqui/megaingleses/
-shop: panadería
+shop: Bäckerei
 ---

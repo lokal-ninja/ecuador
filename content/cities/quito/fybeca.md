@@ -1,5 +1,5 @@
 ---
 title: "Fybeca"
 url: /quito/fybeca/
-shop: general
+shop: Allgemein
 ---

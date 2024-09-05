@@ -1,5 +1,5 @@
 ---
 title: "Viveres Jhoe"
 url: /paragachi/viveres-jhoe/
-shop: supermercado
+shop: Supermarkt
 ---

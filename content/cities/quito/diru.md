@@ -1,5 +1,5 @@
 ---
 title: "Dirù"
 url: /quito/diru/
-shop: muebles
+shop: Möbel
 ---

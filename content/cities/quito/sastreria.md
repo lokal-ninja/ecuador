@@ -1,5 +1,5 @@
 ---
 title: "Sastreria"
 url: /quito/sastreria/
-shop: sastre
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mastersport"
 url: /guayaquil/mastersport/
-shop: ropa
+shop: Kleidung
 ---

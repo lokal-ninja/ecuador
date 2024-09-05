@@ -1,5 +1,5 @@
 ---
 title: "ResiFlex"
 url: /quito/resiflex/
-shop: general
+shop: Allgemein
 ---

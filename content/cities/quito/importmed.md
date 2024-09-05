@@ -1,5 +1,5 @@
 ---
 title: "Importmed"
 url: /quito/importmed/
-shop: suministros médicos
+shop: Sanitätshaus
 ---

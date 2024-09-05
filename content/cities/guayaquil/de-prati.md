@@ -1,5 +1,5 @@
 ---
 title: "De Prati"
 url: /guayaquil/de-prati/
-shop: comodidad
+shop: Lebensmittel
 ---

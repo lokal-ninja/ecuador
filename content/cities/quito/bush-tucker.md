@@ -1,5 +1,5 @@
 ---
 title: "Bush Tucker"
 url: /quito/bush-tucker/
-shop: frutería
+shop: Gemüse & Obst
 ---

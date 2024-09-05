@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /tulcan/tienda/
-shop: general
+shop: Allgemein
 ---

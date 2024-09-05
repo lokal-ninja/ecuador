@@ -1,5 +1,5 @@
 ---
 title: "Letras Corporeas"
 url: /guayaquil/letras-corporeas/
-shop: general
+shop: Allgemein
 ---

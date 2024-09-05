@@ -1,5 +1,5 @@
 ---
 title: "Dancoser"
 url: /sangolqui/dancoser/
-shop: general
+shop: Allgemein
 ---

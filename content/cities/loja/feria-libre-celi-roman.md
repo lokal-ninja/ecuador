@@ -1,5 +1,5 @@
 ---
 title: "Feria Libre Celi Román"
 url: /loja/feria-libre-celi-roman/
-shop: supermercado
+shop: Supermarkt
 ---

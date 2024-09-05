@@ -1,5 +1,5 @@
 ---
 title: "Farine"
 url: /quito/farine/
-shop: panadería
+shop: Bäckerei
 ---

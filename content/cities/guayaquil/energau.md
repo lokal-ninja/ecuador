@@ -1,5 +1,5 @@
 ---
 title: "Energau"
 url: /guayaquil/energau/
-shop: comercio
+shop: Baustoffe
 ---

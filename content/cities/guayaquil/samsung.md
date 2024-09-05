@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /guayaquil/samsung/
-shop: electrónica
+shop: Elektronik
 ---

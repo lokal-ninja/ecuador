@@ -1,5 +1,5 @@
 ---
 title: "Cyrano"
 url: /quito/cyrano/
-shop: panadería
+shop: Bäckerei
 ---

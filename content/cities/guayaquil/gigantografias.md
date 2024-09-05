@@ -1,5 +1,5 @@
 ---
 title: "Gigantografias"
 url: /guayaquil/gigantografias/
-shop: copyshop
+shop: Kopieren
 ---

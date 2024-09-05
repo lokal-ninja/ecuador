@@ -1,5 +1,5 @@
 ---
 title: "Garmin"
 url: /guayaquil/garmin/
-shop: electrónica
+shop: Elektronik
 ---

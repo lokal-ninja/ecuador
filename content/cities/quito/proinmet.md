@@ -1,5 +1,5 @@
 ---
 title: "Proinmet"
 url: /quito/proinmet/
-shop: general
+shop: Allgemein
 ---

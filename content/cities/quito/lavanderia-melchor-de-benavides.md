@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia"
 url: /quito/lavanderia-melchor-de-benavides/
-shop: lavandería
+shop: Wäscherei
 ---

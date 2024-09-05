@@ -1,5 +1,5 @@
 ---
 title: "Megametales"
 url: /daule/megametales/
-shop: hardware
+shop: Eisenwaren
 ---

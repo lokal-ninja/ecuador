@@ -1,5 +1,5 @@
 ---
 title: "Mueblika"
 url: /quito/mueblika/
-shop: muebles
+shop: Möbel
 ---

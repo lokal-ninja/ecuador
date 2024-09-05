@@ -1,5 +1,5 @@
 ---
 title: "Kamla"
 url: /quito/kamla/
-shop: cosméticos
+shop: Kosmetik
 ---

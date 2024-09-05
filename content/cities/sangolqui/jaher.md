@@ -1,5 +1,5 @@
 ---
 title: "Jaher"
 url: /sangolqui/jaher/
-shop: general
+shop: Allgemein
 ---

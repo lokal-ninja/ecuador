@@ -1,5 +1,5 @@
 ---
 title: "Viveres el Penco"
 url: /sangolqui/viveres-el-penco/
-shop: comodidad
+shop: Lebensmittel
 ---

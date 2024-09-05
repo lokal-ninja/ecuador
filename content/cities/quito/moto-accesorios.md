@@ -1,5 +1,5 @@
 ---
 title: "Moto Accesorios"
 url: /quito/moto-accesorios/
-shop: motocicleta
+shop: Motorrad
 ---

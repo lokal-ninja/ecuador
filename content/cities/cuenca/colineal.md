@@ -1,5 +1,5 @@
 ---
 title: "Colineal"
 url: /cuenca/colineal/
-shop: muebles
+shop: Möbel
 ---

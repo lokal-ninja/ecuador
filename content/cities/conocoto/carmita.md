@@ -1,5 +1,5 @@
 ---
 title: "Carmita"
 url: /conocoto/carmita/
-shop: peluquería
+shop: Friseur
 ---

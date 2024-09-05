@@ -1,5 +1,5 @@
 ---
 title: "Unidas"
 url: /quito/unidas/
-shop: pintura
+shop: Farben
 ---

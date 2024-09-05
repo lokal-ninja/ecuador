@@ -1,5 +1,5 @@
 ---
 title: "Porsche"
 url: /quito/porsche/
-shop: coche
+shop: Autohaus
 ---

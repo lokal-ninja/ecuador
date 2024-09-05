@@ -1,5 +1,5 @@
 ---
 title: "Taty"
 url: /guayaquil/taty/
-shop: peluquería
+shop: Friseur
 ---

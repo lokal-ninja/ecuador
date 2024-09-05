@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /quito/movistar/
-shop: general
+shop: Allgemein
 ---

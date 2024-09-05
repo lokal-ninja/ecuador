@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Doña Cakes"
 url: /guayaquil/panaderia-dona-cakes/
-shop: panadería
+shop: Bäckerei
 ---

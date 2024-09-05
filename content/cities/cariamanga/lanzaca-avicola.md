@@ -1,5 +1,5 @@
 ---
 title: "Lanzaca (avicola)"
 url: /cariamanga/lanzaca-avicola/
-shop: general
+shop: Allgemein
 ---

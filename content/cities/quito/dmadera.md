@@ -1,5 +1,5 @@
 ---
 title: "D'Madera"
 url: /quito/dmadera/
-shop: general
+shop: Allgemein
 ---

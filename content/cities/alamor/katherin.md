@@ -1,5 +1,5 @@
 ---
 title: "Katherin"
 url: /alamor/katherin/
-shop: peluquería
+shop: Friseur
 ---

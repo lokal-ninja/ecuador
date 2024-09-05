@@ -1,5 +1,5 @@
 ---
 title: "Diprelsa"
 url: /guayaquil/diprelsa/
-shop: eléctrico
+shop: Elektrisch
 ---

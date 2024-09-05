@@ -1,5 +1,5 @@
 ---
 title: "Gs Electrónica"
 url: /cumbaya/gs-electronica/
-shop: electrónica
+shop: Elektronik
 ---

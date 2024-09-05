@@ -1,5 +1,5 @@
 ---
 title: "Minim"
 url: /guayaquil/minim/
-shop: ropa
+shop: Kleidung
 ---

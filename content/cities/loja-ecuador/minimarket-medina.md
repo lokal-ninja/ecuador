@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Medina"
 url: /loja-ecuador/minimarket-medina/
-shop: comodidad
+shop: Lebensmittel
 ---

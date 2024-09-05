@@ -1,5 +1,5 @@
 ---
 title: "Pirelli"
 url: /quito/pirelli/
-shop: general
+shop: Allgemein
 ---

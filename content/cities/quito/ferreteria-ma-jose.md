@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Ma Jose"
 url: /quito/ferreteria-ma-jose/
-shop: hardware
+shop: Eisenwaren
 ---

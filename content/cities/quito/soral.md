@@ -1,5 +1,5 @@
 ---
 title: "Soral"
 url: /quito/soral/
-shop: general
+shop: Allgemein
 ---

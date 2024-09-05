@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /guayaquil/ferreteria-via-a-daule/
-shop: hardware
+shop: Eisenwaren
 ---

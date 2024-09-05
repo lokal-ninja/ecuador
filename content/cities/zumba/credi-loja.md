@@ -1,5 +1,5 @@
 ---
 title: "Credi Loja"
 url: /zumba/credi-loja/
-shop: electrónica
+shop: Elektronik
 ---

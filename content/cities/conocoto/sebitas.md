@@ -1,5 +1,5 @@
 ---
 title: "Sebitas"
 url: /conocoto/sebitas/
-shop: general
+shop: Allgemein
 ---

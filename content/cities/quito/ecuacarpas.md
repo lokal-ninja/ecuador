@@ -1,5 +1,5 @@
 ---
 title: "Ecuacarpas"
 url: /quito/ecuacarpas/
-shop: general
+shop: Allgemein
 ---

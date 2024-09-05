@@ -1,5 +1,5 @@
 ---
 title: "Conti"
 url: /guayaquil/conti/
-shop: peluquería
+shop: Friseur
 ---

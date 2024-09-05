@@ -1,5 +1,5 @@
 ---
 title: "Floreria"
 url: /quito/floreria-2/
-shop: floristería
+shop: Blumen
 ---

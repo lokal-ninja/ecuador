@@ -1,5 +1,5 @@
 ---
 title: "Autoecuador.com"
 url: /guayaquil/autoecuador-com/
-shop: coche
+shop: Autohaus
 ---

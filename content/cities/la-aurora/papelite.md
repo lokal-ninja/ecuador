@@ -1,5 +1,5 @@
 ---
 title: "Papelite"
 url: /la-aurora/papelite/
-shop: general
+shop: Allgemein
 ---

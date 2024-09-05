@@ -1,5 +1,5 @@
 ---
 title: "AutoMundo"
 url: /quito/automundo/
-shop: coche
+shop: Autohaus
 ---

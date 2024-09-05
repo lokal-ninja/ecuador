@@ -1,5 +1,5 @@
 ---
 title: "Sony"
 url: /quito/sony/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpasa"
 url: /guayaquil/carpasa/
-shop: general
+shop: Allgemein
 ---

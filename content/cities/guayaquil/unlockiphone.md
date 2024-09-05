@@ -1,5 +1,5 @@
 ---
 title: "UnlockiPhone"
 url: /guayaquil/unlockiphone/
-shop: teléfono móvil
+shop: Handy
 ---

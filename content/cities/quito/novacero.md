@@ -1,5 +1,5 @@
 ---
 title: "Novacero"
 url: /quito/novacero/
-shop: comercio
+shop: Baustoffe
 ---

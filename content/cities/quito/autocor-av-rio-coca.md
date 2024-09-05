@@ -1,5 +1,5 @@
 ---
 title: "Autocor Av. Río Coca"
 url: /quito/autocor-av-rio-coca/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boomerang"
 url: /quito/boomerang/
-shop: panadería
+shop: Bäckerei
 ---

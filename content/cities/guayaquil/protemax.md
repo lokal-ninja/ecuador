@@ -1,5 +1,5 @@
 ---
 title: "Protemax"
 url: /guayaquil/protemax/
-shop: general
+shop: Allgemein
 ---

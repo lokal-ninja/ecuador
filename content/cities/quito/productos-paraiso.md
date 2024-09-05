@@ -1,5 +1,5 @@
 ---
 title: "Productos Paraíso"
 url: /quito/productos-paraiso/
-shop: general
+shop: Allgemein
 ---

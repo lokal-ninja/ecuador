@@ -1,5 +1,5 @@
 ---
 title: "FERRETERIA ALVARADO"
 url: /guayaquil/ferreteria-alvarado/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hogar Total"
 url: /quito/hogar-total/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Todo X"
 url: /quito/todo-x/
-shop: general
+shop: Allgemein
 ---

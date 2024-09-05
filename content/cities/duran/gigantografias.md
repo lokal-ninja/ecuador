@@ -1,5 +1,5 @@
 ---
 title: "Gigantografiás"
 url: /duran/gigantografias/
-shop: copyshop
+shop: Kopieren
 ---

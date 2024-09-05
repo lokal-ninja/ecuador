@@ -1,5 +1,5 @@
 ---
 title: "Trajes Osmar"
 url: /quito/trajes-osmar/
-shop: ropa
+shop: Kleidung
 ---

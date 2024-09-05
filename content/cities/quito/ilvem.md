@@ -1,5 +1,5 @@
 ---
 title: "Ilvem"
 url: /quito/ilvem/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NETTplus"
 url: /zamora/nettplus/
-shop: ordenador
+shop: Computer
 ---

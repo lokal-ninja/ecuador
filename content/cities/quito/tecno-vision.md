@@ -1,5 +1,5 @@
 ---
 title: "Tecno Vision"
 url: /quito/tecno-vision/
-shop: electrónica
+shop: Elektronik
 ---

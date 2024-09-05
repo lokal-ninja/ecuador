@@ -1,5 +1,5 @@
 ---
 title: "Ferrecentro"
 url: /loja-ecuador/ferrecentro/
-shop: hardware
+shop: Eisenwaren
 ---

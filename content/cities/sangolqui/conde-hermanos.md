@@ -1,5 +1,5 @@
 ---
 title: "Conde Hermanos"
 url: /sangolqui/conde-hermanos/
-shop: general
+shop: Allgemein
 ---

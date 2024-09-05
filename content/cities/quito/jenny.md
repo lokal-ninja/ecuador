@@ -1,5 +1,5 @@
 ---
 title: "Jenny"
 url: /quito/jenny/
-shop: cosméticos
+shop: Kosmetik
 ---

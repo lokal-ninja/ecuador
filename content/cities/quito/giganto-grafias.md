@@ -1,5 +1,5 @@
 ---
 title: "GIganto Grafias"
 url: /quito/giganto-grafias/
-shop: copyshop
+shop: Kopieren
 ---

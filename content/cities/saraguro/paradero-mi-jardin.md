@@ -1,5 +1,5 @@
 ---
 title: "Paradero Mi Jardin"
 url: /saraguro/paradero-mi-jardin/
-shop: supermercado
+shop: Supermarkt
 ---

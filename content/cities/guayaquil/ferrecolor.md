@@ -1,5 +1,5 @@
 ---
 title: "Ferrecolor"
 url: /guayaquil/ferrecolor/
-shop: hardware
+shop: Eisenwaren
 ---

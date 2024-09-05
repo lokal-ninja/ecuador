@@ -1,5 +1,5 @@
 ---
 title: "Frutas"
 url: /quito/frutas-angosturas/
-shop: frutería
+shop: Gemüse & Obst
 ---

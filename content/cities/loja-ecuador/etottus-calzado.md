@@ -1,5 +1,5 @@
 ---
 title: "Etottus Calzado"
 url: /loja-ecuador/etottus-calzado/
-shop: zapatos
+shop: Schuhe
 ---

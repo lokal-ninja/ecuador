@@ -1,5 +1,5 @@
 ---
 title: "Pica Pan"
 url: /guayaquil/pica-pan/
-shop: comodidad
+shop: Lebensmittel
 ---

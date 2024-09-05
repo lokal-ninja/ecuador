@@ -1,5 +1,5 @@
 ---
 title: "Thank Diaz"
 url: /loja-ecuador/thank-diaz/
-shop: cosméticos
+shop: Kosmetik
 ---

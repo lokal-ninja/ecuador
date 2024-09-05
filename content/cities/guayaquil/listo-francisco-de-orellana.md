@@ -1,5 +1,5 @@
 ---
 title: "Listo!"
 url: /guayaquil/listo-francisco-de-orellana/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Selecto"
 url: /quito/selecto/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tracto Diesel"
 url: /guayaquil/tracto-diesel/
-shop: comercio
+shop: Baustoffe
 ---

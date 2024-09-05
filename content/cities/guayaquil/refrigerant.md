@@ -1,5 +1,5 @@
 ---
 title: "Refrigerant"
 url: /guayaquil/refrigerant/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Opticom"
 url: /cuenca/opticom/
-shop: general
+shop: Allgemein
 ---

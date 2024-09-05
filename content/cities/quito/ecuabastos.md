@@ -1,5 +1,5 @@
 ---
 title: "Ecuabastos"
 url: /quito/ecuabastos/
-shop: supermercado
+shop: Supermarkt
 ---

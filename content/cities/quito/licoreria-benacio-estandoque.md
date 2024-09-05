@@ -1,5 +1,5 @@
 ---
 title: "Licoreria"
 url: /quito/licoreria-benacio-estandoque/
-shop: alcohol
+shop: Spirituosen
 ---

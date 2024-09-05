@@ -1,5 +1,5 @@
 ---
 title: "FG"
 url: /quito/fg/
-shop: general
+shop: Allgemein
 ---

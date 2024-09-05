@@ -1,5 +1,5 @@
 ---
 title: "Yurank"
 url: /loja-ecuador/yurank/
-shop: frutería
+shop: Gemüse & Obst
 ---

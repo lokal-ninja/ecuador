@@ -1,5 +1,5 @@
 ---
 title: "The Smokings"
 url: /quito/the-smokings/
-shop: ropa
+shop: Kleidung
 ---

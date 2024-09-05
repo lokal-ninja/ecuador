@@ -1,5 +1,5 @@
 ---
 title: "Compro Oro"
 url: /quito/compro-oro/
-shop: general
+shop: Allgemein
 ---

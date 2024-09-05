@@ -1,5 +1,5 @@
 ---
 title: "Alex"
 url: /guayaquil/alex/
-shop: comodidad
+shop: Lebensmittel
 ---

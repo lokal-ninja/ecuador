@@ -1,5 +1,5 @@
 ---
 title: "Novicompu"
 url: /quito/novicompu/
-shop: ordenador
+shop: Computer
 ---

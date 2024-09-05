@@ -1,5 +1,5 @@
 ---
 title: "Electrónica"
 url: /quito/electronica/
-shop: electrónica
+shop: Elektronik
 ---

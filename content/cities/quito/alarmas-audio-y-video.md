@@ -1,5 +1,5 @@
 ---
 title: "Alarmas Audio y Video"
 url: /quito/alarmas-audio-y-video/
-shop: general
+shop: Allgemein
 ---

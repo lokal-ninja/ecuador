@@ -1,5 +1,5 @@
 ---
 title: "Hatter shop"
 url: /montecristi/hatter-shop-rocafuerte-3/
-shop: ropa
+shop: Kleidung
 ---

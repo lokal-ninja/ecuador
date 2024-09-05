@@ -1,5 +1,5 @@
 ---
 title: "Julieth"
 url: /guayaquil/julieth/
-shop: peluquería
+shop: Friseur
 ---

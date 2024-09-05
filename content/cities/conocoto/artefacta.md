@@ -1,5 +1,5 @@
 ---
 title: "Artefacta"
 url: /conocoto/artefacta/
-shop: electrónica
+shop: Elektronik
 ---

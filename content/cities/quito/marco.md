@@ -1,5 +1,5 @@
 ---
 title: "Marco"
 url: /quito/marco/
-shop: peluquería
+shop: Friseur
 ---

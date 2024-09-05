@@ -1,5 +1,5 @@
 ---
 title: "Licoreria I.M.A."
 url: /quito/licoreria-i-m-a/
-shop: alcohol
+shop: Spirituosen
 ---

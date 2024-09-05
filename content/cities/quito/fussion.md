@@ -1,5 +1,5 @@
 ---
 title: "Fussion"
 url: /quito/fussion/
-shop: panadería
+shop: Bäckerei
 ---

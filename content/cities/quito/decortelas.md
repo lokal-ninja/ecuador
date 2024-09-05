@@ -1,5 +1,5 @@
 ---
 title: "Decortelas"
 url: /quito/decortelas/
-shop: general
+shop: Allgemein
 ---

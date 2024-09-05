@@ -1,5 +1,5 @@
 ---
 title: "Maresa"
 url: /quito/maresa/
-shop: coche
+shop: Autohaus
 ---

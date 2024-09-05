@@ -1,5 +1,5 @@
 ---
 title: "Canasthon"
 url: /guayaquil/canasthon/
-shop: general
+shop: Allgemein
 ---

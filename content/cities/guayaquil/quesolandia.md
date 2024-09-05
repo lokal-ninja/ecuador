@@ -1,5 +1,5 @@
 ---
 title: "Quesolandia"
 url: /guayaquil/quesolandia/
-shop: queso
+shop: Käse
 ---

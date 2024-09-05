@@ -1,5 +1,5 @@
 ---
 title: "Duramas"
 url: /quito/duramas/
-shop: general
+shop: Allgemein
 ---

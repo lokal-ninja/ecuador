@@ -1,5 +1,5 @@
 ---
 title: "Raphaella"
 url: /quito/raphaella/
-shop: general
+shop: Allgemein
 ---

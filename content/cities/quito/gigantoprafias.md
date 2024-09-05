@@ -1,5 +1,5 @@
 ---
 title: "Gigantoprafias"
 url: /quito/gigantoprafias/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferresur"
 url: /cuenca/ferresur/
-shop: hardware
+shop: Eisenwaren
 ---

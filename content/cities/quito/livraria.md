@@ -1,5 +1,5 @@
 ---
 title: "Livraria"
 url: /quito/livraria/
-shop: libros
+shop: Bücher
 ---

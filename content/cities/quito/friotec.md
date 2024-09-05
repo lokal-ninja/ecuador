@@ -1,5 +1,5 @@
 ---
 title: "Friotec"
 url: /quito/friotec/
-shop: general
+shop: Allgemein
 ---

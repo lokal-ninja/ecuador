@@ -1,5 +1,5 @@
 ---
 title: "El Arte del Mueble"
 url: /quito/el-arte-del-mueble/
-shop: muebles
+shop: Möbel
 ---

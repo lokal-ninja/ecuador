@@ -1,5 +1,5 @@
 ---
 title: "Colonial"
 url: /quito/colonial/
-shop: general
+shop: Allgemein
 ---

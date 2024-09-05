@@ -1,5 +1,5 @@
 ---
 title: "Mi Comisariato La Florida"
 url: /guayaquil/mi-comisariato-la-florida/
-shop: supermercado
+shop: Supermarkt
 ---

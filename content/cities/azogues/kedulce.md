@@ -1,5 +1,5 @@
 ---
 title: "Kedulce"
 url: /azogues/kedulce/
-shop: panadería
+shop: Bäckerei
 ---

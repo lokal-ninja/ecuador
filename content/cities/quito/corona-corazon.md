@@ -1,5 +1,5 @@
 ---
 title: "Corona"
 url: /quito/corona-corazon/
-shop: general
+shop: Allgemein
 ---

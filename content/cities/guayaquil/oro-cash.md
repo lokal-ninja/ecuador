@@ -1,5 +1,5 @@
 ---
 title: "Oro Cash"
 url: /guayaquil/oro-cash/
-shop: prestamista
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zone Digital Ecuador"
 url: /guayaquil/zone-digital-ecuador/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viveres la Victoria"
 url: /quito/viveres-la-victoria/
-shop: comodidad
+shop: Lebensmittel
 ---

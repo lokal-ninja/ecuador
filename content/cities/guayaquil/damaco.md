@@ -1,5 +1,5 @@
 ---
 title: "Damaco"
 url: /guayaquil/damaco/
-shop: ropa
+shop: Kleidung
 ---

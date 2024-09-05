@@ -1,5 +1,5 @@
 ---
 title: "El Palacio de la Bicicleta"
 url: /quito/el-palacio-de-la-bicicleta/
-shop: bicicleta
+shop: Fahrrad
 ---

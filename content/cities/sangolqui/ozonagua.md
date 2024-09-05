@@ -1,5 +1,5 @@
 ---
 title: "OzonAgua"
 url: /sangolqui/ozonagua/
-shop: agua
+shop: Wasser
 ---

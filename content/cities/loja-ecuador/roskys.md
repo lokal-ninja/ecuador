@@ -1,5 +1,5 @@
 ---
 title: "Roskys"
 url: /loja-ecuador/roskys/
-shop: panadería
+shop: Bäckerei
 ---

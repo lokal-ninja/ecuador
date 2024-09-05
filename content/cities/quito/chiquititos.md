@@ -1,5 +1,5 @@
 ---
 title: "Chiquititos"
 url: /quito/chiquititos/
-shop: ropa
+shop: Kleidung
 ---

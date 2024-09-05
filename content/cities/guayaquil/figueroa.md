@@ -1,5 +1,5 @@
 ---
 title: "Figueroa"
 url: /guayaquil/figueroa/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frutas"
 url: /quito/frutas/
-shop: frutería
+shop: Gemüse & Obst
 ---

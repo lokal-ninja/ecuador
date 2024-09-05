@@ -1,5 +1,5 @@
 ---
 title: "Ecuacerámica"
 url: /sangolqui/ecuaceramica/
-shop: baldosas
+shop: Fliesen
 ---

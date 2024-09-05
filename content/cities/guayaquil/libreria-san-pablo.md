@@ -1,5 +1,5 @@
 ---
 title: "Libreria San Pablo"
 url: /guayaquil/libreria-san-pablo/
-shop: libros
+shop: Bücher
 ---

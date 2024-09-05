@@ -1,5 +1,5 @@
 ---
 title: "Nutri Verde"
 url: /quito/nutri-verde/
-shop: frutería
+shop: Gemüse & Obst
 ---
