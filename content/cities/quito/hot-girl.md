@@ -1,5 +1,5 @@
 ---
 title: "Hot Girl"
 url: /quito/hot-girl/
-shop: Erotik
+shop: erótico
 ---

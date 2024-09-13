@@ -1,5 +1,5 @@
 ---
 title: "Pintuco"
 url: /guayaquil/pintuco/
-shop: Farben
+shop: pintura
 ---

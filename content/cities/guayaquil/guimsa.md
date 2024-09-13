@@ -1,5 +1,5 @@
 ---
 title: "Guimsa"
 url: /guayaquil/guimsa/
-shop: Supermarkt
+shop: supermercado
 ---

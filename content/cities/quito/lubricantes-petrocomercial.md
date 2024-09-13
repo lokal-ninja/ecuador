@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Petrocomercial"
 url: /quito/lubricantes-petrocomercial/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bordados Md"
 url: /quito/bordados-md/
-shop: Kopieren
+shop: copyshop
 ---

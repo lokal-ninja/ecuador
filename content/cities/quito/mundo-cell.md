@@ -1,5 +1,5 @@
 ---
 title: "Mundo Cell"
 url: /quito/mundo-cell/
-shop: Handy
+shop: teléfono móvil
 ---

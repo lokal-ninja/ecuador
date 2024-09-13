@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Gavilanes"
 url: /ciudadela-ibarra/almacenes-gavilanes/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grand Prix"
 url: /guayaquil/grand-prix/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

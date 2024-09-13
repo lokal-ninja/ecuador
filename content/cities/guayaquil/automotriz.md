@@ -1,5 +1,5 @@
 ---
 title: "AutoMotriz"
 url: /guayaquil/automotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

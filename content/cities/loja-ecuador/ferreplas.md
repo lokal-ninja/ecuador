@@ -1,5 +1,5 @@
 ---
 title: "Ferreplas"
 url: /loja-ecuador/ferreplas/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papeleria el Progreso"
 url: /quito/papeleria-el-progreso/
-shop: Allgemein
+shop: general
 ---

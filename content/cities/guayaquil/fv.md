@@ -1,5 +1,5 @@
 ---
 title: "FV"
 url: /guayaquil/fv/
-shop: Badezimmer
+shop: cuarto de baño
 ---

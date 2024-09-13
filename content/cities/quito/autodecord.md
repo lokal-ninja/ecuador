@@ -1,5 +1,5 @@
 ---
 title: "Autodecord"
 url: /quito/autodecord/
-shop: Autoteile
+shop: piezas de automóviles
 ---

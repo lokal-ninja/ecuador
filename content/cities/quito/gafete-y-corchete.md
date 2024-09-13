@@ -1,5 +1,5 @@
 ---
 title: "Gafete y Corchete"
 url: /quito/gafete-y-corchete/
-shop: Allgemein
+shop: general
 ---

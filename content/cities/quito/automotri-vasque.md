@@ -1,5 +1,5 @@
 ---
 title: "Automotri Vásque"
 url: /quito/automotri-vasque/
-shop: Autoteile
+shop: piezas de automóviles
 ---

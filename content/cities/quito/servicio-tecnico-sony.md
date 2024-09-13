@@ -1,5 +1,5 @@
 ---
-title: "Servicio Técnico Sony"
+title: "Servicio Tecnico Sony"
 url: /quito/servicio-tecnico-sony/
-shop: Allgemein
+shop: general
 ---

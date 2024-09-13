@@ -1,5 +1,5 @@
 ---
 title: "ORGU"
 url: /guayaquil/orgu/
-shop: Autohaus
+shop: coche
 ---

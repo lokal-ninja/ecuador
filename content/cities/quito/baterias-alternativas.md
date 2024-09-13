@@ -1,5 +1,5 @@
 ---
 title: "Baterias Alternativas"
 url: /quito/baterias-alternativas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

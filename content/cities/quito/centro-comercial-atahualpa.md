@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Atahualpa"
 url: /quito/centro-comercial-atahualpa/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

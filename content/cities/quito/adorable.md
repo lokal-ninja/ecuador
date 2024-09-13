@@ -1,5 +1,5 @@
 ---
 title: "Adorable"
 url: /quito/adorable/
-shop: Textil
+shop: tela
 ---

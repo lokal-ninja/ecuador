@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /guayaquil/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurocell"
 url: /guaranda/eurocell/
-shop: Handy
+shop: teléfono móvil
 ---

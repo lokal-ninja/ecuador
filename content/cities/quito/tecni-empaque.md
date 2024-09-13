@@ -1,5 +1,5 @@
 ---
 title: "Tecni Empaque"
 url: /quito/tecni-empaque/
-shop: Autoteile
+shop: piezas de automóviles
 ---

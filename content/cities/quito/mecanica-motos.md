@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Motos"
 url: /quito/mecanica-motos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

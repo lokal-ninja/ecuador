@@ -1,5 +1,5 @@
 ---
 title: "Nordiks"
 url: /quito/nordiks/
-shop: Allgemein
+shop: general
 ---

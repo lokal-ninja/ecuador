@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Flower"
 url: /guayaquil/lavanderia-flower/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cabinete Isabel"
 url: /guayaquil/cabinete-isabel/
-shop: Allgemein
+shop: general
 ---

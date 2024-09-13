@@ -1,5 +1,5 @@
 ---
 title: "ARMIJOSCAR"
 url: /cuenca/armijoscar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

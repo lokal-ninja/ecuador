@@ -1,5 +1,5 @@
 ---
 title: "CHEVY PARTES"
 url: /quito/chevy-partes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

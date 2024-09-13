@@ -1,5 +1,5 @@
 ---
 title: "Almacén La Ganga"
 url: /guayaquil/almacen-la-ganga/
-shop: Warenhaus
+shop: grandes almacenes
 ---

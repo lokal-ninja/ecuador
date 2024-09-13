@@ -1,5 +1,5 @@
 ---
 title: "Viveros La Florida"
 url: /malacatos/viveros-la-florida/
-shop: Garten-Center
+shop: centro de jardinería
 ---

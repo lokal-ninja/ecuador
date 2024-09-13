@@ -1,5 +1,5 @@
 ---
 title: "Mascotpolis"
 url: /quito/mascotpolis/
-shop: Tiersalon
+shop: peluquería canina
 ---

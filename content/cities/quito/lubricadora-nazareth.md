@@ -1,5 +1,5 @@
 ---
 title: "Lubricadora"
 url: /quito/lubricadora-nazareth/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

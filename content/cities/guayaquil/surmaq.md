@@ -1,5 +1,5 @@
 ---
 title: "Surmaq"
 url: /guayaquil/surmaq/
-shop: Baustoffe
+shop: comercio
 ---

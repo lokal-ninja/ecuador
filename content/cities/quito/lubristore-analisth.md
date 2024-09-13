@@ -1,5 +1,5 @@
 ---
 title: "Lubristore Analisth"
 url: /quito/lubristore-analisth/
-shop: Autoteile
+shop: piezas de automóviles
 ---

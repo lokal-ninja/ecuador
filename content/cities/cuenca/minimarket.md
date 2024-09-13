@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
 url: /cuenca/minimarket/
-shop: Lebensmittel
+shop: comodidad
 ---

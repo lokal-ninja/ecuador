@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /quito/marathon/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lizeth"
 url: /quito/lizeth/
-shop: Bäckerei
+shop: panadería
 ---

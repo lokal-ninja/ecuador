@@ -1,5 +1,5 @@
 ---
 title: "VALESCAPE"
 url: /quito/valescape/
-shop: Allgemein
+shop: general
 ---

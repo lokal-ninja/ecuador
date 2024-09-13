@@ -1,5 +1,5 @@
 ---
 title: "Rectificadora de Discos y Tambores"
 url: /quito/rectificadora-de-discos-y-tambores/
-shop: Autoteile
+shop: piezas de automóviles
 ---

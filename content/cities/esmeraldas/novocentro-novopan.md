@@ -1,5 +1,5 @@
 ---
 title: "Novocentro Novopan"
 url: /esmeraldas/novocentro-novopan/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

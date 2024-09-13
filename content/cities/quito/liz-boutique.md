@@ -1,5 +1,5 @@
 ---
 title: "Liz Boutique"
 url: /quito/liz-boutique/
-shop: Kleidung
+shop: ropa
 ---

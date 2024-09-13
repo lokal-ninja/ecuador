@@ -1,5 +1,5 @@
 ---
 title: "Aromé"
 url: /banos/arome/
-shop: Feinkost
+shop: charcutería
 ---

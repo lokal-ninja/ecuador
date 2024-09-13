@@ -1,5 +1,5 @@
 ---
 title: "Lubricadora Yepez"
 url: /quito/lubricadora-yepez/
-shop: Autoteile
+shop: piezas de automóviles
 ---

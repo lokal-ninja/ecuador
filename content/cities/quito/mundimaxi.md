@@ -1,5 +1,5 @@
 ---
 title: "Mundimaxi"
 url: /quito/mundimaxi/
-shop: Lebensmittel
+shop: comodidad
 ---

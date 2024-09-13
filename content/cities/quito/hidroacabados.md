@@ -1,5 +1,5 @@
 ---
 title: "Hidroacabados"
 url: /quito/hidroacabados/
-shop: Pool
+shop: piscina
 ---

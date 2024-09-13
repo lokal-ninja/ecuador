@@ -1,5 +1,5 @@
 ---
 title: "Solviajes"
 url: /quito/solviajes/
-shop: Allgemein
+shop: general
 ---

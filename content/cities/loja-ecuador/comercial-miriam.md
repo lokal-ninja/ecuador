@@ -1,5 +1,5 @@
 ---
 title: "Comercial Miriam"
 url: /loja-ecuador/comercial-miriam/
-shop: Kleidung
+shop: ropa
 ---

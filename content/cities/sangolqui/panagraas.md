@@ -1,5 +1,5 @@
 ---
 title: "Panagraas"
 url: /sangolqui/panagraas/
-shop: Bäckerei
+shop: panadería
 ---

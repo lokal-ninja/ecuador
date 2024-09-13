@@ -1,5 +1,5 @@
 ---
 title: "Viveres Erika"
 url: /quito/viveres-erika/
-shop: Lebensmittel
+shop: comodidad
 ---

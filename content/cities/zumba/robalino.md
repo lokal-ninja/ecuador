@@ -1,5 +1,5 @@
 ---
 title: "Robalino"
 url: /zumba/robalino/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

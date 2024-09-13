@@ -1,5 +1,5 @@
 ---
 title: "Supermaxi"
 url: /milagro/supermaxi/
-shop: Supermarkt
+shop: supermercado
 ---

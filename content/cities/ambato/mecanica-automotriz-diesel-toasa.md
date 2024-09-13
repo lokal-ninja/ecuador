@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Automotriz Diesel Toasa"
 url: /ambato/mecanica-automotriz-diesel-toasa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aluminio Fisa"
 url: /quito/aluminio-fisa/
-shop: Allgemein
+shop: general
 ---

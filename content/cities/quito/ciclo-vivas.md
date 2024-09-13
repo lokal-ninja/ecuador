@@ -1,5 +1,5 @@
 ---
 title: "Ciclo Vivas"
 url: /quito/ciclo-vivas/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pecualac"
 url: /loja-ecuador/pecualac/
-shop: Landwirtschaftlich
+shop: agraria
 ---

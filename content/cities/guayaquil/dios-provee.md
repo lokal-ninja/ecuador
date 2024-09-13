@@ -1,5 +1,5 @@
 ---
 title: "Dios Provee"
 url: /guayaquil/dios-provee/
-shop: Allgemein
+shop: general
 ---

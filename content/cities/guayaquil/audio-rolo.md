@@ -1,5 +1,5 @@
 ---
 title: "Audio Rolo"
 url: /guayaquil/audio-rolo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

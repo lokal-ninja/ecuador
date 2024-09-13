@@ -1,5 +1,5 @@
 ---
 title: "INTERTUBEP SA"
 url: /guayaquil/intertubep-sa/
-shop: Allgemein
+shop: general
 ---

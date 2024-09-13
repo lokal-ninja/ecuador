@@ -1,5 +1,5 @@
 ---
 title: "Taller Automotriz de Juan Chuquimarca"
 url: /cuenca/taller-automotriz-de-juan-chuquimarca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

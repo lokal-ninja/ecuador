@@ -1,5 +1,5 @@
 ---
 title: "Arboleda Travel"
 url: /quito/arboleda-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asumi"
 url: /quito/asumi/
-shop: Elektronik
+shop: electrónica
 ---

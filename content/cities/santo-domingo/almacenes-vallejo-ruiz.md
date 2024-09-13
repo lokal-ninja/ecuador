@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Vallejo Ruiz"
 url: /santo-domingo/almacenes-vallejo-ruiz/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

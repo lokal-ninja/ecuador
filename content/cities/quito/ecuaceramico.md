@@ -1,5 +1,5 @@
 ---
 title: "Ecuaceramico"
 url: /quito/ecuaceramico/
-shop: Fliesen
+shop: baldosas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpas Ecuador"
 url: /quito/carpas-ecuador/
-shop: Allgemein
+shop: general
 ---

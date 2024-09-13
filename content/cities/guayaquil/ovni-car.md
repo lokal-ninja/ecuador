@@ -1,5 +1,5 @@
 ---
 title: "Ovni Car"
 url: /guayaquil/ovni-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

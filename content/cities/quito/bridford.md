@@ -1,5 +1,5 @@
 ---
 title: "Bridford"
 url: /quito/bridford/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lislop"
 url: /cuenca/lislop/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

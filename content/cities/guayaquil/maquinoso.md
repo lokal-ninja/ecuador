@@ -1,5 +1,5 @@
 ---
 title: "Maquinoso"
 url: /guayaquil/maquinoso/
-shop: Allgemein
+shop: general
 ---

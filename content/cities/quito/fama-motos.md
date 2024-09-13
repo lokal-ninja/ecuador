@@ -1,5 +1,5 @@
 ---
 title: "Fama Motos"
 url: /quito/fama-motos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

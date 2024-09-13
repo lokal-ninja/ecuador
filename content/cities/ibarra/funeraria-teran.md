@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Terán"
 url: /ibarra/funeraria-teran/
-shop: Bestattungen
+shop: directores de funerarias
 ---

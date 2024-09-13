@@ -1,5 +1,5 @@
 ---
 title: "Graficas Liz"
 url: /portoviejo/graficas-liz/
-shop: Schreibwaren
+shop: material de oficina
 ---

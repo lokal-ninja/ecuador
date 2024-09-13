@@ -1,5 +1,5 @@
 ---
 title: "Impact Cell"
 url: /sangolqui/impact-cell/
-shop: Handy
+shop: teléfono móvil
 ---

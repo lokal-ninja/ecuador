@@ -1,5 +1,5 @@
 ---
 title: "Mundecar"
 url: /quito/mundecar/
-shop: Allgemein
+shop: general
 ---

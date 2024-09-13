@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria"
 url: /quito/ferreteria-avenida-simon-bolivar/
-shop: Eisenwaren
+shop: hardware
 ---

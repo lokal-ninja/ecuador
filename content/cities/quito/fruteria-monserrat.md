@@ -1,5 +1,5 @@
 ---
 title: "Frutería Monserrat"
 url: /quito/fruteria-monserrat/
-shop: Bestattungen
+shop: directores de funerarias
 ---

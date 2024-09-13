@@ -1,5 +1,5 @@
 ---
 title: "Autodelta"
 url: /quito/autodelta/
-shop: Autohaus
+shop: coche
 ---

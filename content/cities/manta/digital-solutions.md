@@ -1,5 +1,5 @@
 ---
 title: "Digital Solutions"
 url: /manta/digital-solutions/
-shop: Computer
+shop: ordenador
 ---

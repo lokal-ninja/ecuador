@@ -1,5 +1,5 @@
 ---
 title: "Pañaleras Pototin"
 url: /quito/panaleras-pototin-av-mariscal-sucre/
-shop: Allgemein
+shop: general
 ---

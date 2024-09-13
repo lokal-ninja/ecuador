@@ -1,5 +1,5 @@
 ---
 title: "Abastos"
 url: /riobamba/abastos/
-shop: Allgemein
+shop: general
 ---

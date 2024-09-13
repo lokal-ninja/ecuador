@@ -1,5 +1,5 @@
 ---
 title: "Frenoseguro Caraguay"
 url: /guayaquil/frenoseguro-caraguay/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bounty"
 url: /quito/bounty/
-shop: Allgemein
+shop: general
 ---

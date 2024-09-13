@@ -1,5 +1,5 @@
 ---
 title: "Taller Ambato"
 url: /quito/taller-ambato/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

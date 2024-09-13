@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /guayaquil/ferreteria-avenida-29-so/
-shop: Allgemein
+shop: general
 ---

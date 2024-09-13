@@ -1,5 +1,5 @@
 ---
 title: "Yogurt Michellita"
 url: /guayaquil/yogurt-michellita/
-shop: Allgemein
+shop: general
 ---

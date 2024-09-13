@@ -1,5 +1,5 @@
 ---
 title: "Tractopartes"
 url: /guayaquil/tractopartes/
-shop: Allgemein
+shop: general
 ---

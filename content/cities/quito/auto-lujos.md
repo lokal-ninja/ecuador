@@ -1,5 +1,5 @@
 ---
 title: "Auto Lujos"
 url: /quito/auto-lujos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

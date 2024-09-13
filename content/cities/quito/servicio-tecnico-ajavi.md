@@ -1,5 +1,5 @@
 ---
 title: "Servicio Tecnico"
 url: /quito/servicio-tecnico-ajavi/
-shop: Allgemein
+shop: general
 ---

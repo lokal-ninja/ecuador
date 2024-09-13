@@ -1,5 +1,5 @@
 ---
 title: "Bandes"
 url: /quito/bandes/
-shop: Friseur
+shop: peluquería
 ---

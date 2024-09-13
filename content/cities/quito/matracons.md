@@ -1,5 +1,5 @@
 ---
 title: "Matracons"
 url: /quito/matracons/
-shop: Eisenwaren
+shop: hardware
 ---

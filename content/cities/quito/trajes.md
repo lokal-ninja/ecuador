@@ -1,5 +1,5 @@
 ---
 title: "Trajes"
 url: /quito/trajes/
-shop: Kleidung
+shop: ropa
 ---

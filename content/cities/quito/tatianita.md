@@ -1,5 +1,5 @@
 ---
 title: "Tatianita"
 url: /quito/tatianita/
-shop: Allgemein
+shop: general
 ---

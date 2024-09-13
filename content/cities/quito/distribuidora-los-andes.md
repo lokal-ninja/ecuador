@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Los Andes"
 url: /quito/distribuidora-los-andes/
-shop: Allgemein
+shop: general
 ---

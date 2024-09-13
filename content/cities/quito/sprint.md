@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /quito/sprint/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

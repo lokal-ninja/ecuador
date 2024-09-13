@@ -1,5 +1,5 @@
 ---
 title: "Master PC"
 url: /loja/master-pc/
-shop: Computer
+shop: ordenador
 ---

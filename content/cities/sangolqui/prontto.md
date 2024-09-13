@@ -1,5 +1,5 @@
 ---
 title: "Prontto"
 url: /sangolqui/prontto/
-shop: Wäscherei
+shop: lavandería
 ---

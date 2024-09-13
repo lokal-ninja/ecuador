@@ -1,5 +1,5 @@
 ---
 title: "Cortinas"
 url: /quito/cortinas-avenida-mariscal-sucre/
-shop: Gardinen
+shop: cortina
 ---

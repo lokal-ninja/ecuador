@@ -1,5 +1,5 @@
 ---
 title: "NutriSport"
 url: /quito/nutrisport/
-shop: Reifen
+shop: neumáticos
 ---

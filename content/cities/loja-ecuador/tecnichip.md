@@ -1,5 +1,5 @@
 ---
 title: "Tecnichip"
 url: /loja-ecuador/tecnichip/
-shop: Elektronik
+shop: electrónica
 ---

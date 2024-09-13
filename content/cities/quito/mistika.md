@@ -1,5 +1,5 @@
 ---
 title: "Mistika"
 url: /quito/mistika/
-shop: Kosmetik
+shop: cosméticos
 ---

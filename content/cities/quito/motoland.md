@@ -1,5 +1,5 @@
 ---
 title: "MotoLand"
 url: /quito/motoland/
-shop: Autoteile
+shop: piezas de automóviles
 ---

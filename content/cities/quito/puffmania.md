@@ -1,5 +1,5 @@
 ---
 title: "PuffMania"
 url: /quito/puffmania/
-shop: Allgemein
+shop: general
 ---

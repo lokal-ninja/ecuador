@@ -1,5 +1,5 @@
 ---
 title: "Opticas Vista Integral"
 url: /quito/opticas-vista-integral/
-shop: Optiker
+shop: óptico
 ---

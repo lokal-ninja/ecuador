@@ -1,5 +1,5 @@
 ---
 title: "Solutrac"
 url: /quito/solutrac/
-shop: Autoteile
+shop: piezas de automóviles
 ---

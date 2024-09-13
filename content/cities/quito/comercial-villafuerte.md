@@ -1,5 +1,5 @@
 ---
 title: "Comercial Villafuerte"
 url: /quito/comercial-villafuerte/
-shop: Allgemein
+shop: general
 ---

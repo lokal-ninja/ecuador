@@ -1,5 +1,5 @@
 ---
 title: "Trans. Insular"
 url: /puerto-ayora/trans-insular/
-shop: Reisebüro
+shop: agencia de viajes
 ---

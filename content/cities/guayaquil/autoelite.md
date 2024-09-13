@@ -1,5 +1,5 @@
 ---
 title: "Autoelite"
 url: /guayaquil/autoelite/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

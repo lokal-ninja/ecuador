@@ -1,5 +1,5 @@
 ---
 title: "Cortex"
 url: /quito/cortex/
-shop: Allgemein
+shop: general
 ---

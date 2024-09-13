@@ -1,5 +1,5 @@
 ---
 title: "Eos Ecuador"
 url: /quito/eos-ecuador/
-shop: Reisebüro
+shop: agencia de viajes
 ---

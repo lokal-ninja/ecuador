@@ -1,5 +1,5 @@
 ---
 title: "Lubricadora Myrna"
 url: /guayaquil/lubricadora-myrna/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servicio Automotriz CM"
 url: /quito/servicio-automotriz-cm/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

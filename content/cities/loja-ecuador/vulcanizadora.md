@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora"
 url: /loja-ecuador/vulcanizadora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

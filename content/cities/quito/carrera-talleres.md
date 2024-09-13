@@ -1,5 +1,5 @@
 ---
 title: "Carrera Talleres"
 url: /quito/carrera-talleres/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

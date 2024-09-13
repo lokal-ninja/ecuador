@@ -1,5 +1,5 @@
 ---
 title: "Santorini"
 url: /cuenca/santorini/
-shop: Raumausstattung
+shop: decoración interior
 ---

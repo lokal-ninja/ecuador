@@ -1,5 +1,5 @@
 ---
 title: "El Genio del Golpe"
 url: /quito/el-genio-del-golpe/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

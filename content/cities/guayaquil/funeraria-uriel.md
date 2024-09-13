@@ -1,5 +1,5 @@
 ---
 title: "Funeraría Uriel"
 url: /guayaquil/funeraria-uriel/
-shop: Bestattungen
+shop: directores de funerarias
 ---

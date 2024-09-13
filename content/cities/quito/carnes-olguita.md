@@ -1,5 +1,5 @@
 ---
 title: "Carnes Olguita"
 url: /quito/carnes-olguita/
-shop: Metzgerei
+shop: carnicero
 ---

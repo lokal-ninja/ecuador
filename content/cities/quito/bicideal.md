@@ -1,5 +1,5 @@
 ---
 title: "BiciDeal"
 url: /quito/bicideal/
-shop: Fahrrad
+shop: bicicleta
 ---

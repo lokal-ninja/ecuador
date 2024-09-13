@@ -1,5 +1,5 @@
 ---
 title: "Pablo Alvarez"
 url: /cuenca/pablo-alvarez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

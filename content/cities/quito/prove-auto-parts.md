@@ -1,5 +1,5 @@
 ---
 title: "Prove Auto Parts"
 url: /quito/prove-auto-parts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

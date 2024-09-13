@@ -1,5 +1,5 @@
 ---
 title: "Maletec"
 url: /quito/maletec/
-shop: Warenhaus
+shop: grandes almacenes
 ---

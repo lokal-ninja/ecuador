@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora SEA"
 url: /quito/distribuidora-sea/
-shop: Eisenwaren
+shop: hardware
 ---

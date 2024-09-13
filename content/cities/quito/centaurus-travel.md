@@ -1,5 +1,5 @@
 ---
 title: "Centaurus Travel"
 url: /quito/centaurus-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

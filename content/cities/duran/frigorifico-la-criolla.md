@@ -1,5 +1,5 @@
 ---
 title: "Frigorifico La Criolla"
 url: /duran/frigorifico-la-criolla/
-shop: Metzgerei
+shop: carnicero
 ---

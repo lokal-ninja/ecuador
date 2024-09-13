@@ -1,5 +1,5 @@
 ---
 title: "Damasco"
 url: /quito/damasco/
-shop: Bäckerei
+shop: panadería
 ---

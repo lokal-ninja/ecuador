@@ -1,5 +1,5 @@
 ---
 title: "San Blas Shopping"
 url: /cuenca/san-blas-shopping/
-shop: Kleidung
+shop: ropa
 ---

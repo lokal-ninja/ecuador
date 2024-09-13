@@ -1,5 +1,5 @@
 ---
 title: "Uñas de Tela"
 url: /quito/unas-de-tela/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super-T-Lock"
 url: /quito/super-t-lock/
-shop: Autoteile
+shop: piezas de automóviles
 ---

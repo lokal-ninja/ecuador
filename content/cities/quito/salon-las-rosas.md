@@ -1,5 +1,5 @@
 ---
 title: "Salon Las Rosas"
 url: /quito/salon-las-rosas/
-shop: Kosmetik
+shop: cosméticos
 ---

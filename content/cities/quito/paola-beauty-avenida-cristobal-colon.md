@@ -1,5 +1,5 @@
 ---
 title: "Paola Beauty"
 url: /quito/paola-beauty-avenida-cristobal-colon/
-shop: Kosmetik
+shop: cosméticos
 ---

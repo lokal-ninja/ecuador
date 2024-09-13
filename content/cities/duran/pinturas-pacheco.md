@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Pacheco"
 url: /duran/pinturas-pacheco/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Andy"
 url: /quito/andy/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gutierrez Navas"
 url: /quito/gutierrez-navas/
-shop: Eisenwaren
+shop: hardware
 ---

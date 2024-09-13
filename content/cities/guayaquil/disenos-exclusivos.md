@@ -1,5 +1,5 @@
 ---
 title: "Diseños exclusivos"
 url: /guayaquil/disenos-exclusivos/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

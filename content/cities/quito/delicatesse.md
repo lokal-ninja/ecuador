@@ -1,5 +1,5 @@
 ---
 title: "Delicatesse"
 url: /quito/delicatesse/
-shop: Bäckerei
+shop: panadería
 ---

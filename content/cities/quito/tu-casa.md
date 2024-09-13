@@ -1,5 +1,5 @@
 ---
 title: "Tu Casa"
 url: /quito/tu-casa/
-shop: Allgemein
+shop: general
 ---

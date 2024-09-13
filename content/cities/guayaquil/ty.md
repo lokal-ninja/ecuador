@@ -1,5 +1,5 @@
 ---
 title: "TY"
 url: /guayaquil/ty/
-shop: Autoteile
+shop: piezas de automóviles
 ---

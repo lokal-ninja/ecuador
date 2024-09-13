@@ -1,5 +1,5 @@
 ---
 title: "Compuaxir"
 url: /quito/compuaxir/
-shop: Computer
+shop: ordenador
 ---

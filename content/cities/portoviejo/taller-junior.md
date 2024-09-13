@@ -1,5 +1,5 @@
 ---
 title: "Taller Junior"
 url: /portoviejo/taller-junior/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

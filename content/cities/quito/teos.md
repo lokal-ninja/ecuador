@@ -1,5 +1,5 @@
 ---
 title: "Teos"
 url: /quito/teos/
-shop: Allgemein
+shop: general
 ---

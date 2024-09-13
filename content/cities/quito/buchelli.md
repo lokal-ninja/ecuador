@@ -1,5 +1,5 @@
 ---
 title: "Buchelli"
 url: /quito/buchelli/
-shop: Schuhe
+shop: zapatos
 ---

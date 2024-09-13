@@ -1,5 +1,5 @@
 ---
 title: "PC Mania-Net"
 url: /quito/pc-mania-net/
-shop: Computer
+shop: ordenador
 ---

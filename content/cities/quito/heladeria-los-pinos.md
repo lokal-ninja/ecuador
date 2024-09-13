@@ -1,5 +1,5 @@
 ---
 title: "Heladeria Los Pinos"
 url: /quito/heladeria-los-pinos/
-shop: Eisprodukte
+shop: helado
 ---

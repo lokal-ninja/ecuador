@@ -1,5 +1,5 @@
 ---
 title: "RN Estilistas"
 url: /guayaquil/rn-estilistas/
-shop: Friseur
+shop: peluquería
 ---

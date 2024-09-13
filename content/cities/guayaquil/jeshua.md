@@ -1,5 +1,5 @@
 ---
 title: "Jeshua"
 url: /guayaquil/jeshua/
-shop: Möbel
+shop: muebles
 ---

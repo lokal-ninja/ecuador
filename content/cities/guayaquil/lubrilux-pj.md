@@ -1,5 +1,5 @@
 ---
 title: "Lubrilux PJ"
 url: /guayaquil/lubrilux-pj/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

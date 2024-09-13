@@ -1,5 +1,5 @@
 ---
 title: "Servicell JMCA"
 url: /guayaquil/servicell-jmca/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

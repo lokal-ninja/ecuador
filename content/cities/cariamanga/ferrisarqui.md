@@ -1,5 +1,5 @@
 ---
 title: "Ferrisarqui"
 url: /cariamanga/ferrisarqui/
-shop: Eisenwaren
+shop: hardware
 ---

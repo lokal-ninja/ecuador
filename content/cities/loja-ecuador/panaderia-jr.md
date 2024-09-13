@@ -1,5 +1,5 @@
 ---
 title: "Panadería JR"
 url: /loja-ecuador/panaderia-jr/
-shop: Bäckerei
+shop: panadería
 ---

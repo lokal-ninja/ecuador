@@ -1,5 +1,5 @@
 ---
 title: "Mundo Pañal"
 url: /conocoto/mundo-panal/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /guayaquil/honda/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "En Auto"
 url: /quito/en-auto/
-shop: Autohaus
+shop: coche
 ---

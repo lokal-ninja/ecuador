@@ -1,5 +1,5 @@
 ---
 title: "TVENTAS"
 url: /loja/tventas/
-shop: Warenhaus
+shop: grandes almacenes
 ---

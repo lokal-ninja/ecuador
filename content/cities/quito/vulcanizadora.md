@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora"
 url: /quito/vulcanizadora/
-shop: Autoteile
+shop: piezas de automóviles
 ---

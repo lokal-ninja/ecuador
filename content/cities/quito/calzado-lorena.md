@@ -1,5 +1,5 @@
 ---
 title: "Calzado Lorena"
 url: /quito/calzado-lorena/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super 8 (2)"
 url: /cuenca/super-8-2/
-shop: Kramladen
+shop: tienda de variedades
 ---

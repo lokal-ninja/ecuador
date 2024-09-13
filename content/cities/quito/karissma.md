@@ -1,5 +1,5 @@
 ---
 title: "Karissma"
 url: /quito/karissma/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Ximenita"
 url: /quito/lubricantes-ximenita/
-shop: Autoteile
+shop: piezas de automóviles
 ---

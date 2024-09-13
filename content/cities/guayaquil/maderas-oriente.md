@@ -1,5 +1,5 @@
 ---
 title: "Maderas Oriente"
 url: /guayaquil/maderas-oriente/
-shop: Baustoffe
+shop: comercio
 ---

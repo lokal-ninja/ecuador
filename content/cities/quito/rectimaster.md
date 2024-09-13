@@ -1,5 +1,5 @@
 ---
 title: "Rectimaster"
 url: /quito/rectimaster/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tecnicar"
 url: /guayaquil/tecnicar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

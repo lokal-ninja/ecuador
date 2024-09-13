@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora de huevos Zúlimon"
 url: /quito/distribuidora-de-huevos-zulimon/
-shop: Dorfladen
+shop: tienda rural
 ---

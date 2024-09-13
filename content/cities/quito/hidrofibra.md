@@ -1,5 +1,5 @@
 ---
 title: "HIDROFIBRA"
 url: /quito/hidrofibra/
-shop: Lebensmittel
+shop: comodidad
 ---

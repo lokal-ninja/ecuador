@@ -1,5 +1,5 @@
 ---
 title: "Pro Sonido"
 url: /guayaquil/pro-sonido/
-shop: Instrumente
+shop: instrumento musical
 ---

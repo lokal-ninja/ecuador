@@ -1,5 +1,5 @@
 ---
 title: "La Magdalena"
 url: /quito/la-magdalena/
-shop: Autoteile
+shop: piezas de automóviles
 ---

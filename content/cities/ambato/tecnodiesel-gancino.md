@@ -1,5 +1,5 @@
 ---
 title: "TECNODIESEL GANCINO"
 url: /ambato/tecnodiesel-gancino/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ACC"
 url: /quito/acc/
-shop: Autoteile
+shop: piezas de automóviles
 ---

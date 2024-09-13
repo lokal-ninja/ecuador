@@ -1,5 +1,5 @@
 ---
 title: "Rena Motors"
 url: /quito/rena-motors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

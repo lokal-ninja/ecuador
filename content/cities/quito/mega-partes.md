@@ -1,5 +1,5 @@
 ---
 title: "Mega Partes"
 url: /quito/mega-partes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

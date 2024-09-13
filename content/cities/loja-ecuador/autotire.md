@@ -1,5 +1,5 @@
 ---
 title: "Autotire"
 url: /loja-ecuador/autotire/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

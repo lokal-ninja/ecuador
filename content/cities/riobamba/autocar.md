@@ -1,5 +1,5 @@
 ---
 title: "Autocar"
 url: /riobamba/autocar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

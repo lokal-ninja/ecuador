@@ -1,5 +1,5 @@
 ---
 title: "Bodega Willian"
 url: /quito/bodega-willian/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

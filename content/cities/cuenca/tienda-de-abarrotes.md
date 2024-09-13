@@ -1,5 +1,5 @@
 ---
 title: "Tienda de Abarrotes"
 url: /cuenca/tienda-de-abarrotes/
-shop: Allgemein
+shop: general
 ---

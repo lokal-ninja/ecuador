@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /guayaquil/renault/
-shop: Autohaus
+shop: coche
 ---

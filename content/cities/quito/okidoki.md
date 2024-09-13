@@ -1,5 +1,5 @@
 ---
 title: "OkiDoki"
 url: /quito/okidoki/
-shop: Lebensmittel
+shop: comodidad
 ---

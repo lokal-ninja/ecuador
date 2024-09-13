@@ -1,5 +1,5 @@
 ---
 title: "Panadería Jr"
 url: /guayaquil/panaderia-jr/
-shop: Bäckerei
+shop: panadería
 ---

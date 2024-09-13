@@ -1,5 +1,5 @@
 ---
 title: "Madetrek"
 url: /quito/madetrek/
-shop: Fußböden
+shop: suelos
 ---

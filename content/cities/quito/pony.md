@@ -1,5 +1,5 @@
 ---
 title: "Pony"
 url: /quito/pony/
-shop: Gemüse & Obst
+shop: frutería
 ---

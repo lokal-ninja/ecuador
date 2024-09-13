@@ -1,5 +1,5 @@
 ---
 title: "Auto Clinic"
 url: /cuenca/auto-clinic/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

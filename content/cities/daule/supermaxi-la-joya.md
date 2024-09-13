@@ -1,5 +1,5 @@
 ---
 title: "Supermaxi La Joya"
 url: /daule/supermaxi-la-joya/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metal Mecanica Rodriguez"
 url: /quito/metal-mecanica-rodriguez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

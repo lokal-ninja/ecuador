@@ -1,5 +1,5 @@
 ---
 title: "Bodega el Baratón"
 url: /quito/bodega-el-baraton/
-shop: Allgemein
+shop: general
 ---

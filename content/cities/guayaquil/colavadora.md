@@ -1,5 +1,5 @@
 ---
 title: "Colavadora"
 url: /guayaquil/colavadora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mega Variedades"
 url: /quito/mega-variedades/
-shop: Kramladen
+shop: tienda de variedades
 ---

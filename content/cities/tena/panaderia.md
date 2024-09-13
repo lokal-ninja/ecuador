@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /tena/panaderia/
-shop: Bäckerei
+shop: panadería
 ---

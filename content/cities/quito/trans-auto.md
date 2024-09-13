@@ -1,5 +1,5 @@
 ---
 title: "Trans Auto"
 url: /quito/trans-auto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes El Carmen"
 url: /quito/lubricantes-el-carmen/
-shop: Autoteile
+shop: piezas de automóviles
 ---

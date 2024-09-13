@@ -1,5 +1,5 @@
 ---
 title: "Multicell"
 url: /guayaquil/multicell/
-shop: Handy
+shop: teléfono móvil
 ---

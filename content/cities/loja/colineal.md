@@ -1,5 +1,5 @@
 ---
 title: "Colineal"
 url: /loja/colineal/
-shop: Möbel
+shop: muebles
 ---

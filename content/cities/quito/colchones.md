@@ -1,5 +1,5 @@
 ---
 title: "Colchones"
 url: /quito/colchones/
-shop: Betten
+shop: cama
 ---

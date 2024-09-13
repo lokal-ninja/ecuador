@@ -1,5 +1,5 @@
 ---
 title: "Kars"
 url: /cumbaya/kars/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

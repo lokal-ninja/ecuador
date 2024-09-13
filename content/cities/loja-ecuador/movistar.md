@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /loja-ecuador/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ecomontes Tour"
 url: /quito/ecomontes-tour/
-shop: Reisebüro
+shop: agencia de viajes
 ---

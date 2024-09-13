@@ -1,5 +1,5 @@
 ---
 title: "Papelería"
 url: /quito/papeleria-jardines-de-amagasi/
-shop: Schreibwaren
+shop: material de oficina
 ---

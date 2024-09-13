@@ -1,5 +1,5 @@
 ---
 title: "Lavadoalseco"
 url: /quito/lavadoalseco/
-shop: Wäscherei
+shop: lavandería
 ---

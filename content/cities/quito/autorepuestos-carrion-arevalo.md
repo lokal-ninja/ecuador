@@ -1,5 +1,5 @@
 ---
 title: "Autorepuestos Carrion Arevalo"
 url: /quito/autorepuestos-carrion-arevalo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

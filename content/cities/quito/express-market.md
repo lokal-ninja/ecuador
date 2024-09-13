@@ -1,5 +1,5 @@
 ---
 title: "Express Market"
 url: /quito/express-market/
-shop: Lebensmittel
+shop: comodidad
 ---

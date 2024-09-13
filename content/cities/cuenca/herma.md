@@ -1,5 +1,5 @@
 ---
 title: "Herma"
 url: /cuenca/herma/
-shop: Kleidung
+shop: ropa
 ---

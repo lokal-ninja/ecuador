@@ -1,5 +1,5 @@
 ---
 title: "Amen Plaza"
 url: /portoviejo/amen-plaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

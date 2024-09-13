@@ -1,5 +1,5 @@
 ---
 title: "Transcomba S.A"
 url: /arenillas/transcomba-s-a/
-shop: Handy
+shop: teléfono móvil
 ---

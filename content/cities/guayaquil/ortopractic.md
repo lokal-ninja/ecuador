@@ -1,5 +1,5 @@
 ---
 title: "Ortopractic"
 url: /guayaquil/ortopractic/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

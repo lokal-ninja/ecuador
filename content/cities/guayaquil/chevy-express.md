@@ -1,5 +1,5 @@
 ---
 title: "Chevy Express"
 url: /guayaquil/chevy-express/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

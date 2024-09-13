@@ -1,5 +1,5 @@
 ---
 title: "Rotulos"
 url: /quito/rotulos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mueblicar"
 url: /quito/mueblicar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bailoterapia"
 url: /guayaquil/bailoterapia/
-shop: Allgemein
+shop: general
 ---

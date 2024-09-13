@@ -1,5 +1,5 @@
 ---
 title: "Muebles Evelyn"
 url: /quito/muebles-evelyn/
-shop: Möbel
+shop: muebles
 ---

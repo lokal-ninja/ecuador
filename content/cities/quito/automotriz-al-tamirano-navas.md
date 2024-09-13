@@ -1,5 +1,5 @@
 ---
 title: "Automotriz al Tamirano Navas"
 url: /quito/automotriz-al-tamirano-navas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servistore"
 url: /quito/servistore/
-shop: Schreibwaren
+shop: material de oficina
 ---

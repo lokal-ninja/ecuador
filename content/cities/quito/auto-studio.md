@@ -1,5 +1,5 @@
 ---
 title: "Auto Studio"
 url: /quito/auto-studio/
-shop: Autoteile
+shop: piezas de automóviles
 ---

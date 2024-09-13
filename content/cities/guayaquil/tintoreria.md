@@ -1,5 +1,5 @@
 ---
 title: "Tintorería"
 url: /guayaquil/tintoreria/
-shop: Wäscherei
+shop: lavandería
 ---

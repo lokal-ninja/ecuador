@@ -1,5 +1,5 @@
 ---
 title: "Phone World"
 url: /sangolqui/phone-world/
-shop: Handy
+shop: teléfono móvil
 ---

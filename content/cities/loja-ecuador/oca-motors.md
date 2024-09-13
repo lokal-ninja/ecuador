@@ -1,5 +1,5 @@
 ---
 title: "OCA Motors"
 url: /loja-ecuador/oca-motors/
-shop: Autohaus
+shop: coche
 ---

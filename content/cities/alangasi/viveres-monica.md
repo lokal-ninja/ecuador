@@ -1,5 +1,5 @@
 ---
 title: "Viveres Monica"
 url: /alangasi/viveres-monica/
-shop: Lebensmittel
+shop: comodidad
 ---

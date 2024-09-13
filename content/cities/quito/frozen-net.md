@@ -1,5 +1,5 @@
 ---
 title: "Frozen Net"
 url: /quito/frozen-net/
-shop: Eisprodukte
+shop: helado
 ---

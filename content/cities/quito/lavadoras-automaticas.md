@@ -1,5 +1,5 @@
 ---
 title: "Lavadoras Automáticas"
 url: /quito/lavadoras-automaticas/
-shop: Wäscherei
+shop: lavandería
 ---

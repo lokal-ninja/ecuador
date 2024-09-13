@@ -1,5 +1,5 @@
 ---
 title: "INDIAN BARBERIA"
 url: /loja-ecuador/indian-barberia/
-shop: Friseur
+shop: peluquería
 ---

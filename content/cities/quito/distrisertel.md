@@ -1,5 +1,5 @@
 ---
 title: "Distrisertel"
 url: /quito/distrisertel/
-shop: Allgemein
+shop: general
 ---

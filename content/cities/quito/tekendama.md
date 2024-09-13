@@ -1,5 +1,5 @@
 ---
 title: "Tekendama"
 url: /quito/tekendama/
-shop: Bäckerei
+shop: panadería
 ---

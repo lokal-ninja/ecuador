@@ -1,5 +1,5 @@
 ---
 title: "Emerson Ford"
 url: /quito/emerson-ford-avenida-10-de-agosto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

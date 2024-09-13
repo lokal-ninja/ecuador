@@ -1,5 +1,5 @@
 ---
 title: "Homes"
 url: /quito/homes/
-shop: Musik
+shop: música
 ---

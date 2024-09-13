@@ -1,5 +1,5 @@
 ---
 title: "Estrellita"
 url: /guayaquil/estrellita/
-shop: Tiere
+shop: mascotas
 ---

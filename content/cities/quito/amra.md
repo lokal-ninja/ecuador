@@ -1,5 +1,5 @@
 ---
 title: "AMRA"
 url: /quito/amra/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

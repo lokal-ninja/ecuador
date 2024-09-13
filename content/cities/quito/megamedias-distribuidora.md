@@ -1,5 +1,5 @@
 ---
 title: "Megamedia's Distribuidora"
 url: /quito/megamedias-distribuidora/
-shop: Kleidung
+shop: ropa
 ---

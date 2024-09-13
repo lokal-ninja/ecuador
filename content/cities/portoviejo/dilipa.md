@@ -1,5 +1,5 @@
 ---
 title: "DILIPA"
 url: /portoviejo/dilipa/
-shop: Schreibwaren
+shop: material de oficina
 ---

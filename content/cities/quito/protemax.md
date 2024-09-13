@@ -1,5 +1,5 @@
 ---
 title: "Protemax"
 url: /quito/protemax/
-shop: Autoteile
+shop: piezas de automóviles
 ---

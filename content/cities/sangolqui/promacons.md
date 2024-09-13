@@ -1,5 +1,5 @@
 ---
 title: "Promacons"
 url: /sangolqui/promacons/
-shop: Baustoffe
+shop: comercio
 ---

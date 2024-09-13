@@ -1,5 +1,5 @@
 ---
 title: "Castellon"
 url: /quito/castellon/
-shop: Bäckerei
+shop: panadería
 ---

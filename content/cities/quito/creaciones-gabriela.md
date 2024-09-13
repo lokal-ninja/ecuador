@@ -1,5 +1,5 @@
 ---
 title: "Creaciones Gabriela"
 url: /quito/creaciones-gabriela/
-shop: Schuhe
+shop: zapatos
 ---

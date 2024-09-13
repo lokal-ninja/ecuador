@@ -1,5 +1,5 @@
 ---
 title: "Imbauto Esmeraldas (Chevrolet)"
 url: /esmeraldas/imbauto-esmeraldas-chevrolet/
-shop: Autohaus
+shop: coche
 ---

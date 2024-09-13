@@ -1,5 +1,5 @@
 ---
 title: "Buenhogar"
 url: /guayaquil/buenhogar/
-shop: Möbel
+shop: muebles
 ---

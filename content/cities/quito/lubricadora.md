@@ -1,5 +1,5 @@
 ---
 title: "Lubricadora"
 url: /quito/lubricadora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

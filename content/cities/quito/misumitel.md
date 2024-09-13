@@ -1,5 +1,5 @@
 ---
 title: "Misumitel"
 url: /quito/misumitel/
-shop: Handy
+shop: teléfono móvil
 ---

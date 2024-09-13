@@ -1,5 +1,5 @@
 ---
 title: "Martinizing"
 url: /guayaquil/martinizing/
-shop: Wäscherei
+shop: lavandería
 ---

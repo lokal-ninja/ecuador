@@ -1,5 +1,5 @@
 ---
 title: "SERVICE ZONE"
 url: /cuenca/service-zone/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

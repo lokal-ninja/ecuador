@@ -1,5 +1,5 @@
 ---
 title: "Tecnicentro"
 url: /guayaquil/tecnicentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

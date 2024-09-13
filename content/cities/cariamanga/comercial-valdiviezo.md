@@ -1,5 +1,5 @@
 ---
 title: "Comercial Valdiviezo"
 url: /cariamanga/comercial-valdiviezo/
-shop: Supermarkt
+shop: supermercado
 ---

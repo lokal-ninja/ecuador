@@ -1,5 +1,5 @@
 ---
 title: "Servitec"
 url: /quito/servitec/
-shop: Allgemein
+shop: general
 ---

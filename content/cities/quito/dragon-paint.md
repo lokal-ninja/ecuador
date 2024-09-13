@@ -1,5 +1,5 @@
 ---
 title: "Dragon Paint"
 url: /quito/dragon-paint/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papelitos"
 url: /guayaquil/papelitos/
-shop: Schreibwaren
+shop: material de oficina
 ---

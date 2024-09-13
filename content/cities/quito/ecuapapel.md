@@ -1,5 +1,5 @@
 ---
 title: "Ecuapapel"
 url: /quito/ecuapapel/
-shop: Schreibwaren
+shop: material de oficina
 ---

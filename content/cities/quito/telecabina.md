@@ -1,5 +1,5 @@
 ---
 title: "Telecabina"
 url: /quito/telecabina/
-shop: Handy
+shop: teléfono móvil
 ---

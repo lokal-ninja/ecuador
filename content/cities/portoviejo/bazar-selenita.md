@@ -1,5 +1,5 @@
 ---
 title: "Bazar Selenita"
 url: /portoviejo/bazar-selenita/
-shop: Kramladen
+shop: tienda de variedades
 ---

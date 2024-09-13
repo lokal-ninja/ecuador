@@ -1,5 +1,5 @@
 ---
 title: "SU MINI GOLOSITO"
 url: /quito/su-mini-golosito/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metalmecanica Camily"
 url: /riobamba/metalmecanica-camily/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

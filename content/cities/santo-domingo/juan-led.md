@@ -1,5 +1,5 @@
 ---
 title: "JUAN LED"
 url: /santo-domingo/juan-led/
-shop: Autohaus
+shop: coche
 ---

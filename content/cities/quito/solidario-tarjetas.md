@@ -1,5 +1,5 @@
 ---
 title: "Solidario Tarjetas"
 url: /quito/solidario-tarjetas/
-shop: Allgemein
+shop: general
 ---

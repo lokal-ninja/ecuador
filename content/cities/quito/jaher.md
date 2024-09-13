@@ -1,5 +1,5 @@
 ---
 title: "Jaher"
 url: /quito/jaher/
-shop: Elektronik
+shop: electrónica
 ---

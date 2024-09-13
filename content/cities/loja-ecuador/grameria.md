@@ -1,5 +1,5 @@
 ---
 title: "GRAMERIA"
 url: /loja-ecuador/grameria/
-shop: Supermarkt
+shop: supermercado
 ---

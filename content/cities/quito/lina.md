@@ -1,5 +1,5 @@
 ---
 title: "Lina"
 url: /quito/lina/
-shop: Warenhaus
+shop: grandes almacenes
 ---

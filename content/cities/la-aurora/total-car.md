@@ -1,5 +1,5 @@
 ---
 title: "TOTAL CAR"
 url: /la-aurora/total-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

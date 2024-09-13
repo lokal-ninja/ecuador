@@ -1,5 +1,5 @@
 ---
 title: "General Cable"
 url: /quito/general-cable/
-shop: Allgemein
+shop: general
 ---

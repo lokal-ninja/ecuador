@@ -1,5 +1,5 @@
 ---
 title: "SALVAMENTOS AUTOMOTRICES"
 url: /quito/salvamentos-automotrices/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

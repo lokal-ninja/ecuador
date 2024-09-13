@@ -1,5 +1,5 @@
 ---
 title: "Le Fine"
 url: /quito/le-fine/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costo"
 url: /quito/costo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

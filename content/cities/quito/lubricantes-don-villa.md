@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Don Villa"
 url: /quito/lubricantes-don-villa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

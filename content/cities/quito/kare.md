@@ -1,5 +1,5 @@
 ---
 title: "KARE"
 url: /quito/kare/
-shop: Allgemein
+shop: general
 ---

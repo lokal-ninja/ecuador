@@ -1,5 +1,5 @@
 ---
 title: "Plásticos y Fiestas Marco Polo"
 url: /guayaquil/plasticos-y-fiestas-marco-polo/
-shop: Partyzubehör
+shop: fiesta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bordados Auto"
 url: /quito/bordados-auto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

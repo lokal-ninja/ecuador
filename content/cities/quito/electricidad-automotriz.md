@@ -1,5 +1,5 @@
 ---
 title: "Electricidad Automotriz"
 url: /quito/electricidad-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

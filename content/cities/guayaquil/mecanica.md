@@ -1,5 +1,5 @@
 ---
 title: "Mecanica"
 url: /guayaquil/mecanica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

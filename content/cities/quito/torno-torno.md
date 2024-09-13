@@ -1,5 +1,5 @@
 ---
 title: "Torno Torno"
 url: /quito/torno-torno/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Towy"
 url: /quito/autoservicio-towy/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Utilfreno"
 url: /quito/utilfreno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

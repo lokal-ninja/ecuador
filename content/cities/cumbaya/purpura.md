@@ -1,5 +1,5 @@
 ---
 title: "Púrpura"
 url: /cumbaya/purpura/
-shop: Allgemein
+shop: general
 ---

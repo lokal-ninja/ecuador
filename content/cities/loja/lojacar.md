@@ -1,5 +1,5 @@
 ---
 title: "LOJACAR"
 url: /loja/lojacar/
-shop: Autohaus
+shop: coche
 ---

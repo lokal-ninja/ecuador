@@ -1,5 +1,5 @@
 ---
 title: "Gráficas Santiago"
 url: /loja-ecuador/graficas-santiago/
-shop: Schreibwaren
+shop: material de oficina
 ---

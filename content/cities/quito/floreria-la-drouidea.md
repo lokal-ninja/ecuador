@@ -1,5 +1,5 @@
 ---
 title: "Floreria La Drouidea"
 url: /quito/floreria-la-drouidea/
-shop: Blumen
+shop: floristería
 ---

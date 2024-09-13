@@ -1,5 +1,5 @@
 ---
 title: "Tecnicentro Córdova"
 url: /cariamanga/tecnicentro-cordova/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

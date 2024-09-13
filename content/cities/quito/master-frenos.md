@@ -1,5 +1,5 @@
 ---
 title: "Master Frenos"
 url: /quito/master-frenos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

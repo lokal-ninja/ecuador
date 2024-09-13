@@ -1,5 +1,5 @@
 ---
 title: "Automotriz Jonathan"
 url: /quito/automotriz-jonathan/
-shop: Autoteile
+shop: piezas de automóviles
 ---

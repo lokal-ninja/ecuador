@@ -1,5 +1,5 @@
 ---
 title: "Disoloxi"
 url: /quito/disoloxi/
-shop: Allgemein
+shop: general
 ---

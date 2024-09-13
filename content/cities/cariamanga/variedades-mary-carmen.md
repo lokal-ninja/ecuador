@@ -1,5 +1,5 @@
 ---
 title: "Variedades Mary Carmen"
 url: /cariamanga/variedades-mary-carmen/
-shop: Kramladen
+shop: tienda de variedades
 ---

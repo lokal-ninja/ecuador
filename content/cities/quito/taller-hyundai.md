@@ -1,5 +1,5 @@
 ---
 title: "Taller Hyundai"
 url: /quito/taller-hyundai/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

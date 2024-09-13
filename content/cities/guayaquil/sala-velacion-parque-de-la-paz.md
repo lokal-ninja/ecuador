@@ -1,5 +1,5 @@
 ---
 title: "Sala Velación Parque de la Paz"
 url: /guayaquil/sala-velacion-parque-de-la-paz/
-shop: Bestattungen
+shop: directores de funerarias
 ---

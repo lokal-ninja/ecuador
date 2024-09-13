@@ -1,5 +1,5 @@
 ---
 title: "Glamour"
 url: /guayaquil/glamour/
-shop: Kosmetik
+shop: cosméticos
 ---

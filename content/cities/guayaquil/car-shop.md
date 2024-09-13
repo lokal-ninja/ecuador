@@ -1,5 +1,5 @@
 ---
 title: "Car Shop"
 url: /guayaquil/car-shop/
-shop: Autoteile
+shop: piezas de automóviles
 ---

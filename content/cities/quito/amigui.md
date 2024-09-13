@@ -1,5 +1,5 @@
 ---
 title: "Amigui"
 url: /quito/amigui/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Papelería"
 url: /quito/super-papeleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

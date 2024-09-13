@@ -1,5 +1,5 @@
 ---
 title: "Delportal"
 url: /guayaquil/delportal/
-shop: Supermarkt
+shop: supermercado
 ---

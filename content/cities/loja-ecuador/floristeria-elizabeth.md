@@ -1,5 +1,5 @@
 ---
 title: "Floristería Elizabeth"
 url: /loja-ecuador/floristeria-elizabeth/
-shop: Blumen
+shop: floristería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mecanica Don Nestor"
 url: /pablo-arenas/mecanica-don-nestor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Comercial"
 url: /duran/ferreteria-comercial/
-shop: Eisenwaren
+shop: hardware
 ---

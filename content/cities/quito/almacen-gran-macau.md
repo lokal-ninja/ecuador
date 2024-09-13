@@ -1,5 +1,5 @@
 ---
 title: "Almacen Gran Macau"
 url: /quito/almacen-gran-macau/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calzado Camayer"
 url: /quito/calzado-camayer/
-shop: Schuhe
+shop: zapatos
 ---

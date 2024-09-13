@@ -1,5 +1,5 @@
 ---
 title: "Papelería Ernestito"
 url: /alamor/papeleria-ernestito/
-shop: Schreibwaren
+shop: material de oficina
 ---

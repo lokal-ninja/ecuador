@@ -1,5 +1,5 @@
 ---
 title: "Midland Travel"
 url: /quito/midland-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

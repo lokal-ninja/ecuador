@@ -1,5 +1,5 @@
 ---
 title: "Autolider"
 url: /guayaquil/autolider/
-shop: Autohaus
+shop: coche
 ---

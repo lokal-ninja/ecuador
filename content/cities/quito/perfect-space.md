@@ -1,5 +1,5 @@
 ---
 title: "Perfect Space"
 url: /quito/perfect-space/
-shop: Kleidung
+shop: ropa
 ---

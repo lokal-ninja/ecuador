@@ -1,5 +1,5 @@
 ---
 title: "Bazar Estera"
 url: /guayaquil/bazar-estera/
-shop: Lebensmittel
+shop: comodidad
 ---

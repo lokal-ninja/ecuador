@@ -1,5 +1,5 @@
 ---
 title: "Master PC norte"
 url: /loja-ecuador/master-pc-norte/
-shop: Computer
+shop: ordenador
 ---

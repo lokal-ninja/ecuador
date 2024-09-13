@@ -1,5 +1,5 @@
 ---
 title: "Lubripartes"
 url: /quito/lubripartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

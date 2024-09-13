@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria en General"
 url: /quito/ferreteria-en-general/
-shop: Eisenwaren
+shop: hardware
 ---

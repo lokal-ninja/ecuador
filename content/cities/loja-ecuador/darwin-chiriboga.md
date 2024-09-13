@@ -1,5 +1,5 @@
 ---
 title: "Darwin Chiriboga"
 url: /loja-ecuador/darwin-chiriboga/
-shop: Bäckerei
+shop: panadería
 ---

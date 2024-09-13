@@ -1,5 +1,5 @@
 ---
 title: "Mundo Empaques"
 url: /quito/mundo-empaques/
-shop: Allgemein
+shop: general
 ---

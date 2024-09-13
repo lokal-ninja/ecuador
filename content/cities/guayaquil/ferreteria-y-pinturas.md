@@ -1,5 +1,5 @@
 ---
 title: "Ferretería y Pinturas"
 url: /guayaquil/ferreteria-y-pinturas/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Molinos y Martek Torres"
 url: /chocarpamba/molinos-y-martek-torres/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

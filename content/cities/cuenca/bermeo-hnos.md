@@ -1,5 +1,5 @@
 ---
 title: "Bermeo Hnos"
 url: /cuenca/bermeo-hnos/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

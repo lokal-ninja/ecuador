@@ -1,5 +1,5 @@
 ---
 title: "Italdeli Machala"
 url: /machala/italdeli-machala/
-shop: Feinkost
+shop: charcutería
 ---

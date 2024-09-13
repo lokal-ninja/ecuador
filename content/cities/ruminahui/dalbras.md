@@ -1,5 +1,5 @@
 ---
 title: "Dalbras"
 url: /ruminahui/dalbras/
-shop: Autoteile
+shop: piezas de automóviles
 ---

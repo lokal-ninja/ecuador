@@ -1,5 +1,5 @@
 ---
 title: "Danec"
 url: /sangolqui/danec/
-shop: Warenhaus
+shop: grandes almacenes
 ---

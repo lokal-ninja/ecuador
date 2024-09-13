@@ -1,5 +1,5 @@
 ---
 title: "Ecostravel"
 url: /quito/ecostravel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

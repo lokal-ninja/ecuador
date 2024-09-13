@@ -1,5 +1,5 @@
 ---
 title: "CNT"
 url: /cuenca/cnt/
-shop: Handy
+shop: teléfono móvil
 ---

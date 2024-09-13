@@ -1,5 +1,5 @@
 ---
 title: "Hilachas"
 url: /quito/hilachas/
-shop: Allgemein
+shop: general
 ---

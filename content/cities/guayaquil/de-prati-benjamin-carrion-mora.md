@@ -1,5 +1,5 @@
 ---
 title: "De Prati"
 url: /guayaquil/de-prati-benjamin-carrion-mora/
-shop: Warenhaus
+shop: grandes almacenes
 ---

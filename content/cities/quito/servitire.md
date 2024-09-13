@@ -1,5 +1,5 @@
 ---
 title: "ServiTire"
 url: /quito/servitire/
-shop: Reifen
+shop: neumáticos
 ---

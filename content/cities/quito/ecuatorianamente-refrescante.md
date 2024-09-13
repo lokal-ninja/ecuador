@@ -1,5 +1,5 @@
 ---
 title: "Ecuatorianamente Refrescante"
 url: /quito/ecuatorianamente-refrescante/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quesos"
 url: /saraguro/quesos/
-shop: Allgemein
+shop: general
 ---

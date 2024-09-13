@@ -1,5 +1,5 @@
 ---
 title: "Resortes"
 url: /quito/resortes/
-shop: Allgemein
+shop: general
 ---

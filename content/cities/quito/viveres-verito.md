@@ -1,5 +1,5 @@
 ---
 title: "Viveres Verito"
 url: /quito/viveres-verito/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LUBRILAV 2"
 url: /riobamba/lubrilav-2/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

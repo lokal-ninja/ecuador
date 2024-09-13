@@ -1,5 +1,5 @@
 ---
 title: "MAGIAUTO"
 url: /loja/magiauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

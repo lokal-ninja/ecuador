@@ -1,5 +1,5 @@
 ---
 title: "Jsn"
 url: /quito/jsn/
-shop: Kleidung
+shop: ropa
 ---

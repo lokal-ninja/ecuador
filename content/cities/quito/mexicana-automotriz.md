@@ -1,5 +1,5 @@
 ---
 title: "Mexicana Automotriz"
 url: /quito/mexicana-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

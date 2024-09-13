@@ -1,5 +1,5 @@
 ---
 title: "Ruli Valle"
 url: /sangolqui/ruli-valle/
-shop: Allgemein
+shop: general
 ---

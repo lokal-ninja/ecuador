@@ -1,5 +1,5 @@
 ---
 title: "Car Shock"
 url: /quito/car-shock/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bosch"
 url: /quito/bosch/
-shop: Autoteile
+shop: piezas de automóviles
 ---

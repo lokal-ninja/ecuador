@@ -1,5 +1,5 @@
 ---
 title: "BASTI Micromercado"
 url: /taisha/basti-micromercado/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Microquito"
 url: /quito/microquito/
-shop: Bäckerei
+shop: panadería
 ---

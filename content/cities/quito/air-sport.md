@@ -1,5 +1,5 @@
 ---
 title: "Air Sport"
 url: /quito/air-sport/
-shop: Kramladen
+shop: tienda de variedades
 ---

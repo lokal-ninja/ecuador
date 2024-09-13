@@ -1,5 +1,5 @@
 ---
 title: "Almacén Zambrano"
 url: /guayaquil/almacen-zambrano/
-shop: Warenhaus
+shop: grandes almacenes
 ---

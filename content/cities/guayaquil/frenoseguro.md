@@ -1,5 +1,5 @@
 ---
 title: "Frenoseguro"
 url: /guayaquil/frenoseguro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

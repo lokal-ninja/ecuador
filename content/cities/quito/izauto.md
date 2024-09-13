@@ -1,5 +1,5 @@
 ---
 title: "Izauto"
 url: /quito/izauto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

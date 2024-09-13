@@ -1,5 +1,5 @@
 ---
 title: "Fragance"
 url: /loja-ecuador/fragance/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Easywash"
 url: /quito/easywash/
-shop: Wäscherei
+shop: lavandería
 ---

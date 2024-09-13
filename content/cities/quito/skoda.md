@@ -1,5 +1,5 @@
 ---
 title: "Skoda"
 url: /quito/skoda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

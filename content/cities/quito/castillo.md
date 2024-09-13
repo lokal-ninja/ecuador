@@ -1,5 +1,5 @@
 ---
 title: "Castillo"
 url: /quito/castillo/
-shop: Eisenwaren
+shop: hardware
 ---

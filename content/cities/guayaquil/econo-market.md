@@ -1,5 +1,5 @@
 ---
 title: "Econo Market"
 url: /guayaquil/econo-market/
-shop: Lebensmittel
+shop: comodidad
 ---

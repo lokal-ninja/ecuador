@@ -1,5 +1,5 @@
 ---
 title: "Full Car"
 url: /cuenca/full-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

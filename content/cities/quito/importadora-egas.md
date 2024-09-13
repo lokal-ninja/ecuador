@@ -1,5 +1,5 @@
 ---
 title: "Importadora Egas"
 url: /quito/importadora-egas/
-shop: Allgemein
+shop: general
 ---

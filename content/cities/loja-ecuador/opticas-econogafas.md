@@ -1,5 +1,5 @@
 ---
 title: "Ópticas Econogafas"
 url: /loja-ecuador/opticas-econogafas/
-shop: Optiker
+shop: óptico
 ---

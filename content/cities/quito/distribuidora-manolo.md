@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Manolo"
 url: /quito/distribuidora-manolo/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "APRONAM"
 url: /chone/apronam/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

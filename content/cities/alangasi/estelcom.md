@@ -1,5 +1,5 @@
 ---
 title: "Estelcom"
 url: /alangasi/estelcom/
-shop: Allgemein
+shop: general
 ---

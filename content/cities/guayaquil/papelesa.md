@@ -1,5 +1,5 @@
 ---
 title: "Papelesa"
 url: /guayaquil/papelesa/
-shop: Warenhaus
+shop: grandes almacenes
 ---

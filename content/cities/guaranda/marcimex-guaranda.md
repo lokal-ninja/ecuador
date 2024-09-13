@@ -1,5 +1,5 @@
 ---
 title: "Marcimex Guaranda"
 url: /guaranda/marcimex-guaranda/
-shop: Supermarkt
+shop: supermercado
 ---

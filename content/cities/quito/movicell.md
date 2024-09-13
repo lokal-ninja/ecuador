@@ -1,5 +1,5 @@
 ---
 title: "Movicell"
 url: /quito/movicell/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Infinitech"
 url: /puerto-bolivar/infinitech/
-shop: Allgemein
+shop: general
 ---

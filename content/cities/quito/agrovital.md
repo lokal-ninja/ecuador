@@ -1,5 +1,5 @@
 ---
 title: "Agrovital"
 url: /quito/agrovital/
-shop: Baustoffe
+shop: comercio
 ---

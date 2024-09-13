@@ -1,5 +1,5 @@
 ---
 title: "Surty Market"
 url: /quito/surty-market/
-shop: Lebensmittel
+shop: comodidad
 ---

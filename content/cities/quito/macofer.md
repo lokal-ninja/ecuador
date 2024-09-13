@@ -1,5 +1,5 @@
 ---
 title: "Macofer"
 url: /quito/macofer/
-shop: Baustoffe
+shop: comercio
 ---

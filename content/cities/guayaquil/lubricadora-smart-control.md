@@ -1,5 +1,5 @@
 ---
 title: "Lubricadora Smart Control"
 url: /guayaquil/lubricadora-smart-control/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

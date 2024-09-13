@@ -1,5 +1,5 @@
 ---
 title: "INVIDROSA PARABRISAS"
 url: /puyo/invidrosa-parabrisas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

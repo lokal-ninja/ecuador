@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /sangolqui/paul/
-shop: Friseur
+shop: peluquería
 ---

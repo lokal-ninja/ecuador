@@ -1,5 +1,5 @@
 ---
 title: "Estefania"
 url: /guayaquil/estefania/
-shop: Bäckerei
+shop: panadería
 ---

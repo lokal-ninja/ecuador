@@ -1,5 +1,5 @@
 ---
 title: "Tatuajes"
 url: /quito/tatuajes/
-shop: Tattoo
+shop: tatuaje
 ---

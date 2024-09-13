@@ -1,5 +1,5 @@
 ---
 title: "Autopartes Imfrisa"
 url: /guayaquil/autopartes-imfrisa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

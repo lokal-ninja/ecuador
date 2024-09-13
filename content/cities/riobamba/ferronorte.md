@@ -1,5 +1,5 @@
 ---
 title: "FERRONORTE"
 url: /riobamba/ferronorte/
-shop: Eisenwaren
+shop: hardware
 ---

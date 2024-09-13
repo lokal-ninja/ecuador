@@ -1,5 +1,5 @@
 ---
 title: "Baby Karolys"
 url: /loja/baby-karolys/
-shop: Babysachen
+shop: artículos para bebés
 ---

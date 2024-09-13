@@ -1,5 +1,5 @@
 ---
 title: "GregoCompu"
 url: /guayaquil/gregocompu/
-shop: Computer
+shop: ordenador
 ---

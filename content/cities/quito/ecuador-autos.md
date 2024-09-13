@@ -1,5 +1,5 @@
 ---
 title: "ECUADOR AUTOS"
 url: /quito/ecuador-autos/
-shop: Autohaus
+shop: coche
 ---

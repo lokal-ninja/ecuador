@@ -1,5 +1,5 @@
 ---
 title: "Artes Graficas"
 url: /quito/artes-graficas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

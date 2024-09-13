@@ -1,5 +1,5 @@
 ---
 title: "Punto de Fabrica"
 url: /quito/punto-de-fabrica/
-shop: Möbel
+shop: muebles
 ---

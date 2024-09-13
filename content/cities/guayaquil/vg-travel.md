@@ -1,5 +1,5 @@
 ---
 title: "VG Travel"
 url: /guayaquil/vg-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

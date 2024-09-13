@@ -1,5 +1,5 @@
 ---
 title: "Mervasa"
 url: /guayaquil/mervasa/
-shop: Schreibwaren
+shop: material de oficina
 ---

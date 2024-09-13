@@ -1,5 +1,5 @@
 ---
 title: "Cedal Aluminio"
 url: /quito/cedal-aluminio/
-shop: Allgemein
+shop: general
 ---

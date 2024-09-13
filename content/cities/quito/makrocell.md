@@ -1,5 +1,5 @@
 ---
 title: "Makrocell"
 url: /quito/makrocell/
-shop: Kopieren
+shop: copyshop
 ---

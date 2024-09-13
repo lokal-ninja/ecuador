@@ -1,5 +1,5 @@
 ---
 title: "Lumix"
 url: /guayaquil/lumix/
-shop: Kamera
+shop: cámara
 ---

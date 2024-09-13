@@ -1,5 +1,5 @@
 ---
 title: "MINIMARKET MONSERRATE"
 url: /guayaquil/minimarket-monserrate/
-shop: Supermarkt
+shop: supermercado
 ---

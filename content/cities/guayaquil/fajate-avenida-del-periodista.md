@@ -1,5 +1,5 @@
 ---
 title: "Fájate"
 url: /guayaquil/fajate-avenida-del-periodista/
-shop: Kleidung
+shop: ropa
 ---

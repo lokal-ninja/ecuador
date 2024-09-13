@@ -1,5 +1,5 @@
 ---
 title: "Autotécnica Escobar"
 url: /guayaquil/autotecnica-escobar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SOS optical"
 url: /loja-ecuador/sos-optical/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autobaterias"
 url: /quito/autobaterias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

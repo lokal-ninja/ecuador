@@ -1,5 +1,5 @@
 ---
 title: "Ander"
 url: /quito/ander/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kerámicos"
 url: /portoviejo/keramicos/
-shop: Fliesen
+shop: baldosas
 ---

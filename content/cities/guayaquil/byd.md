@@ -1,5 +1,5 @@
 ---
 title: "BYD"
 url: /guayaquil/byd/
-shop: Autohaus
+shop: coche
 ---

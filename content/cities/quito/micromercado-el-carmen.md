@@ -1,5 +1,5 @@
 ---
 title: "Micromercado El Carmen"
 url: /quito/micromercado-el-carmen/
-shop: Lebensmittel
+shop: comodidad
 ---

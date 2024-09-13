@@ -1,5 +1,5 @@
 ---
 title: "Multicompu"
 url: /quito/multicompu/
-shop: Allgemein
+shop: general
 ---

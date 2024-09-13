@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria"
 url: /quito/ferreteria-lizardo-ruiz/
-shop: Eisenwaren
+shop: hardware
 ---

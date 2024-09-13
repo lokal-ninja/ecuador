@@ -1,5 +1,5 @@
 ---
 title: "Tienda Rosita"
 url: /soapaca/tienda-rosita/
-shop: Supermarkt
+shop: supermercado
 ---

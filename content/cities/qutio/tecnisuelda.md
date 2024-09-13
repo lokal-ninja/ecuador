@@ -1,5 +1,5 @@
 ---
 title: "Tecnisuelda"
 url: /qutio/tecnisuelda/
-shop: Autoteile
+shop: piezas de automóviles
 ---

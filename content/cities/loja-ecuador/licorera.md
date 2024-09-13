@@ -1,5 +1,5 @@
 ---
 title: "Licorera"
 url: /loja-ecuador/licorera/
-shop: Spirituosen
+shop: alcohol
 ---

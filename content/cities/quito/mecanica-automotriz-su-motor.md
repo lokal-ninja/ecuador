@@ -1,5 +1,5 @@
 ---
 title: "Mecanica Automotriz su Motor"
 url: /quito/mecanica-automotriz-su-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

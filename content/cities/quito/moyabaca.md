@@ -1,5 +1,5 @@
 ---
 title: "Moyabaca"
 url: /quito/moyabaca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

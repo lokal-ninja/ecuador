@@ -1,5 +1,5 @@
 ---
 title: "DM SPORTS"
 url: /quito/dm-sports/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tattoo Studio"
 url: /loja-ecuador/tattoo-studio/
-shop: Tattoo
+shop: tatuaje
 ---

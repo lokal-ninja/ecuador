@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Novedade"
 url: /quito/peluqueria-novedade/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /quito/movistar-orellana/
-shop: Handy
+shop: teléfono móvil
 ---

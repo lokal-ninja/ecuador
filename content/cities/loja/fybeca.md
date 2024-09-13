@@ -1,5 +1,5 @@
 ---
 title: "Fybeca"
 url: /loja/fybeca/
-shop: Drogerie
+shop: farmacia
 ---

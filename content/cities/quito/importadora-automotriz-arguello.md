@@ -1,5 +1,5 @@
 ---
 title: "Importadora Automotriz Arguello"
 url: /quito/importadora-automotriz-arguello/
-shop: Autoteile
+shop: piezas de automóviles
 ---

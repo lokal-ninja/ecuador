@@ -1,5 +1,5 @@
 ---
 title: "Surticarnes"
 url: /quito/surticarnes/
-shop: Metzgerei
+shop: carnicero
 ---

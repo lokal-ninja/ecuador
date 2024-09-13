@@ -1,5 +1,5 @@
 ---
 title: "Picolín"
 url: /quito/picolin/
-shop: Schreibwaren
+shop: material de oficina
 ---

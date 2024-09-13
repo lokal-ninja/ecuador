@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora Moreano"
 url: /quito/vulcanizadora-moreano/
-shop: Autoteile
+shop: piezas de automóviles
 ---

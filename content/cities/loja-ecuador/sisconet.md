@@ -1,5 +1,5 @@
 ---
 title: "Sisconet"
 url: /loja-ecuador/sisconet/
-shop: Computer
+shop: ordenador
 ---

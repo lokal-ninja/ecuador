@@ -1,5 +1,5 @@
 ---
 title: "Emerson Ford"
 url: /quito/emerson-ford/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

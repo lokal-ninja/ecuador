@@ -1,5 +1,5 @@
 ---
 title: "Tía"
 url: /guayaquil/tia/
-shop: Supermarkt
+shop: supermercado
 ---

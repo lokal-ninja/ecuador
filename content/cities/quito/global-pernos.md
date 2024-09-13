@@ -1,5 +1,5 @@
 ---
 title: "Global Pernos"
 url: /quito/global-pernos/
-shop: Allgemein
+shop: general
 ---

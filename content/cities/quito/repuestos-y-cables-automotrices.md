@@ -1,5 +1,5 @@
 ---
 title: "Repuestos y Cables Automotrices"
 url: /quito/repuestos-y-cables-automotrices/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

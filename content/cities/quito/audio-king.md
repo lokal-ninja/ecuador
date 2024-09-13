@@ -1,5 +1,5 @@
 ---
 title: "Audio King"
 url: /quito/audio-king/
-shop: Allgemein
+shop: general
 ---

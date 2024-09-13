@@ -1,5 +1,5 @@
 ---
 title: "Avicamp"
 url: /quito/avicamp/
-shop: Allgemein
+shop: general
 ---

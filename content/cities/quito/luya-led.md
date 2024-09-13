@@ -1,5 +1,5 @@
 ---
 title: "Luya LED"
 url: /quito/luya-led/
-shop: Allgemein
+shop: general
 ---

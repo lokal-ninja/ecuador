@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /quito/hyundai/
-shop: Autohaus
+shop: coche
 ---

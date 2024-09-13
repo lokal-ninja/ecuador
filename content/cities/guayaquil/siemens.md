@@ -1,5 +1,5 @@
 ---
 title: "Siemens"
 url: /guayaquil/siemens/
-shop: Allgemein
+shop: general
 ---

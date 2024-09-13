@@ -1,5 +1,5 @@
 ---
 title: "Autorepuestos Granizo"
 url: /sangolqui/autorepuestos-granizo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Latino Automotriz Multimarca"
 url: /quito/latino-automotriz-multimarca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

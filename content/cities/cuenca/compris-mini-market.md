@@ -1,5 +1,5 @@
 ---
 title: "Compris Mini Market"
 url: /cuenca/compris-mini-market/
-shop: Lebensmittel
+shop: comodidad
 ---

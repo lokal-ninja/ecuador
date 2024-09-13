@@ -1,5 +1,5 @@
 ---
 title: "Vernaza"
 url: /quito/vernaza/
-shop: Autoteile
+shop: piezas de automóviles
 ---

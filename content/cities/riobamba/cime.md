@@ -1,5 +1,5 @@
 ---
 title: "CIME"
 url: /riobamba/cime/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

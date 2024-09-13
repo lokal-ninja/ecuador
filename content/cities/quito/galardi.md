@@ -1,5 +1,5 @@
 ---
 title: "Galardi"
 url: /quito/galardi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

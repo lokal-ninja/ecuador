@@ -1,5 +1,5 @@
 ---
 title: "Burbujas"
 url: /cuenca/burbujas/
-shop: Kosmetik
+shop: cosméticos
 ---

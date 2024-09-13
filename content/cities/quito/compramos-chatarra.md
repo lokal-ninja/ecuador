@@ -1,5 +1,5 @@
 ---
 title: "Compramos Chatarra"
 url: /quito/compramos-chatarra/
-shop: Allgemein
+shop: general
 ---

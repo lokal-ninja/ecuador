@@ -1,5 +1,5 @@
 ---
 title: "Almacenes El Ahorro"
 url: /quito/almacenes-el-ahorro/
-shop: Allgemein
+shop: general
 ---

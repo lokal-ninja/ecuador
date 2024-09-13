@@ -1,5 +1,5 @@
 ---
 title: "Folt"
 url: /quito/folt/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mónica Schiavo"
 url: /guayaquil/monica-schiavo/
-shop: Friseur
+shop: peluquería
 ---

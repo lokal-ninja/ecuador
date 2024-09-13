@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /quito/claro-jose-maria-aleman/
-shop: Handy
+shop: teléfono móvil
 ---

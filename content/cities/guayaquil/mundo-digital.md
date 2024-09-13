@@ -1,5 +1,5 @@
 ---
 title: "Mundo Digital"
 url: /guayaquil/mundo-digital/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alfajores Y Delicias"
 url: /guayaquil/alfajores-y-delicias/
-shop: Konditorei
+shop: pastelería
 ---

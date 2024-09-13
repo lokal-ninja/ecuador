@@ -1,5 +1,5 @@
 ---
 title: "Importadora Paracamiones"
 url: /quito/importadora-paracamiones/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

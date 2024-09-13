@@ -1,5 +1,5 @@
 ---
 title: "Uniformes"
 url: /cuenca/uniformes/
-shop: Kleidung
+shop: ropa
 ---

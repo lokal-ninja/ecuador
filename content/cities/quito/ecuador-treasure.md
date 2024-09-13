@@ -1,5 +1,5 @@
 ---
 title: "Ecuador Treasure"
 url: /quito/ecuador-treasure/
-shop: Allgemein
+shop: general
 ---

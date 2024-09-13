@@ -1,5 +1,5 @@
 ---
 title: "RedSkins"
 url: /cuenca/redskins/
-shop: Kleidung
+shop: ropa
 ---

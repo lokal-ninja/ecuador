@@ -1,5 +1,5 @@
 ---
 title: "Autolandia"
 url: /quito/autolandia/
-shop: Autoteile
+shop: piezas de automóviles
 ---

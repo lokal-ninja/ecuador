@@ -1,5 +1,5 @@
 ---
 title: "Disfraces"
 url: /quito/disfraces/
-shop: Kleidung
+shop: ropa
 ---

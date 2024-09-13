@@ -1,5 +1,5 @@
 ---
 title: "Ink Da Hood"
 url: /quito/ink-da-hood/
-shop: Tattoo
+shop: tatuaje
 ---

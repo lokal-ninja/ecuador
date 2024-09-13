@@ -1,5 +1,5 @@
 ---
 title: "Battery Sue"
 url: /quito/battery-sue/
-shop: Autoteile
+shop: piezas de automóviles
 ---

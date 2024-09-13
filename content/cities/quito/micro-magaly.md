@@ -1,5 +1,5 @@
 ---
 title: "Micro Magaly"
 url: /quito/micro-magaly/
-shop: Lebensmittel
+shop: comodidad
 ---

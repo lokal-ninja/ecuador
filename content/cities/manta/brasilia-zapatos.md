@@ -1,5 +1,5 @@
 ---
 title: "Brasilia Zapatos"
 url: /manta/brasilia-zapatos/
-shop: Schuhe
+shop: zapatos
 ---

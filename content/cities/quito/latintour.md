@@ -1,5 +1,5 @@
 ---
 title: "Latintour"
 url: /quito/latintour/
-shop: Reisebüro
+shop: agencia de viajes
 ---

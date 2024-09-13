@@ -1,5 +1,5 @@
 ---
 title: "MULTIMARK"
 url: /cuenca/multimark/
-shop: Schreibwaren
+shop: material de oficina
 ---

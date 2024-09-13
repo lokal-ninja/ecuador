@@ -1,5 +1,5 @@
 ---
 title: "MetalMueble"
 url: /santo-domingo/metalmueble/
-shop: Warenhaus
+shop: grandes almacenes
 ---

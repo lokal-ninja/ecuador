@@ -1,5 +1,5 @@
 ---
 title: "Frenos y Frenos"
 url: /quito/frenos-y-frenos/
-shop: Warenhaus
+shop: grandes almacenes
 ---

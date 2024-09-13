@@ -1,5 +1,5 @@
 ---
 title: "Solo Frenos"
 url: /guayaquil/solo-frenos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

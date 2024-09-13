@@ -1,5 +1,5 @@
 ---
 title: "Inprodel"
 url: /quito/inprodel/
-shop: Lampen
+shop: lámparas
 ---

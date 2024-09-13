@@ -1,5 +1,5 @@
 ---
 title: "Servifreno"
 url: /quito/servifreno/
-shop: Autoteile
+shop: piezas de automóviles
 ---

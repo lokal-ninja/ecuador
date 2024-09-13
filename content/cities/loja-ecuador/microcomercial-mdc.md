@@ -1,5 +1,5 @@
 ---
 title: "MICROCOMERCIAL MDC"
 url: /loja-ecuador/microcomercial-mdc/
-shop: Supermarkt
+shop: supermercado
 ---

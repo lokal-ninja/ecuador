@@ -1,5 +1,5 @@
 ---
 title: "Gianfranco Boutique"
 url: /quito/gianfranco-boutique/
-shop: Allgemein
+shop: general
 ---

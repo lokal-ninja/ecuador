@@ -1,5 +1,5 @@
 ---
 title: "Martinizing"
 url: /sangolqui/martinizing/
-shop: Wäscherei
+shop: lavandería
 ---

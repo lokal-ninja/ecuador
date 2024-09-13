@@ -1,5 +1,5 @@
 ---
 title: "Mangueras"
 url: /conocoto/mangueras/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Ángel"
 url: /quito/el-angel/
-shop: Bäckerei
+shop: panadería
 ---

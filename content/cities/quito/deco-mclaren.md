@@ -1,5 +1,5 @@
 ---
 title: "Deco Mclaren"
 url: /quito/deco-mclaren/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Loor"
 url: /portoviejo/ferreteria-loor/
-shop: Eisenwaren
+shop: hardware
 ---

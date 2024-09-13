@@ -1,5 +1,5 @@
 ---
 title: "Centro Automotriz Luis Santos"
 url: /quito/centro-automotriz-luis-santos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

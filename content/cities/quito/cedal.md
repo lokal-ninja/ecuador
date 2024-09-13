@@ -1,5 +1,5 @@
 ---
 title: "Cedal"
 url: /quito/cedal/
-shop: Baustoffe
+shop: comercio
 ---

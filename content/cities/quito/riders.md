@@ -1,5 +1,5 @@
 ---
 title: "Riders"
 url: /quito/riders/
-shop: Fahrrad
+shop: bicicleta
 ---

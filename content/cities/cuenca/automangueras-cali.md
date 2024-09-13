@@ -1,5 +1,5 @@
 ---
 title: "Automangueras Cali"
 url: /cuenca/automangueras-cali/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Epson"
 url: /quito/epson/
-shop: Allgemein
+shop: general
 ---

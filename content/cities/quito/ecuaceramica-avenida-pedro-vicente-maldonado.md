@@ -1,5 +1,5 @@
 ---
 title: "Ecuacerámica"
 url: /quito/ecuaceramica-avenida-pedro-vicente-maldonado/
-shop: Fliesen
+shop: baldosas
 ---

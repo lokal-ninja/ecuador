@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /quito/renault/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

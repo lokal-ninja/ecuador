@@ -1,5 +1,5 @@
 ---
 title: "Automax"
 url: /quito/automax/
-shop: Autoteile
+shop: piezas de automóviles
 ---

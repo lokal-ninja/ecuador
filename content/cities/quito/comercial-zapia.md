@@ -1,5 +1,5 @@
 ---
 title: "Comercial Zapia"
 url: /quito/comercial-zapia/
-shop: Allgemein
+shop: general
 ---

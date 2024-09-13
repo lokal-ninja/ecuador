@@ -1,5 +1,5 @@
 ---
 title: "Ecuamarmol"
 url: /guayaquil/ecuamarmol/
-shop: Baustoffe
+shop: comercio
 ---

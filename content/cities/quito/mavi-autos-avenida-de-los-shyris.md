@@ -1,5 +1,5 @@
 ---
 title: "Mavi Autos"
 url: /quito/mavi-autos-avenida-de-los-shyris/
-shop: Autohaus
+shop: coche
 ---

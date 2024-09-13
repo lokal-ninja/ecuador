@@ -1,5 +1,5 @@
 ---
 title: "Auto Shopping"
 url: /quito/auto-shopping/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Ferretero"
 url: /cuenca/el-ferretero/
-shop: Eisenwaren
+shop: hardware
 ---

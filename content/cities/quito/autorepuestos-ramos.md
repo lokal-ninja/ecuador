@@ -1,5 +1,5 @@
 ---
 title: "Autorepuestos Ramos"
 url: /quito/autorepuestos-ramos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

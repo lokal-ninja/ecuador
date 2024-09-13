@@ -1,5 +1,5 @@
 ---
 title: "Mechis"
 url: /quito/mechis/
-shop: Allgemein
+shop: general
 ---

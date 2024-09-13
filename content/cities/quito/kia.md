@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /quito/kia/
-shop: Autohaus
+shop: coche
 ---

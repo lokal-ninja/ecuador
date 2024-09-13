@@ -1,5 +1,5 @@
 ---
 title: "Pan Selecto"
 url: /quito/pan-selecto/
-shop: Bäckerei
+shop: panadería
 ---

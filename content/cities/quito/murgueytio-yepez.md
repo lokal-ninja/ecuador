@@ -1,5 +1,5 @@
 ---
 title: "Murgueytio Yepez"
 url: /quito/murgueytio-yepez/
-shop: Eisenwaren
+shop: hardware
 ---

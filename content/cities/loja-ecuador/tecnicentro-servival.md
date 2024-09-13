@@ -1,5 +1,5 @@
 ---
 title: "Tecnicentro Servival"
 url: /loja-ecuador/tecnicentro-servival/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

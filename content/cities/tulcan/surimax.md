@@ -1,5 +1,5 @@
 ---
 title: "SURIMAX"
 url: /tulcan/surimax/
-shop: Lebensmittel
+shop: comodidad
 ---

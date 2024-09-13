@@ -1,5 +1,5 @@
 ---
 title: "Micromercado"
 url: /quito/micromercado-luis-cordero/
-shop: Supermarkt
+shop: supermercado
 ---

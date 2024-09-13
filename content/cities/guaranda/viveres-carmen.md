@@ -1,5 +1,5 @@
 ---
 title: "Viveres Carmén"
 url: /guaranda/viveres-carmen/
-shop: Dorfladen
+shop: tienda rural
 ---

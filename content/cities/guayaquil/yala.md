@@ -1,5 +1,5 @@
 ---
 title: "Yala"
 url: /guayaquil/yala/
-shop: Eisprodukte
+shop: helado
 ---

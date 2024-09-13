@@ -1,5 +1,5 @@
 ---
 title: "La Española"
 url: /guayaquil/la-espanola/
-shop: Supermarkt
+shop: supermercado
 ---

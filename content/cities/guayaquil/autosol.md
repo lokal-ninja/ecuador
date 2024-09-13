@@ -1,5 +1,5 @@
 ---
 title: "Autosol"
 url: /guayaquil/autosol/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

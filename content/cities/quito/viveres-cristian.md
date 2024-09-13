@@ -1,5 +1,5 @@
 ---
 title: "Viveres Cristian"
 url: /quito/viveres-cristian/
-shop: Lebensmittel
+shop: comodidad
 ---

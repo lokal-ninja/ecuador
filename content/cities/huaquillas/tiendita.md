@@ -1,5 +1,5 @@
 ---
 title: "tiendita"
 url: /huaquillas/tiendita/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TEALVID"
 url: /quito/tealvid/
-shop: Allgemein
+shop: general
 ---

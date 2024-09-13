@@ -1,5 +1,5 @@
 ---
 title: "Claro PremiumCell"
 url: /quito/claro-premiumcell/
-shop: Handy
+shop: teléfono móvil
 ---

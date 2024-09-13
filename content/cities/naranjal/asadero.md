@@ -1,5 +1,5 @@
 ---
 title: "Asadero"
 url: /naranjal/asadero/
-shop: Allgemein
+shop: general
 ---

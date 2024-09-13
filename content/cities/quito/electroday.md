@@ -1,5 +1,5 @@
 ---
 title: "Electroday"
 url: /quito/electroday/
-shop: Haushaltsgeräte
+shop: aparato
 ---

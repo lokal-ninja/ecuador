@@ -1,5 +1,5 @@
 ---
 title: "Disfraces Sofys"
 url: /ambato/disfraces-sofys/
-shop: Supermarkt
+shop: supermercado
 ---

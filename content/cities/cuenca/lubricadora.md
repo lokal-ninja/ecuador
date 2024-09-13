@@ -1,5 +1,5 @@
 ---
 title: "Lubricadora"
 url: /cuenca/lubricadora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

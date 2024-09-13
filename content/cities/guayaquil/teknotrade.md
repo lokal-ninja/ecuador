@@ -1,5 +1,5 @@
 ---
 title: "Teknotrade"
 url: /guayaquil/teknotrade/
-shop: Handy
+shop: teléfono móvil
 ---

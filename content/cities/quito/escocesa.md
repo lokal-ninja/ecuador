@@ -1,5 +1,5 @@
 ---
 title: "Escocesa"
 url: /quito/escocesa/
-shop: Allgemein
+shop: general
 ---

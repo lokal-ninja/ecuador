@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Carchi"
 url: /quito/lubricantes-carchi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

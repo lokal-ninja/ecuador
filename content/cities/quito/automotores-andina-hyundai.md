@@ -1,5 +1,5 @@
 ---
 title: "Automotores Andina - Hyundai"
 url: /quito/automotores-andina-hyundai/
-shop: Autohaus
+shop: coche
 ---

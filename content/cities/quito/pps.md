@@ -1,5 +1,5 @@
 ---
 title: "PP's"
 url: /quito/pps/
-shop: Autoteile
+shop: piezas de automóviles
 ---

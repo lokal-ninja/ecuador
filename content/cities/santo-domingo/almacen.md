@@ -1,5 +1,5 @@
 ---
 title: "ALMACEN"
 url: /santo-domingo/almacen/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

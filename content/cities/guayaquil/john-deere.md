@@ -1,5 +1,5 @@
 ---
 title: "John Deere"
 url: /guayaquil/john-deere/
-shop: Baustoffe
+shop: comercio
 ---

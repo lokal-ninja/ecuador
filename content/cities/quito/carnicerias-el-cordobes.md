@@ -1,5 +1,5 @@
 ---
 title: "Carnicerías el Cordobés"
 url: /quito/carnicerias-el-cordobes/
-shop: Metzgerei
+shop: carnicero
 ---

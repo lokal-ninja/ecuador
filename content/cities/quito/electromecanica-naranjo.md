@@ -1,5 +1,5 @@
 ---
 title: "Electromecanica Naranjo"
 url: /quito/electromecanica-naranjo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

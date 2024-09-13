@@ -1,5 +1,5 @@
 ---
 title: "Mimate"
 url: /guayaquil/mimate/
-shop: Friseur
+shop: peluquería
 ---

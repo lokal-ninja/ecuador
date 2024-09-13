@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /guayaquil/marathon-via-a-daule/
-shop: Sport
+shop: deportes
 ---

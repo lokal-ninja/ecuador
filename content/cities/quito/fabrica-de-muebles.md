@@ -1,5 +1,5 @@
 ---
 title: "Fábrica de Muebles"
 url: /quito/fabrica-de-muebles/
-shop: Möbel
+shop: muebles
 ---

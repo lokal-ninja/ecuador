@@ -1,5 +1,5 @@
 ---
 title: "Naturd"
 url: /quito/naturd/
-shop: Lebensmittel
+shop: comodidad
 ---

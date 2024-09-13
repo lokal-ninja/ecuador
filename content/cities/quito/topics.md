@@ -1,5 +1,5 @@
 ---
 title: "Topics"
 url: /quito/topics/
-shop: Allgemein
+shop: general
 ---

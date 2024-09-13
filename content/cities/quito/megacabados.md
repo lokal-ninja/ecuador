@@ -1,5 +1,5 @@
 ---
 title: "MegaCabados"
 url: /quito/megacabados/
-shop: Warenhaus
+shop: grandes almacenes
 ---

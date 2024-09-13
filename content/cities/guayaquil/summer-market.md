@@ -1,5 +1,5 @@
 ---
 title: "Summer Market"
 url: /guayaquil/summer-market/
-shop: Lebensmittel
+shop: comodidad
 ---

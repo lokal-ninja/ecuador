@@ -1,5 +1,5 @@
 ---
 title: "Viveres David"
 url: /quito/viveres-david/
-shop: Lebensmittel
+shop: comodidad
 ---

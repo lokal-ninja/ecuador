@@ -1,5 +1,5 @@
 ---
 title: "TecMarket"
 url: /cuenca/tecmarket/
-shop: Computer
+shop: ordenador
 ---

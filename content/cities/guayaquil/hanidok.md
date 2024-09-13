@@ -1,5 +1,5 @@
 ---
 title: "Hanidok"
 url: /guayaquil/hanidok/
-shop: Allgemein
+shop: general
 ---

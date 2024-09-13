@@ -1,5 +1,5 @@
 ---
 title: "Autorepuestos Wili"
 url: /quito/autorepuestos-wili/
-shop: Autoteile
+shop: piezas de automóviles
 ---

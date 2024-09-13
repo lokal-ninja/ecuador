@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Santa Marianita"
 url: /portoviejo/funeraria-santa-marianita/
-shop: Bestattungen
+shop: directores de funerarias
 ---

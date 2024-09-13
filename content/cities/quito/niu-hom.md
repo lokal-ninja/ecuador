@@ -1,5 +1,5 @@
 ---
 title: "Niu Hom"
 url: /quito/niu-hom/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

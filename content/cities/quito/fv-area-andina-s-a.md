@@ -1,5 +1,5 @@
 ---
 title: "FV Area Andina S.A."
 url: /quito/fv-area-andina-s-a/
-shop: Badezimmer
+shop: cuarto de baño
 ---

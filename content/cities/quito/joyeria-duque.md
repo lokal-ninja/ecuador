@@ -1,5 +1,5 @@
 ---
 title: "Joyeria Duque"
 url: /quito/joyeria-duque/
-shop: Schmuck
+shop: joyería
 ---

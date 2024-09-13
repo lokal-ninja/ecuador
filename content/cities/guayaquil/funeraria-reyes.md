@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Reyes"
 url: /guayaquil/funeraria-reyes/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /camilo-ponce-enriquez/new-look/
-shop: Friseur
+shop: peluquería
 ---

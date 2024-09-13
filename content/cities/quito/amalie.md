@@ -1,5 +1,5 @@
 ---
 title: "Amalie"
 url: /quito/amalie/
-shop: Autoteile
+shop: piezas de automóviles
 ---

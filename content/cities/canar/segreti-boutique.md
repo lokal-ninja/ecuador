@@ -1,5 +1,5 @@
 ---
 title: "Segreti Boutique"
 url: /canar/segreti-boutique/
-shop: Kleidung
+shop: ropa
 ---

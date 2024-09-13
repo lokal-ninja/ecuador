@@ -1,5 +1,5 @@
 ---
 title: "Almuerzos"
 url: /guayaquil/almuerzos/
-shop: Andenken
+shop: regalo
 ---

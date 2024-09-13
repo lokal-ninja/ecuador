@@ -1,5 +1,5 @@
 ---
 title: "Computadoes"
 url: /quito/computadoes/
-shop: Allgemein
+shop: general
 ---

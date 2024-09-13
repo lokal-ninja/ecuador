@@ -1,5 +1,5 @@
 ---
 title: "Rectificadora Balarezo"
 url: /cuenca/rectificadora-balarezo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

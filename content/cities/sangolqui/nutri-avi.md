@@ -1,5 +1,5 @@
 ---
 title: "Nutri Avi"
 url: /sangolqui/nutri-avi/
-shop: Allgemein
+shop: general
 ---

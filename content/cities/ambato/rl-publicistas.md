@@ -1,5 +1,5 @@
 ---
 title: "RL Publicistas"
 url: /ambato/rl-publicistas/
-shop: Allgemein
+shop: general
 ---

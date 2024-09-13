@@ -1,5 +1,5 @@
 ---
 title: "Parabrisas"
 url: /quito/parabrisas-avenida-pedro-vicente-maldonado/
-shop: Autoteile
+shop: piezas de automóviles
 ---

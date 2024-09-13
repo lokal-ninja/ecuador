@@ -1,5 +1,5 @@
 ---
 title: "Víveres Dieguito"
 url: /quito/viveres-dieguito/
-shop: Kramladen
+shop: tienda de variedades
 ---

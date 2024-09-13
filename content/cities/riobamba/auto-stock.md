@@ -1,5 +1,5 @@
 ---
 title: "Auto Stock"
 url: /riobamba/auto-stock/
-shop: Autoteile
+shop: piezas de automóviles
 ---

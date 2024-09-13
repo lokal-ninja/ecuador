@@ -1,5 +1,5 @@
 ---
 title: "(ex) San Jose"
 url: /quito/ex-san-jose/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

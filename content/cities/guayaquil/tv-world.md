@@ -1,5 +1,5 @@
 ---
 title: "TV World"
 url: /guayaquil/tv-world/
-shop: Supermarkt
+shop: supermercado
 ---

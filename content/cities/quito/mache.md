@@ -1,5 +1,5 @@
 ---
 title: "Maché"
 url: /quito/mache/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funeraria del barrio"
 url: /tanguarin/funeraria-del-barrio/
-shop: Bestattungen
+shop: directores de funerarias
 ---

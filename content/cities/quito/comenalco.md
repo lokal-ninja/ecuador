@@ -1,5 +1,5 @@
 ---
 title: "Comenalco"
 url: /quito/comenalco/
-shop: Allgemein
+shop: general
 ---

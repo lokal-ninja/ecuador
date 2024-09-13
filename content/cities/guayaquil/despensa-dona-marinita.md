@@ -1,5 +1,5 @@
 ---
 title: "Despensa Doña Marinita"
 url: /guayaquil/despensa-dona-marinita/
-shop: Lebensmittel
+shop: comodidad
 ---

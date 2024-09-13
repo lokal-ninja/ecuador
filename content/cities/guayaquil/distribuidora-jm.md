@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora JM"
 url: /guayaquil/distribuidora-jm/
-shop: Drogerie
+shop: farmacia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geniuno"
 url: /quito/geniuno/
-shop: Autoteile
+shop: piezas de automóviles
 ---

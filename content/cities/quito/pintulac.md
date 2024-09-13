@@ -1,5 +1,5 @@
 ---
 title: "Pintulac"
 url: /quito/pintulac/
-shop: Farben
+shop: pintura
 ---

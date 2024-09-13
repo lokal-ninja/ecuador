@@ -1,5 +1,5 @@
 ---
 title: "Electronica Roberto"
 url: /guayaquil/electronica-roberto/
-shop: Allgemein
+shop: general
 ---

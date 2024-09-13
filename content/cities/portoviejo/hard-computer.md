@@ -1,5 +1,5 @@
 ---
 title: "Hard Computer"
 url: /portoviejo/hard-computer/
-shop: Computer
+shop: ordenador
 ---

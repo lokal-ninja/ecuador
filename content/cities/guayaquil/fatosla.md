@@ -1,5 +1,5 @@
 ---
 title: "Fatosla"
 url: /guayaquil/fatosla/
-shop: Baustoffe
+shop: comercio
 ---

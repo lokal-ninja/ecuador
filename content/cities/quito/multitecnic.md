@@ -1,5 +1,5 @@
 ---
 title: "Multitecnic"
 url: /quito/multitecnic/
-shop: Autoteile
+shop: piezas de automóviles
 ---

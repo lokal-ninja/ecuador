@@ -1,5 +1,5 @@
 ---
 title: "Rtec"
 url: /quito/rtec/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

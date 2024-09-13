@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Chávez Rodríguez"
 url: /guayaquil/funeraria-chavez-rodriguez/
-shop: Bestattungen
+shop: directores de funerarias
 ---

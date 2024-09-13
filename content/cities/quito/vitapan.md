@@ -1,5 +1,5 @@
 ---
 title: "VitaPan"
 url: /quito/vitapan/
-shop: Allgemein
+shop: general
 ---

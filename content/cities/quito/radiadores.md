@@ -1,5 +1,5 @@
 ---
 title: "Radiadores"
 url: /quito/radiadores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

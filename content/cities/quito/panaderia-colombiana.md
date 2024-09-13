@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Colombiana"
 url: /quito/panaderia-colombiana/
-shop: Bäckerei
+shop: panadería
 ---

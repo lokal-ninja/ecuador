@@ -1,5 +1,5 @@
 ---
 title: "OMG"
 url: /quito/omg/
-shop: Kleidung
+shop: ropa
 ---

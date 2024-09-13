@@ -1,5 +1,5 @@
 ---
 title: "Natural Vilality"
 url: /uayaquil/natural-vilality/
-shop: Allgemein
+shop: general
 ---

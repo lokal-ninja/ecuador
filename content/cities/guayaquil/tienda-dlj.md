@@ -1,5 +1,5 @@
 ---
 title: "Tienda DLJ"
 url: /guayaquil/tienda-dlj/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repermetal"
 url: /guayaquil/repermetal/
-shop: Baustoffe
+shop: comercio
 ---

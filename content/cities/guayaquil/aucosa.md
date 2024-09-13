@@ -1,5 +1,5 @@
 ---
 title: "Aucosa"
 url: /guayaquil/aucosa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Latincar"
 url: /quito/latincar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ITEGMOTORS"
 url: /guayaquil/itegmotors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

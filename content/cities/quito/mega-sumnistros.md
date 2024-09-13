@@ -1,5 +1,5 @@
 ---
 title: "Mega Sumnistros"
 url: /quito/mega-sumnistros/
-shop: Schreibwaren
+shop: material de oficina
 ---

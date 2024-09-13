@@ -1,5 +1,5 @@
 ---
 title: "Casa Pelikano"
 url: /quito/casa-pelikano/
-shop: Allgemein
+shop: general
 ---

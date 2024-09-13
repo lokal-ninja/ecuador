@@ -1,5 +1,5 @@
 ---
 title: "La casa del bizcochuelo"
 url: /malacatos/la-casa-del-bizcochuelo/
-shop: Allgemein
+shop: general
 ---

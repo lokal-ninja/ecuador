@@ -1,5 +1,5 @@
 ---
 title: "Somos Multimarca"
 url: /quito/somos-multimarca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Provemadera"
 url: /quito/provemadera/
-shop: Allgemein
+shop: general
 ---

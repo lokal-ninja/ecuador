@@ -1,5 +1,5 @@
 ---
 title: "Diverti Chics"
 url: /quito/diverti-chics/
-shop: Allgemein
+shop: general
 ---

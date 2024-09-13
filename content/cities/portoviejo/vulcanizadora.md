@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora"
 url: /portoviejo/vulcanizadora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

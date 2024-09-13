@@ -1,5 +1,5 @@
 ---
 title: "Urbano's"
 url: /quito/urbanos/
-shop: Kosmetik
+shop: cosméticos
 ---

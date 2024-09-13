@@ -1,5 +1,5 @@
 ---
 title: "Fer Shoes"
 url: /conocoto/fer-shoes/
-shop: Schuhe
+shop: zapatos
 ---

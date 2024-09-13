@@ -1,5 +1,5 @@
 ---
 title: "Unidas"
 url: /guayaquil/unidas/
-shop: Farben
+shop: pintura
 ---

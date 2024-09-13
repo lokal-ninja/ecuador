@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Imak"
 url: /guayaquil/lavanderia-imak/
-shop: Wäscherei
+shop: lavandería
 ---

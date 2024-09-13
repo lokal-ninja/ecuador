@@ -1,5 +1,5 @@
 ---
 title: "CJM Impresoras"
 url: /quito/cjm-impresoras/
-shop: Schreibwaren
+shop: material de oficina
 ---

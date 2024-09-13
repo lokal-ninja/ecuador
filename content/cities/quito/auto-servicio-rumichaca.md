@@ -1,5 +1,5 @@
 ---
 title: "Auto Servicio Rumichaca"
 url: /quito/auto-servicio-rumichaca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

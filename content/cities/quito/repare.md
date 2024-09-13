@@ -1,5 +1,5 @@
 ---
 title: "Repare"
 url: /quito/repare/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servicio Tecnico"
 url: /quito/servicio-tecnico-queseras-del-medio/
-shop: Allgemein
+shop: general
 ---

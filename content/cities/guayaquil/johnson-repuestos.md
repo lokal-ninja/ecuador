@@ -1,5 +1,5 @@
 ---
 title: "Johnson Repuestos"
 url: /guayaquil/johnson-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

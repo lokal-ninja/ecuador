@@ -1,5 +1,5 @@
 ---
 title: "El Arte"
 url: /quito/el-arte/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fabricauchos"
 url: /quito/fabricauchos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

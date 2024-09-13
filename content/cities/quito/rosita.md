@@ -1,5 +1,5 @@
 ---
 title: "rosita"
 url: /quito/rosita/
-shop: Supermarkt
+shop: supermercado
 ---

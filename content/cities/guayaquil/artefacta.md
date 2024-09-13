@@ -1,5 +1,5 @@
 ---
 title: "Artefacta"
 url: /guayaquil/artefacta/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Redimatel"
 url: /quito/redimatel/
-shop: Allgemein
+shop: general
 ---

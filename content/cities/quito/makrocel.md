@@ -1,5 +1,5 @@
 ---
 title: "Makrocel"
 url: /quito/makrocel/
-shop: Handy
+shop: teléfono móvil
 ---

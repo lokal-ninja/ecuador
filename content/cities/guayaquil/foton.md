@@ -1,5 +1,5 @@
 ---
 title: "Foton"
 url: /guayaquil/foton/
-shop: Autohaus
+shop: coche
 ---

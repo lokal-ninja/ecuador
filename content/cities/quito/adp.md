@@ -1,5 +1,5 @@
 ---
 title: "ADP"
 url: /quito/adp/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thrifty"
 url: /quito/thrifty/
-shop: Autohaus
+shop: coche
 ---

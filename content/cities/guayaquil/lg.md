@@ -1,5 +1,5 @@
 ---
 title: "LG"
 url: /guayaquil/lg/
-shop: Elektronik
+shop: electrónica
 ---

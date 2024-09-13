@@ -1,5 +1,5 @@
 ---
 title: "Limpieza en Seco"
 url: /quito/limpieza-en-seco/
-shop: Wäscherei
+shop: lavandería
 ---

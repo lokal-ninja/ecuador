@@ -1,5 +1,5 @@
 ---
 title: "Cevallos"
 url: /quito/cevallos/
-shop: Allgemein
+shop: general
 ---

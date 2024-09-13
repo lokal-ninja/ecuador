@@ -1,5 +1,5 @@
 ---
 title: "Imagen Reina"
 url: /quito/imagen-reina/
-shop: Friseur
+shop: peluquería
 ---

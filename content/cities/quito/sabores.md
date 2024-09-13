@@ -1,5 +1,5 @@
 ---
 title: "Sabores"
 url: /quito/sabores/
-shop: Lebensmittel
+shop: comodidad
 ---

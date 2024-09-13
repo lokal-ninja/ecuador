@@ -1,5 +1,5 @@
 ---
 title: "Almacen de Fabrica"
 url: /quito/almacen-de-fabrica/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilmer Pinta"
 url: /loja-ecuador/wilmer-pinta/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DABSCC (DISTRIBUIDORA AUTOMOTRIZ)"
 url: /quito/dabscc-distribuidora-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

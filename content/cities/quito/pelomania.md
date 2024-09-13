@@ -1,5 +1,5 @@
 ---
 title: "Pelomania"
 url: /quito/pelomania/
-shop: Friseur
+shop: peluquería
 ---

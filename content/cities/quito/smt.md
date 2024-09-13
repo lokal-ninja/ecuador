@@ -1,5 +1,5 @@
 ---
 title: "SMT"
 url: /quito/smt/
-shop: Möbel
+shop: muebles
 ---

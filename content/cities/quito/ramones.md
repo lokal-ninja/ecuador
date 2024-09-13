@@ -1,5 +1,5 @@
 ---
 title: "Ramones"
 url: /quito/ramones/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercantil Sandra"
 url: /portoviejo/mercantil-sandra/
-shop: Schreibwaren
+shop: material de oficina
 ---

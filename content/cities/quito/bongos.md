@@ -1,5 +1,5 @@
 ---
 title: "Bongos"
 url: /quito/bongos/
-shop: Spirituosen
+shop: alcohol
 ---

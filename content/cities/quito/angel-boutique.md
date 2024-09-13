@@ -1,5 +1,5 @@
 ---
 title: "Angel Boutique"
 url: /quito/angel-boutique/
-shop: Modehaus
+shop: tienda
 ---

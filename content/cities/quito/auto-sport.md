@@ -1,5 +1,5 @@
 ---
 title: "Auto Sport"
 url: /quito/auto-sport/
-shop: Autoteile
+shop: piezas de automóviles
 ---

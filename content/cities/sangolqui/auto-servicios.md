@@ -1,5 +1,5 @@
 ---
 title: "Auto Servicios"
 url: /sangolqui/auto-servicios/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arreglo de zapatos;Comedero"
 url: /quito/arreglo-de-zapatos-comedero/
-shop: Schuhe
+shop: zapatos
 ---

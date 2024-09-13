@@ -1,5 +1,5 @@
 ---
 title: "CEZ"
 url: /quito/cez/
-shop: Kleidung
+shop: ropa
 ---

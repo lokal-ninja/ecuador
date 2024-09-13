@@ -1,5 +1,5 @@
 ---
 title: "Mantenimiento y Reparación"
 url: /quito/mantenimiento-y-reparacion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

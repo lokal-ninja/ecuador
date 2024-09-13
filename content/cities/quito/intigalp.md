@@ -1,5 +1,5 @@
 ---
 title: "Intigalp"
 url: /quito/intigalp/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Despensa Jorgito"
 url: /guayaquil/despensa-jorgito/
-shop: Allgemein
+shop: general
 ---

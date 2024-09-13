@@ -1,5 +1,5 @@
 ---
 title: "Mi Comisariato"
 url: /pasaje/mi-comisariato/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

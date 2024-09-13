@@ -1,5 +1,5 @@
 ---
 title: "Ferrocab"
 url: /quito/ferrocab/
-shop: Eisenwaren
+shop: hardware
 ---

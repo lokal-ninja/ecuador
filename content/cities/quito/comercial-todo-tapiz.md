@@ -1,5 +1,5 @@
 ---
 title: "Comercial Todo Tapiz"
 url: /quito/comercial-todo-tapiz/
-shop: Allgemein
+shop: general
 ---

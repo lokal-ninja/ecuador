@@ -1,5 +1,5 @@
 ---
 title: "Joyería Marthita"
 url: /guayaquil/joyeria-marthita/
-shop: Schmuck
+shop: joyería
 ---

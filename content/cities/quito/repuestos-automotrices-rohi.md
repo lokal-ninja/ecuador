@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Automotrices Rohi"
 url: /quito/repuestos-automotrices-rohi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

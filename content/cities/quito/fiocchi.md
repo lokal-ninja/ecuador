@@ -1,5 +1,5 @@
 ---
 title: "Fiocchi"
 url: /quito/fiocchi/
-shop: Eisprodukte
+shop: helado
 ---

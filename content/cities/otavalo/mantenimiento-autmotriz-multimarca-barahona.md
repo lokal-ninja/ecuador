@@ -1,5 +1,5 @@
 ---
 title: "Mantenimiento Autmotriz Multimarca Barahona"
 url: /otavalo/mantenimiento-autmotriz-multimarca-barahona/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

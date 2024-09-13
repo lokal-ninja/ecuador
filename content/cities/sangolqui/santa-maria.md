@@ -1,5 +1,5 @@
 ---
 title: "Santa Maria"
 url: /sangolqui/santa-maria/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

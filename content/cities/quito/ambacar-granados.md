@@ -1,5 +1,5 @@
 ---
 title: "Ambacar Granados"
 url: /quito/ambacar-granados/
-shop: Autohaus
+shop: coche
 ---

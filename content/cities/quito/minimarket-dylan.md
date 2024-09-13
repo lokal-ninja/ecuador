@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Dylan"
 url: /quito/minimarket-dylan/
-shop: Lebensmittel
+shop: comodidad
 ---

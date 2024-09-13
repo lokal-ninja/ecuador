@@ -1,5 +1,5 @@
 ---
 title: "Kinesis"
 url: /latacunga/kinesis/
-shop: Allgemein
+shop: general
 ---

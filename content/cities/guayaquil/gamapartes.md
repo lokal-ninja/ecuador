@@ -1,5 +1,5 @@
 ---
 title: "Gamapartes"
 url: /guayaquil/gamapartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

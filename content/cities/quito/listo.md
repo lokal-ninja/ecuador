@@ -1,5 +1,5 @@
 ---
 title: "Listo"
 url: /quito/listo/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Internet Cabinas Telefonicas"
 url: /guayaquil/internet-cabinas-telefonicas/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxxis"
 url: /quito/maxxis/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

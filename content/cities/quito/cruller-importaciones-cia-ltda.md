@@ -1,5 +1,5 @@
 ---
 title: "Cruller Importaciones Cia. Ltda."
 url: /quito/cruller-importaciones-cia-ltda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

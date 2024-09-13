@@ -1,5 +1,5 @@
 ---
 title: "Extintores"
 url: /guayaquil/extintores/
-shop: Allgemein
+shop: general
 ---

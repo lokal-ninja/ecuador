@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora Los Laureles"
 url: /quito/vulcanizadora-los-laureles/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

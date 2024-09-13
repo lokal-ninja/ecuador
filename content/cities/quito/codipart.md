@@ -1,5 +1,5 @@
 ---
 title: "Codipart"
 url: /quito/codipart/
-shop: Autoteile
+shop: piezas de automóviles
 ---

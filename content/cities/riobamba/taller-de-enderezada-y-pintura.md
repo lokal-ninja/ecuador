@@ -1,5 +1,5 @@
 ---
 title: "Taller de enderezada y pintura"
 url: /riobamba/taller-de-enderezada-y-pintura/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

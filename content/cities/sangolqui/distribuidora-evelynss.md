@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Evelynss"
 url: /sangolqui/distribuidora-evelynss/
-shop: Betten
+shop: cama
 ---

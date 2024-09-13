@@ -1,5 +1,5 @@
 ---
 title: "Renamotor"
 url: /quito/renamotor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

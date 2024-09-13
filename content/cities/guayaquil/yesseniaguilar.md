@@ -1,5 +1,5 @@
 ---
 title: "Yesseniaguilar"
 url: /guayaquil/yesseniaguilar/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premiere"
 url: /quito/premiere/
-shop: Allgemein
+shop: general
 ---

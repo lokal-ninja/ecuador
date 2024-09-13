@@ -1,5 +1,5 @@
 ---
 title: "Letgrafcar"
 url: /guayaquil/letgrafcar/
-shop: Kopieren
+shop: copyshop
 ---

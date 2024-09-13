@@ -1,5 +1,5 @@
 ---
 title: "Zona de Stilo"
 url: /portoviejo/zona-de-stilo/
-shop: Friseur
+shop: peluquería
 ---

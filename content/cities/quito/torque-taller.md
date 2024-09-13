@@ -1,5 +1,5 @@
 ---
 title: "Torque taller"
 url: /quito/torque-taller/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

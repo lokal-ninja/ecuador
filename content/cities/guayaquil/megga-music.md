@@ -1,5 +1,5 @@
 ---
 title: "Megga Music"
 url: /guayaquil/megga-music/
-shop: Instrumente
+shop: instrumento musical
 ---

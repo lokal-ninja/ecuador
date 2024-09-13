@@ -1,5 +1,5 @@
 ---
 title: "Zerimar"
 url: /loja/zerimar/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SmartKing"
 url: /guayaquil/smartking/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

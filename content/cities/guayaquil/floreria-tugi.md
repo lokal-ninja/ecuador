@@ -1,5 +1,5 @@
 ---
 title: "Floreria Tugi"
 url: /guayaquil/floreria-tugi/
-shop: Blumen
+shop: floristería
 ---

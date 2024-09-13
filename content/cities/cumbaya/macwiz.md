@@ -1,5 +1,5 @@
 ---
 title: "MacWiz"
 url: /cumbaya/macwiz/
-shop: Computer
+shop: ordenador
 ---

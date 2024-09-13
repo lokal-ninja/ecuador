@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Nancy"
 url: /quito/peluqueria-nancy/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bronce"
 url: /sangolqui/bronce/
-shop: Eisprodukte
+shop: helado
 ---

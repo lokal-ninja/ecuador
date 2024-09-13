@@ -1,5 +1,5 @@
 ---
 title: "Mister Pan"
 url: /loja-ecuador/mister-pan/
-shop: Bäckerei
+shop: panadería
 ---

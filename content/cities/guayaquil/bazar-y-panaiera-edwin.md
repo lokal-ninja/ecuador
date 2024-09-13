@@ -1,5 +1,5 @@
 ---
 title: "Bazar y Pañaiera Edwin"
 url: /guayaquil/bazar-y-panaiera-edwin/
-shop: Lebensmittel
+shop: comodidad
 ---

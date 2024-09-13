@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
 url: /guayaquil/mini-market/
-shop: Autohaus
+shop: coche
 ---

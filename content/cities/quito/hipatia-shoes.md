@@ -1,5 +1,5 @@
 ---
 title: "Hipatia Shoes"
 url: /quito/hipatia-shoes/
-shop: Schuhe
+shop: zapatos
 ---

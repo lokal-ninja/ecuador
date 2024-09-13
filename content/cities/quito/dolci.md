@@ -1,5 +1,5 @@
 ---
 title: "Dolci"
 url: /quito/dolci/
-shop: Kaffee
+shop: café
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /guayaquil/coral/
-shop: Supermarkt
+shop: supermercado
 ---

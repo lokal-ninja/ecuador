@@ -1,5 +1,5 @@
 ---
 title: "FMC"
 url: /quito/fmc/
-shop: Allgemein
+shop: general
 ---

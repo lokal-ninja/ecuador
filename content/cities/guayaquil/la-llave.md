@@ -1,5 +1,5 @@
 ---
 title: "La Llave"
 url: /guayaquil/la-llave/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Cafe Lojano"
 url: /quito/el-cafe-lojano/
-shop: Bäckerei
+shop: panadería
 ---

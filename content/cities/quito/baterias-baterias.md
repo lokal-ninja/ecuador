@@ -1,5 +1,5 @@
 ---
 title: "Baterias Baterias"
 url: /quito/baterias-baterias/
-shop: Allgemein
+shop: general
 ---

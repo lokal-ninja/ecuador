@@ -1,5 +1,5 @@
 ---
 title: "Mundi Repuestos"
 url: /quito/mundi-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

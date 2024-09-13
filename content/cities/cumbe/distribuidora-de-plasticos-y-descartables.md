@@ -1,5 +1,5 @@
 ---
 title: "DISTRIBUIDORA DE PLASTICOS Y DESCARTABLES"
 url: /cumbe/distribuidora-de-plasticos-y-descartables/
-shop: Kramladen
+shop: tienda de variedades
 ---

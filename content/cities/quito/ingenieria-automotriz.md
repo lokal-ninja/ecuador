@@ -1,5 +1,5 @@
 ---
 title: "Ingenieria Automotriz"
 url: /quito/ingenieria-automotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cinascar"
 url: /guayaquil/cinascar/
-shop: Autohaus
+shop: coche
 ---

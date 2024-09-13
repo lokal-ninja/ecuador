@@ -1,5 +1,5 @@
 ---
 title: "PDV"
 url: /quito/pdv/
-shop: Autoteile
+shop: piezas de automóviles
 ---

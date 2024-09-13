@@ -1,5 +1,5 @@
 ---
 title: "Andascar"
 url: /cuenca/andascar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

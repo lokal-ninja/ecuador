@@ -1,5 +1,5 @@
 ---
 title: "Cauchos de Llantas"
 url: /quito/cauchos-de-llantas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Annoa"
 url: /cuenca/annoa/
-shop: Kosmetik
+shop: cosméticos
 ---

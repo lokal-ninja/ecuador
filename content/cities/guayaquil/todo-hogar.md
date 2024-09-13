@@ -1,5 +1,5 @@
 ---
 title: "Todo Hogar"
 url: /guayaquil/todo-hogar/
-shop: Raumausstattung
+shop: decoración interior
 ---

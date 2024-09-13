@@ -1,5 +1,5 @@
 ---
 title: "GT"
 url: /quito/gt/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

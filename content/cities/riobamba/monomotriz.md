@@ -1,5 +1,5 @@
 ---
 title: "Monomotriz"
 url: /riobamba/monomotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

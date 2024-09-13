@@ -1,5 +1,5 @@
 ---
 title: "Maxi Frenos"
 url: /quito/maxi-frenos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

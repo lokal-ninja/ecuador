@@ -1,5 +1,5 @@
 ---
 title: "Tecno Scape"
 url: /guayaquil/tecno-scape/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

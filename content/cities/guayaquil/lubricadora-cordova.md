@@ -1,5 +1,5 @@
 ---
 title: "Lubricadora Cordova"
 url: /guayaquil/lubricadora-cordova/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mega Carnes"
 url: /quito/mega-carnes-capitan-ramon-borja/
-shop: Metzgerei
+shop: carnicero
 ---

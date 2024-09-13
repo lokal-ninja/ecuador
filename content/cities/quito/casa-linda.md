@@ -1,5 +1,5 @@
 ---
 title: "Casa Linda"
 url: /quito/casa-linda/
-shop: Textil
+shop: tela
 ---

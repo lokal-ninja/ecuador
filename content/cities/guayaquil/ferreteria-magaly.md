@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Magaly"
 url: /guayaquil/ferreteria-magaly/
-shop: Eisenwaren
+shop: hardware
 ---

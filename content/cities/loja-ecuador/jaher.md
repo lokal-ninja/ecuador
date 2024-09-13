@@ -1,5 +1,5 @@
 ---
 title: "JAHER"
 url: /loja-ecuador/jaher/
-shop: Allgemein
+shop: general
 ---

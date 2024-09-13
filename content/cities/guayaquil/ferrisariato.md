@@ -1,5 +1,5 @@
 ---
 title: "Ferrisariato"
 url: /guayaquil/ferrisariato/
-shop: Eisenwaren
+shop: hardware
 ---

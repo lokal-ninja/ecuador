@@ -1,5 +1,5 @@
 ---
 title: "Freno Seguro"
 url: /guayaquil/freno-seguro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

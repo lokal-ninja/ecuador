@@ -1,5 +1,5 @@
 ---
 title: "Martinizing"
 url: /cumbaya/martinizing/
-shop: Wäscherei
+shop: lavandería
 ---

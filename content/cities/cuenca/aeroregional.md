@@ -1,5 +1,5 @@
 ---
 title: "AeroRegional"
 url: /cuenca/aeroregional/
-shop: Reisebüro
+shop: agencia de viajes
 ---

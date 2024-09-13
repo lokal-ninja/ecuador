@@ -1,5 +1,5 @@
 ---
 title: "Frenos Samuel"
 url: /quito/frenos-samuel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charlestong"
 url: /quito/charlestong/
-shop: Kleidung
+shop: ropa
 ---

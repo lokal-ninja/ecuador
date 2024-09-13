@@ -1,5 +1,5 @@
 ---
 title: "Mil Cosas"
 url: /quito/mil-cosas/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dist Caamaño Cornejo KC"
 url: /guayaquil/dist-caamano-cornejo-kc/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motomecanica"
 url: /quito/motomecanica/
-shop: Autoteile
+shop: piezas de automóviles
 ---

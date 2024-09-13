@@ -1,5 +1,5 @@
 ---
 title: "Avicola Mejia Sanchez"
 url: /la-aurora/avicola-mejia-sanchez/
-shop: Supermarkt
+shop: supermercado
 ---

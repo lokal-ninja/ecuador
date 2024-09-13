@@ -1,5 +1,5 @@
 ---
 title: "Medical Fashion"
 url: /guayaquil/medical-fashion/
-shop: Kleidung
+shop: ropa
 ---

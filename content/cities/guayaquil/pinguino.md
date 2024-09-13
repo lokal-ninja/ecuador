@@ -1,5 +1,5 @@
 ---
 title: "Pinguino"
 url: /guayaquil/pinguino/
-shop: Allgemein
+shop: general
 ---

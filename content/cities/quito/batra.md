@@ -1,5 +1,5 @@
 ---
 title: "Batra"
 url: /quito/batra/
-shop: Allgemein
+shop: general
 ---

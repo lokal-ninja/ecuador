@@ -1,5 +1,5 @@
 ---
 title: "Full Alarmas Centers"
 url: /quito/full-alarmas-centers/
-shop: Allgemein
+shop: general
 ---

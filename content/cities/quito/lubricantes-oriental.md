@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Oriental"
 url: /quito/lubricantes-oriental/
-shop: Autoteile
+shop: piezas de automóviles
 ---

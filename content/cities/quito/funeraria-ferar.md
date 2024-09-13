@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Ferár"
 url: /quito/funeraria-ferar/
-shop: Bestattungen
+shop: directores de funerarias
 ---

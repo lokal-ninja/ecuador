@@ -1,5 +1,5 @@
 ---
 title: "Systemas Medicos"
 url: /quito/systemas-medicos/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

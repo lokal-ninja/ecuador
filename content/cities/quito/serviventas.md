@@ -1,5 +1,5 @@
 ---
 title: "Serviventas"
 url: /quito/serviventas/
-shop: Lebensmittel
+shop: comodidad
 ---

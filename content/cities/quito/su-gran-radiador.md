@@ -1,5 +1,5 @@
 ---
 title: "Su Gran Radiador"
 url: /quito/su-gran-radiador/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fájate"
 url: /guayaquil/fajate/
-shop: Kleidung
+shop: ropa
 ---

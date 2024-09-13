@@ -1,5 +1,5 @@
 ---
 title: "Venta de Pollo"
 url: /guayaquil/venta-de-pollo/
-shop: Metzgerei
+shop: carnicero
 ---

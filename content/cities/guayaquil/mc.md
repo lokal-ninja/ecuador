@@ -1,5 +1,5 @@
 ---
 title: "MC"
 url: /guayaquil/mc/
-shop: Kleidung
+shop: ropa
 ---

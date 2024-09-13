@@ -1,5 +1,5 @@
 ---
 title: "Gordon Baby"
 url: /quito/gordon-baby/
-shop: Babysachen
+shop: artículos para bebés
 ---

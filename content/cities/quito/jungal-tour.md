@@ -1,5 +1,5 @@
 ---
 title: "Jungal Tour"
 url: /quito/jungal-tour/
-shop: Reisebüro
+shop: agencia de viajes
 ---

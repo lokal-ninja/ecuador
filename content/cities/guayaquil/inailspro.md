@@ -1,5 +1,5 @@
 ---
 title: "INailsPro"
 url: /guayaquil/inailspro/
-shop: Kosmetik
+shop: cosméticos
 ---

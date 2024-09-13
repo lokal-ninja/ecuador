@@ -1,5 +1,5 @@
 ---
 title: "Magarden"
 url: /quevedo/magarden/
-shop: Garten-Center
+shop: centro de jardinería
 ---

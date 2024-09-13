@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Espinosa"
 url: /quito/distribuidora-espinosa/
-shop: Kleidung
+shop: ropa
 ---

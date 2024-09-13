@@ -1,5 +1,5 @@
 ---
 title: "Pelucan"
 url: /quito/pelucan/
-shop: Tiersalon
+shop: peluquería canina
 ---

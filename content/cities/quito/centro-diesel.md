@@ -1,5 +1,5 @@
 ---
 title: "Centro Diesel"
 url: /quito/centro-diesel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

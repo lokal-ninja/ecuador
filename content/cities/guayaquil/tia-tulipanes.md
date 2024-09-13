@@ -1,5 +1,5 @@
 ---
 title: "TIA Tulipanes"
 url: /guayaquil/tia-tulipanes/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TALLER EPO"
 url: /quito/taller-epo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

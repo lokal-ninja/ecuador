@@ -1,5 +1,5 @@
 ---
 title: "Librería Española"
 url: /cumbaya/libreria-espanola/
-shop: Bücher
+shop: libros
 ---

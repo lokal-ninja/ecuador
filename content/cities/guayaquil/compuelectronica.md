@@ -1,5 +1,5 @@
 ---
 title: "COMPUELECTRONICA"
 url: /guayaquil/compuelectronica/
-shop: Computer
+shop: ordenador
 ---

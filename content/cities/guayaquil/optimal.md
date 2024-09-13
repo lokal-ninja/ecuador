@@ -1,5 +1,5 @@
 ---
 title: "Optimal"
 url: /guayaquil/optimal/
-shop: Autoteile
+shop: piezas de automóviles
 ---

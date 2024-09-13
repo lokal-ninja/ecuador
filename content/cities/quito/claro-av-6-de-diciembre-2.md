@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /quito/claro-av-6-de-diciembre-2/
-shop: Handy
+shop: teléfono móvil
 ---

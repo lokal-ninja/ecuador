@@ -1,5 +1,5 @@
 ---
 title: "Taller Jiménez"
 url: /alamor/taller-jimenez/
-shop: Allgemein
+shop: general
 ---

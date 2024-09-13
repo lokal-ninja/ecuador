@@ -1,5 +1,5 @@
 ---
 title: "DIsensa"
 url: /quito/disensa/
-shop: Eisenwaren
+shop: hardware
 ---

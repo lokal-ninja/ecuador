@@ -1,5 +1,5 @@
 ---
 title: "sudeste FOTON DAIMER"
 url: /quito/sudeste-foton-daimer/
-shop: Autohaus
+shop: coche
 ---

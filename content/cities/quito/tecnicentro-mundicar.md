@@ -1,5 +1,5 @@
 ---
 title: "Tecnicentro Mundicar"
 url: /quito/tecnicentro-mundicar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

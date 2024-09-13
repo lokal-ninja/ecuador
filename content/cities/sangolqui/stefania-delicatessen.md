@@ -1,5 +1,5 @@
 ---
 title: "Stefania Delicatessen"
 url: /sangolqui/stefania-delicatessen/
-shop: Allgemein
+shop: general
 ---

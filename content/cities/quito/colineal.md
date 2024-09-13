@@ -1,5 +1,5 @@
 ---
 title: "Colineal"
 url: /quito/colineal/
-shop: Möbel
+shop: muebles
 ---

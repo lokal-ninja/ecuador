@@ -1,5 +1,5 @@
 ---
 title: "Cartec S.A."
 url: /quito/cartec-s-a/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

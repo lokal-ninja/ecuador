@@ -1,5 +1,5 @@
 ---
 title: "Giothe"
 url: /cuenca/giothe/
-shop: Basteln
+shop: artesanía
 ---

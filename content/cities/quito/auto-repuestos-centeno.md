@@ -1,5 +1,5 @@
 ---
 title: "Auto Repuestos Centeno"
 url: /quito/auto-repuestos-centeno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

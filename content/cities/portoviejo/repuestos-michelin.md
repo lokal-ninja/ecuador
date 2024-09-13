@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Michelin"
 url: /portoviejo/repuestos-michelin/
-shop: Autoteile
+shop: piezas de automóviles
 ---

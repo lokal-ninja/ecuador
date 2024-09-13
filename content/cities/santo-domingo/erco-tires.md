@@ -1,5 +1,5 @@
 ---
 title: "ERCO TIRES"
 url: /santo-domingo/erco-tires/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

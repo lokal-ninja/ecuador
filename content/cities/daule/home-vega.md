@@ -1,5 +1,5 @@
 ---
 title: "Home Vega"
 url: /daule/home-vega/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hi Performance"
 url: /quito/hi-performance/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

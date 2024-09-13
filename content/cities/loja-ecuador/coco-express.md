@@ -1,5 +1,5 @@
 ---
 title: "Coco Express"
 url: /loja-ecuador/coco-express/
-shop: Getränke
+shop: bebidas
 ---

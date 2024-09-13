@@ -1,5 +1,5 @@
 ---
 title: "Edesa"
 url: /guayaquil/edesa/
-shop: Badezimmer
+shop: cuarto de baño
 ---

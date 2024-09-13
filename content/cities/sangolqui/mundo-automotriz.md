@@ -1,5 +1,5 @@
 ---
 title: "Mundo Automotriz"
 url: /sangolqui/mundo-automotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

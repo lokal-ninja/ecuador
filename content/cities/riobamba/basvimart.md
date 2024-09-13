@@ -1,5 +1,5 @@
 ---
 title: "Basvimart"
 url: /riobamba/basvimart/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Palacios"
 url: /quito/ferreteria-palacios/
-shop: Eisenwaren
+shop: hardware
 ---

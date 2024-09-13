@@ -1,5 +1,5 @@
 ---
 title: "Servicio Automotriz Panchi"
 url: /quito/servicio-automotriz-panchi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Automotriz Daytona"
 url: /cuenca/mecanica-automotriz-daytona/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

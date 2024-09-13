@@ -1,5 +1,5 @@
 ---
 title: "Parabrisas Cristalautos"
 url: /quito/parabrisas-cristalautos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

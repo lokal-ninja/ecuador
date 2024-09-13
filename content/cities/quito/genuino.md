@@ -1,5 +1,5 @@
 ---
 title: "Genuino"
 url: /quito/genuino/
-shop: Autoteile
+shop: piezas de automóviles
 ---

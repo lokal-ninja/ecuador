@@ -1,5 +1,5 @@
 ---
 title: "Mundo Automotriz"
 url: /quito/mundo-automotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

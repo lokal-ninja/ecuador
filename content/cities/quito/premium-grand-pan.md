@@ -1,5 +1,5 @@
 ---
 title: "Premium Grand Pan"
 url: /quito/premium-grand-pan/
-shop: Bäckerei
+shop: panadería
 ---

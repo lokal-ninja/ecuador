@@ -1,5 +1,5 @@
 ---
 title: "Havoline"
 url: /guayaquil/havoline/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

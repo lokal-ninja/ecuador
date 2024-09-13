@@ -1,5 +1,5 @@
 ---
 title: "Imagine Ecuador"
 url: /luis-a-martinez-y-16-de-diciembre/imagine-ecuador/
-shop: Reisebüro
+shop: agencia de viajes
 ---

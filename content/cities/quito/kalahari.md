@@ -1,5 +1,5 @@
 ---
 title: "Kalahari"
 url: /quito/kalahari/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tía Tula"
 url: /sangolqui/tia-tula/
-shop: Schreibwaren
+shop: material de oficina
 ---

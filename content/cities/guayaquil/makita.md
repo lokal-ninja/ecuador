@@ -1,5 +1,5 @@
 ---
 title: "Makita"
 url: /guayaquil/makita/
-shop: Allgemein
+shop: general
 ---

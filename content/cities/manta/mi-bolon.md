@@ -1,5 +1,5 @@
 ---
 title: "Mi Bolón"
 url: /manta/mi-bolon/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Lavanderia"
 url: /quito/super-lavanderia/
-shop: Wäscherei
+shop: lavandería
 ---

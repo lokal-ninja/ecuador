@@ -1,5 +1,5 @@
 ---
 title: "Rodacenter"
 url: /ibarra/rodacenter/
-shop: Autoteile
+shop: piezas de automóviles
 ---

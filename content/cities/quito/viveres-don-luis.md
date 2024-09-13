@@ -1,5 +1,5 @@
 ---
 title: "Viveres Don Luis"
 url: /quito/viveres-don-luis/
-shop: Lebensmittel
+shop: comodidad
 ---

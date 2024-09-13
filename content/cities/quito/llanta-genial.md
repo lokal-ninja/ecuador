@@ -1,5 +1,5 @@
 ---
 title: "Llanta Genial"
 url: /quito/llanta-genial/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro de Belleza Liz"
 url: /guayaquil/centro-de-belleza-liz/
-shop: Friseur
+shop: peluquería
 ---

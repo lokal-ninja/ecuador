@@ -1,5 +1,5 @@
 ---
 title: "Recaudaciones Carlitos"
 url: /san-carlos/recaudaciones-carlitos/
-shop: Supermarkt
+shop: supermercado
 ---

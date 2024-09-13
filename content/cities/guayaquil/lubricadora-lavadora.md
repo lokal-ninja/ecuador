@@ -1,5 +1,5 @@
 ---
 title: "Lubricadora Lavadora"
 url: /guayaquil/lubricadora-lavadora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

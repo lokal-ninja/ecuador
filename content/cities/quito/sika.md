@@ -1,5 +1,5 @@
 ---
 title: "Sika"
 url: /quito/sika/
-shop: Kopieren
+shop: copyshop
 ---

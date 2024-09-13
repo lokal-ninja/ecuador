@@ -1,5 +1,5 @@
 ---
 title: "El Granjero"
 url: /sangolqui/el-granjero/
-shop: Tiere
+shop: mascotas
 ---

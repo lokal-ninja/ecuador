@@ -1,5 +1,5 @@
 ---
 title: "Zalema"
 url: /quito/zalema/
-shop: Friseur
+shop: peluquería
 ---

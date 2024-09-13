@@ -1,5 +1,5 @@
 ---
 title: "Comercial C.A"
 url: /cuenca/comercial-c-a/
-shop: Eisenwaren
+shop: hardware
 ---

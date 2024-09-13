@@ -1,5 +1,5 @@
 ---
 title: "CODECA MATERIALES DE CONSTRUCCIÓN"
 url: /malacatos/codeca-materiales-de-construccion/
-shop: Eisenwaren
+shop: hardware
 ---

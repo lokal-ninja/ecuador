@@ -1,5 +1,5 @@
 ---
 title: "Trajes Francis Sastreria"
 url: /quito/trajes-francis-sastreria/
-shop: Schneiderei
+shop: sastre
 ---

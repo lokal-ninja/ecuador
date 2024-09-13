@@ -1,5 +1,5 @@
 ---
 title: "Clip's"
 url: /parroquia-puerto-ayora/clips/
-shop: Schreibwaren
+shop: material de oficina
 ---

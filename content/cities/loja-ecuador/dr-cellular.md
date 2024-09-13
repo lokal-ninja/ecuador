@@ -1,5 +1,5 @@
 ---
 title: "Dr. Cellular"
 url: /loja-ecuador/dr-cellular/
-shop: Handy
+shop: teléfono móvil
 ---

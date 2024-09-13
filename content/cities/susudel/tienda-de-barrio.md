@@ -1,5 +1,5 @@
 ---
 title: "Tienda de Barrio"
 url: /susudel/tienda-de-barrio/
-shop: Allgemein
+shop: general
 ---

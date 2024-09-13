@@ -1,5 +1,5 @@
 ---
 title: "Hiper Más"
 url: /guayaquil/hiper-mas/
-shop: Lebensmittel
+shop: comodidad
 ---

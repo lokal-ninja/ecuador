@@ -1,5 +1,5 @@
 ---
 title: "Florería La Gioconda"
 url: /quito/floreria-la-gioconda/
-shop: Blumen
+shop: floristería
 ---

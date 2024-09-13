@@ -1,5 +1,5 @@
 ---
 title: "Autos Point"
 url: /quito/autos-point/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

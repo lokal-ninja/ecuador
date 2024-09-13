@@ -1,5 +1,5 @@
 ---
 title: "Armijos"
 url: /quito/armijos/
-shop: Bäckerei
+shop: panadería
 ---

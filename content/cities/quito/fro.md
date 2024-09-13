@@ -1,5 +1,5 @@
 ---
 title: "Fro"
 url: /quito/fro/
-shop: Eisprodukte
+shop: helado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mecanica Industrial"
 url: /quito/mecanica-industrial/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

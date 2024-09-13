@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
 url: /quito/peluqueria-avenida-de-la-prensa/
-shop: Friseur
+shop: peluquería
 ---

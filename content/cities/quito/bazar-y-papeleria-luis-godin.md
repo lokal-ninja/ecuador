@@ -1,5 +1,5 @@
 ---
 title: "Bazar y Papeleria"
 url: /quito/bazar-y-papeleria-luis-godin/
-shop: Allgemein
+shop: general
 ---

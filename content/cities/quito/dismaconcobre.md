@@ -1,5 +1,5 @@
 ---
 title: "Dismaconcobre"
 url: /quito/dismaconcobre/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Compuidea"
 url: /quito/compuidea/
-shop: Computer
+shop: ordenador
 ---

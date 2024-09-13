@@ -1,5 +1,5 @@
 ---
 title: "Japón"
 url: /quito/japon/
-shop: Elektronik
+shop: electrónica
 ---

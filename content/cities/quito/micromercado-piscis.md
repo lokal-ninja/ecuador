@@ -1,5 +1,5 @@
 ---
 title: "Micromercado Piscis"
 url: /quito/micromercado-piscis/
-shop: Dorfladen
+shop: tienda rural
 ---

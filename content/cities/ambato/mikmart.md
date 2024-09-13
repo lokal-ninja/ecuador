@@ -1,5 +1,5 @@
 ---
 title: "MIKMART"
 url: /ambato/mikmart/
-shop: Supermarkt
+shop: supermercado
 ---

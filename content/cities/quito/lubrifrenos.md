@@ -1,5 +1,5 @@
 ---
 title: "LUBRIFRENOS"
 url: /quito/lubrifrenos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

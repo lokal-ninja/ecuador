@@ -1,5 +1,5 @@
 ---
 title: "Mundo Decorativo"
 url: /quito/mundo-decorativo/
-shop: Gardinen
+shop: cortina
 ---

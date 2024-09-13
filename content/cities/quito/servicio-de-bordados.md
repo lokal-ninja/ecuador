@@ -1,5 +1,5 @@
 ---
 title: "Servicio de Bordados"
 url: /quito/servicio-de-bordados/
-shop: Allgemein
+shop: general
 ---

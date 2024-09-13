@@ -1,5 +1,5 @@
 ---
 title: "Argetunning"
 url: /quito/argetunning/
-shop: Autoteile
+shop: piezas de automóviles
 ---

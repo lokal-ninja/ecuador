@@ -1,5 +1,5 @@
 ---
 title: "Nuga Best"
 url: /quito/nuga-best/
-shop: Betten
+shop: cama
 ---

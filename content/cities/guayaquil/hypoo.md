@@ -1,5 +1,5 @@
 ---
 title: "Hypoo"
 url: /guayaquil/hypoo/
-shop: Badezimmer
+shop: cuarto de baño
 ---

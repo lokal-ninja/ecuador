@@ -1,5 +1,5 @@
 ---
 title: "Ayllyn"
 url: /quito/ayllyn/
-shop: Wäscherei
+shop: lavandería
 ---

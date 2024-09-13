@@ -1,5 +1,5 @@
 ---
 title: "Wentas"
 url: /quito/wentas/
-shop: Allgemein
+shop: general
 ---

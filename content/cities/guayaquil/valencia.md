@@ -1,5 +1,5 @@
 ---
 title: "Valencia"
 url: /guayaquil/valencia/
-shop: Autoteile
+shop: piezas de automóviles
 ---

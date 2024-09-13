@@ -1,5 +1,5 @@
 ---
 title: "Guaranda Figueroa"
 url: /quito/guaranda-figueroa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

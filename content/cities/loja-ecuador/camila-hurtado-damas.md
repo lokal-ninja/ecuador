@@ -1,5 +1,5 @@
 ---
 title: "Camila Hurtado Damas"
 url: /loja-ecuador/camila-hurtado-damas/
-shop: Kleidung
+shop: ropa
 ---

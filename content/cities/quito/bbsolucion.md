@@ -1,5 +1,5 @@
 ---
 title: "BBSolucion"
 url: /quito/bbsolucion/
-shop: Elektronik
+shop: electrónica
 ---

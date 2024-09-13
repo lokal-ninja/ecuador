@@ -1,5 +1,5 @@
 ---
 title: "Amoblart"
 url: /quito/amoblart/
-shop: Möbel
+shop: muebles
 ---

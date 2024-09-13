@@ -1,5 +1,5 @@
 ---
 title: "Joyeria Mendez"
 url: /quito/joyeria-mendez/
-shop: Schmuck
+shop: joyería
 ---

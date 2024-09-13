@@ -1,5 +1,5 @@
 ---
 title: "Ferreconstru"
 url: /quito/ferreconstru/
-shop: Eisenwaren
+shop: hardware
 ---

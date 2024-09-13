@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Japón"
 url: /guaranda/almacenes-japon/
-shop: Supermarkt
+shop: supermercado
 ---

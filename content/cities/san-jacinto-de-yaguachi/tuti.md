@@ -1,5 +1,5 @@
 ---
 title: "TuTi"
 url: /san-jacinto-de-yaguachi/tuti/
-shop: Warenhaus
+shop: grandes almacenes
 ---

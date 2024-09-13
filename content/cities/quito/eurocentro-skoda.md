@@ -1,5 +1,5 @@
 ---
 title: "EuroCentro Skoda"
 url: /quito/eurocentro-skoda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

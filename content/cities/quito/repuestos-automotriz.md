@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Automotriz"
 url: /quito/repuestos-automotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

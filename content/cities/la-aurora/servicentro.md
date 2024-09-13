@@ -1,5 +1,5 @@
 ---
 title: "Servicentro"
 url: /la-aurora/servicentro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

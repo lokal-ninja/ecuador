@@ -1,5 +1,5 @@
 ---
 title: "Calmetal"
 url: /guayaquil/calmetal/
-shop: Eisenwaren
+shop: hardware
 ---

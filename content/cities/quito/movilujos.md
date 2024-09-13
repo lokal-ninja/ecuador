@@ -1,5 +1,5 @@
 ---
 title: "MoviLujos"
 url: /quito/movilujos/
-shop: Allgemein
+shop: general
 ---

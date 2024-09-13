@@ -1,5 +1,5 @@
 ---
 title: "Tapiceria Automotriz"
 url: /quito/tapiceria-automotriz-bartolome-de-las-casas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Quebecua"
 url: /quito/casa-quebecua/
-shop: Allgemein
+shop: general
 ---

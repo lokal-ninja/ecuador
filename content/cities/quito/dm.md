@@ -1,5 +1,5 @@
 ---
 title: "DM"
 url: /quito/dm/
-shop: Reisebüro
+shop: agencia de viajes
 ---

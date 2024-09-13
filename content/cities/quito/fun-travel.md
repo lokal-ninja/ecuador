@@ -1,5 +1,5 @@
 ---
 title: "Fun Travel"
 url: /quito/fun-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

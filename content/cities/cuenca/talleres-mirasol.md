@@ -1,5 +1,5 @@
 ---
 title: "Talleres Mirasol"
 url: /cuenca/talleres-mirasol/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

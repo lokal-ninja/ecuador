@@ -1,5 +1,5 @@
 ---
 title: "Ecuabet"
 url: /loja-ecuador/ecuabet/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

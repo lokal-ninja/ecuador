@@ -1,5 +1,5 @@
 ---
 title: "Snoopy"
 url: /guayaquil/snoopy/
-shop: Allgemein
+shop: general
 ---

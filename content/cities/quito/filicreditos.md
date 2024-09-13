@@ -1,5 +1,5 @@
 ---
 title: "Filicreditos"
 url: /quito/filicreditos/
-shop: Leiher
+shop: prestamista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tony"
 url: /guayaquil/tony/
-shop: Warenhaus
+shop: grandes almacenes
 ---

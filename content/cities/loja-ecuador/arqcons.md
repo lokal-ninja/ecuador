@@ -1,5 +1,5 @@
 ---
 title: "Arqcons"
 url: /loja-ecuador/arqcons/
-shop: Eisenwaren
+shop: hardware
 ---

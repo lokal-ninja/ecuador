@@ -1,5 +1,5 @@
 ---
 title: "Ferretería El Foco"
 url: /riobamba/ferreteria-el-foco/
-shop: Eisenwaren
+shop: hardware
 ---

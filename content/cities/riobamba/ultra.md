@@ -1,5 +1,5 @@
 ---
 title: "ULTRA"
 url: /riobamba/ultra/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

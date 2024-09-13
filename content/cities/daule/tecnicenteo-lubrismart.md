@@ -1,5 +1,5 @@
 ---
 title: "Tecnicenteo LubriSmart"
 url: /daule/tecnicenteo-lubrismart/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MECÁNICA AUTOMOTRIZ ANGUETA"
 url: /quito/mecanica-automotriz-angueta/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

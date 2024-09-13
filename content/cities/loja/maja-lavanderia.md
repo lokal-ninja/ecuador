@@ -1,5 +1,5 @@
 ---
 title: "Maja Lavanderia"
 url: /loja/maja-lavanderia/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benethel"
 url: /quito/benethel/
-shop: Allgemein
+shop: general
 ---

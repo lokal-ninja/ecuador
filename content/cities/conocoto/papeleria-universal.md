@@ -1,5 +1,5 @@
 ---
 title: "Papelería Universal"
 url: /conocoto/papeleria-universal/
-shop: Schreibwaren
+shop: material de oficina
 ---

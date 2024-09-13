@@ -1,5 +1,5 @@
 ---
 title: "ELECTROMECÁNICA Enrique A y Asoc..."
 url: /la-aurora/electromecanica-enrique-a-y-asoc/
-shop: Autoteile
+shop: piezas de automóviles
 ---

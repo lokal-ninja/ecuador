@@ -1,5 +1,5 @@
 ---
 title: "Comercial Juan Sebastián"
 url: /guayaquil/comercial-juan-sebastian/
-shop: Allgemein
+shop: general
 ---

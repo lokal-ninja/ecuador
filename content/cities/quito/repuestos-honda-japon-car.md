@@ -1,5 +1,5 @@
 ---
 title: "Repuestos honda Japon car"
 url: /quito/repuestos-honda-japon-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

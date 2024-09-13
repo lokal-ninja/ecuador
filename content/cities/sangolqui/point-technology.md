@@ -1,5 +1,5 @@
 ---
 title: "Point Technology"
 url: /sangolqui/point-technology/
-shop: Allgemein
+shop: general
 ---

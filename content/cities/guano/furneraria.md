@@ -1,5 +1,5 @@
 ---
 title: "furneraria,"
 url: /guano/furneraria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

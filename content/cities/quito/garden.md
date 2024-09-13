@@ -1,5 +1,5 @@
 ---
 title: "Garden"
 url: /quito/garden/
-shop: Garten-Center
+shop: centro de jardinería
 ---

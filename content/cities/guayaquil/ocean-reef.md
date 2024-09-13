@@ -1,5 +1,5 @@
 ---
 title: "Ocean Reef"
 url: /guayaquil/ocean-reef/
-shop: Tauchen
+shop: buceo
 ---

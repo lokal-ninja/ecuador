@@ -1,5 +1,5 @@
 ---
 title: "Rey Bolon"
 url: /guayaquil/rey-bolon/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GLOBAL AUTO"
 url: /quito/global-auto/
-shop: Autohaus
+shop: coche
 ---

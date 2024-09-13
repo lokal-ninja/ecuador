@@ -1,5 +1,5 @@
 ---
 title: "Morrison"
 url: /quito/morrison/
-shop: Allgemein
+shop: general
 ---

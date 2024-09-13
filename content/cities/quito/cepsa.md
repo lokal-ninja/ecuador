@@ -1,5 +1,5 @@
 ---
 title: "Cepsa"
 url: /quito/cepsa/
-shop: Autohaus
+shop: coche
 ---

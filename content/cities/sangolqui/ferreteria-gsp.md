@@ -1,5 +1,5 @@
 ---
 title: "Ferretería GSP"
 url: /sangolqui/ferreteria-gsp/
-shop: Eisenwaren
+shop: hardware
 ---

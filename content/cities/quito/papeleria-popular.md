@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Popular"
 url: /quito/papeleria-popular/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automotriz"
 url: /quito/automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

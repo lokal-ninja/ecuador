@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Automotrices"
 url: /quito/repuestos-automotrices/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

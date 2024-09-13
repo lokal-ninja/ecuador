@@ -1,5 +1,5 @@
 ---
 title: "Dayan"
 url: /quito/dayan/
-shop: Allgemein
+shop: general
 ---

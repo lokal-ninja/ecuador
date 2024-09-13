@@ -1,5 +1,5 @@
 ---
 title: "Lujo's Car"
 url: /quito/lujos-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

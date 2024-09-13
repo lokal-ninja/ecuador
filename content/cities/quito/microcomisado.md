@@ -1,5 +1,5 @@
 ---
 title: "Microcomisado"
 url: /quito/microcomisado/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jardin Tropical Floristeria"
 url: /quito/jardin-tropical-floristeria/
-shop: Blumen
+shop: floristería
 ---

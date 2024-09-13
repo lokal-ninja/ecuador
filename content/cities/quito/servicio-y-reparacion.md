@@ -1,5 +1,5 @@
 ---
 title: "Servicio y Reparacion"
 url: /quito/servicio-y-reparacion/
-shop: Allgemein
+shop: general
 ---

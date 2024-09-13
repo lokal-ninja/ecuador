@@ -1,5 +1,5 @@
 ---
 title: "Marmotec"
 url: /quito/marmotec/
-shop: Baustoffe
+shop: comercio
 ---

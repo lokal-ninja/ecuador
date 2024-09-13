@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /quito/express/
-shop: Allgemein
+shop: general
 ---

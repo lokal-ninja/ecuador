@@ -1,5 +1,5 @@
 ---
 title: "Picara's Boutique"
 url: /quito/picaras-boutique/
-shop: Kleidung
+shop: ropa
 ---

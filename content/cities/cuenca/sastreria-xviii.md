@@ -1,5 +1,5 @@
 ---
 title: "Sastrería XVIII"
 url: /cuenca/sastreria-xviii/
-shop: Schneiderei
+shop: sastre
 ---

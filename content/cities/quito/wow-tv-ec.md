@@ -1,5 +1,5 @@
 ---
 title: "WOW TV EC"
 url: /quito/wow-tv-ec/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Banco Del Barrio"
 url: /quito/banco-del-barrio/
-shop: Allgemein
+shop: general
 ---

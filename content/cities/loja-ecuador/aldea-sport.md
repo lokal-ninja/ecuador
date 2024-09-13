@@ -1,5 +1,5 @@
 ---
 title: "Aldea Sport"
 url: /loja-ecuador/aldea-sport/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería San Pablo"
 url: /quito/libreria-san-pablo-avenida-america/
-shop: Bücher
+shop: libros
 ---

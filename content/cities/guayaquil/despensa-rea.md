@@ -1,5 +1,5 @@
 ---
 title: "Despensa Rea"
 url: /guayaquil/despensa-rea/
-shop: Kiosk
+shop: quiosco
 ---

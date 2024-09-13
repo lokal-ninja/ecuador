@@ -1,5 +1,5 @@
 ---
 title: "NIvel"
 url: /quito/nivel/
-shop: Allgemein
+shop: general
 ---

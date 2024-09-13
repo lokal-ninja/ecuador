@@ -1,5 +1,5 @@
 ---
 title: "Fahma"
 url: /quito/fahma/
-shop: Schneiderei
+shop: sastre
 ---

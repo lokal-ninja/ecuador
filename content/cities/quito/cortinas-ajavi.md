@@ -1,5 +1,5 @@
 ---
 title: "Cortinas"
 url: /quito/cortinas-ajavi/
-shop: Gardinen
+shop: cortina
 ---

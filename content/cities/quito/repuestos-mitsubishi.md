@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Mitsubishi"
 url: /quito/repuestos-mitsubishi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

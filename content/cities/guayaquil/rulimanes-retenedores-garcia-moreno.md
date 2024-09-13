@@ -1,5 +1,5 @@
 ---
 title: "Rulimanes Retenedores"
 url: /guayaquil/rulimanes-retenedores-garcia-moreno/
-shop: Autoteile
+shop: piezas de automóviles
 ---

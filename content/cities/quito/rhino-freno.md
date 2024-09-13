@@ -1,5 +1,5 @@
 ---
 title: "Rhino Freno"
 url: /quito/rhino-freno/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C.E.A.R. Vision"
 url: /quito/c-e-a-r-vision/
-shop: Optiker
+shop: óptico
 ---

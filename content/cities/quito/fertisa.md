@@ -1,5 +1,5 @@
 ---
 title: "Fertisa"
 url: /quito/fertisa/
-shop: Baustoffe
+shop: comercio
 ---

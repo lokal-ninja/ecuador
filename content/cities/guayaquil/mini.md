@@ -1,5 +1,5 @@
 ---
 title: "Mini"
 url: /guayaquil/mini/
-shop: Supermarkt
+shop: supermercado
 ---

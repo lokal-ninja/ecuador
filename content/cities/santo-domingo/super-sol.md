@@ -1,5 +1,5 @@
 ---
 title: "Super Sol"
 url: /santo-domingo/super-sol/
-shop: Supermarkt
+shop: supermercado
 ---

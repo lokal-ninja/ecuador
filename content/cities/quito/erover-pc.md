@@ -1,5 +1,5 @@
 ---
 title: "Erover PC"
 url: /quito/erover-pc/
-shop: Computer
+shop: ordenador
 ---

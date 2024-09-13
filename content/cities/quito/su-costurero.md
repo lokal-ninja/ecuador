@@ -1,5 +1,5 @@
 ---
 title: "Su Costurero"
 url: /quito/su-costurero/
-shop: Textil
+shop: tela
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /quito/bridgestone/
-shop: Reifen
+shop: neumáticos
 ---

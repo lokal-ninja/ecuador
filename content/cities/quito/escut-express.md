@@ -1,5 +1,5 @@
 ---
 title: "Escut Express"
 url: /quito/escut-express/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tecnocyclo"
 url: /cuenca/tecnocyclo/
-shop: Fahrrad
+shop: bicicleta
 ---

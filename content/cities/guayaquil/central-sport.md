@@ -1,5 +1,5 @@
 ---
 title: "Central Sport"
 url: /guayaquil/central-sport/
-shop: Allgemein
+shop: general
 ---

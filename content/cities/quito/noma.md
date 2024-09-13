@@ -1,5 +1,5 @@
 ---
 title: "Noma"
 url: /quito/noma/
-shop: Allgemein
+shop: general
 ---

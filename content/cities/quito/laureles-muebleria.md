@@ -1,5 +1,5 @@
 ---
 title: "Laureles Muebleria"
 url: /quito/laureles-muebleria/
-shop: Möbel
+shop: muebles
 ---

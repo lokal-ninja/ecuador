@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Mega Limpio"
 url: /quito/lavanderia-mega-limpio/
-shop: Wäscherei
+shop: lavandería
 ---

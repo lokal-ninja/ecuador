@@ -1,5 +1,5 @@
 ---
 title: "Supermercado AKI"
 url: /guaranda/supermercado-aki/
-shop: Supermarkt
+shop: supermercado
 ---

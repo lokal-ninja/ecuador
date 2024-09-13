@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /guayaquil/zara/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TIA"
 url: /posorja/tia/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

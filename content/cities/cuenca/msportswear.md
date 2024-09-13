@@ -1,5 +1,5 @@
 ---
 title: "MSportswear"
 url: /cuenca/msportswear/
-shop: Sport
+shop: deportes
 ---

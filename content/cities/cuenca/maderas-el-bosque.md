@@ -1,5 +1,5 @@
 ---
 title: "MADERAS EL BOSQUE"
 url: /cuenca/maderas-el-bosque/
-shop: Warenhaus
+shop: grandes almacenes
 ---

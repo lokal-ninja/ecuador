@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Unisex Amara"
 url: /guayaquil/peluqueria-unisex-amara/
-shop: Friseur
+shop: peluquería
 ---

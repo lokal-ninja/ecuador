@@ -1,5 +1,5 @@
 ---
 title: "Lubricadora y Lavadora Don Bosco"
 url: /quito/lubricadora-y-lavadora-don-bosco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

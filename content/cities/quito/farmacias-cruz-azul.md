@@ -1,5 +1,5 @@
 ---
 title: "Farmacias Cruz Azul"
 url: /quito/farmacias-cruz-azul/
-shop: Drogerie
+shop: farmacia
 ---

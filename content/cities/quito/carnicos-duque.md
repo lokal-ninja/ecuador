@@ -1,5 +1,5 @@
 ---
 title: "Cárnicos Duque"
 url: /quito/carnicos-duque/
-shop: Metzgerei
+shop: carnicero
 ---

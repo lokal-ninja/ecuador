@@ -1,5 +1,5 @@
 ---
 title: "Artefacta"
 url: /guayaquil/artefacta-rodolfo-baquerizo-nazur/
-shop: Elektronik
+shop: electrónica
 ---

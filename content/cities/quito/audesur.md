@@ -1,5 +1,5 @@
 ---
 title: "Audesur"
 url: /quito/audesur/
-shop: Autohaus
+shop: coche
 ---

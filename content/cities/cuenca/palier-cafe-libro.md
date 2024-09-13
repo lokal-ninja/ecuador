@@ -1,5 +1,5 @@
 ---
 title: "Palier Café-libro"
 url: /cuenca/palier-cafe-libro/
-shop: Bücher
+shop: libros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tecni Cauchos"
 url: /quito/tecni-cauchos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LÓH Trendi"
 url: /cuenca/loh-trendi/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmacias Pharmacy's"
 url: /quito/farmacias-pharmacys/
-shop: Drogerie
+shop: farmacia
 ---

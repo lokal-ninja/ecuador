@@ -1,5 +1,5 @@
 ---
 title: "Euro"
 url: /guayaquil/euro/
-shop: Allgemein
+shop: general
 ---

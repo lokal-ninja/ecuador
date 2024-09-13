@@ -1,5 +1,5 @@
 ---
 title: "Creaciones Imperio"
 url: /quito/creaciones-imperio/
-shop: Kramladen
+shop: tienda de variedades
 ---

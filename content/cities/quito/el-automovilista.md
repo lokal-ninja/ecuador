@@ -1,5 +1,5 @@
 ---
 title: "El Automovilista"
 url: /quito/el-automovilista/
-shop: Autoteile
+shop: piezas de automóviles
 ---

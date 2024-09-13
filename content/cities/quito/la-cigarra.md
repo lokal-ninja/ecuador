@@ -1,5 +1,5 @@
 ---
 title: "La Cigarra"
 url: /quito/la-cigarra/
-shop: Spirituosen
+shop: alcohol
 ---

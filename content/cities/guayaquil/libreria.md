@@ -1,5 +1,5 @@
 ---
 title: "Librería"
 url: /guayaquil/libreria/
-shop: Schreibwaren
+shop: material de oficina
 ---

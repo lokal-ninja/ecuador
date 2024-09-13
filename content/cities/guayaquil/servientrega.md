@@ -1,5 +1,5 @@
 ---
 title: "Servientrega"
 url: /guayaquil/servientrega/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oficinas Administrativas"
 url: /cuenca/oficinas-administrativas/
-shop: Bestattungen
+shop: directores de funerarias
 ---

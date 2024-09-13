@@ -1,5 +1,5 @@
 ---
 title: "Viveres Gladys"
 url: /quito/viveres-gladys/
-shop: Lebensmittel
+shop: comodidad
 ---

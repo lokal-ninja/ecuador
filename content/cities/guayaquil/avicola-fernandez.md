@@ -1,5 +1,5 @@
 ---
 title: "Avicola Fernandez"
 url: /guayaquil/avicola-fernandez/
-shop: Allgemein
+shop: general
 ---

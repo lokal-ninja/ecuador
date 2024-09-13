@@ -1,5 +1,5 @@
 ---
 title: "El Rincon del Pastelero"
 url: /quito/el-rincon-del-pastelero/
-shop: Konditorei
+shop: pastelería
 ---

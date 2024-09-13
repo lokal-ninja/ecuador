@@ -1,5 +1,5 @@
 ---
 title: "Pañaleras Pototin"
 url: /quito/panaleras-pototin/
-shop: Babysachen
+shop: artículos para bebés
 ---

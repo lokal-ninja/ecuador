@@ -1,5 +1,5 @@
 ---
 title: "CONDIMAQSA"
 url: /guayaquil/condimaqsa/
-shop: Allgemein
+shop: general
 ---

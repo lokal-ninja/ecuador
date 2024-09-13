@@ -1,5 +1,5 @@
 ---
 title: "Madeval"
 url: /guayaquil/madeval/
-shop: Küchen
+shop: cocina
 ---

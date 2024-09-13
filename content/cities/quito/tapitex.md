@@ -1,5 +1,5 @@
 ---
 title: "Tapitex"
 url: /quito/tapitex/
-shop: Textil
+shop: tela
 ---

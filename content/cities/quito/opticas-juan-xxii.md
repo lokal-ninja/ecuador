@@ -1,5 +1,5 @@
 ---
 title: "Opticas Juan XXII"
 url: /quito/opticas-juan-xxii/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servitores"
 url: /quito/servitores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AMAVI LIQUOR'S"
 url: /loja-ecuador/amavi-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

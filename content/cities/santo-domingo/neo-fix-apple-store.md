@@ -1,5 +1,5 @@
 ---
 title: "Neo Fix Apple Store"
 url: /santo-domingo/neo-fix-apple-store/
-shop: Handy
+shop: teléfono móvil
 ---

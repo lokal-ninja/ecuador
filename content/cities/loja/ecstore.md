@@ -1,5 +1,5 @@
 ---
 title: "ecstore"
 url: /loja/ecstore/
-shop: Computer
+shop: ordenador
 ---

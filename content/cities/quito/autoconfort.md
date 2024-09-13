@@ -1,5 +1,5 @@
 ---
 title: "AutoConfort"
 url: /quito/autoconfort/
-shop: Allgemein
+shop: general
 ---

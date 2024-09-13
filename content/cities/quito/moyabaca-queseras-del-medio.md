@@ -1,5 +1,5 @@
 ---
 title: "Moyabaca"
 url: /quito/moyabaca-queseras-del-medio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

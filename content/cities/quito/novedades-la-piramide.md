@@ -1,5 +1,5 @@
 ---
 title: "Novedades La Piramide"
 url: /quito/novedades-la-piramide/
-shop: Allgemein
+shop: general
 ---

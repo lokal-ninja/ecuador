@@ -1,5 +1,5 @@
 ---
 title: "Novedades Sammy"
 url: /quito/novedades-sammy/
-shop: Kramladen
+shop: tienda de variedades
 ---

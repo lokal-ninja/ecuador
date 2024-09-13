@@ -1,5 +1,5 @@
 ---
 title: "Vizuete"
 url: /zumba/vizuete/
-shop: Schreibwaren
+shop: material de oficina
 ---

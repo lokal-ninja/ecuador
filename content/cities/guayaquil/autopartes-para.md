@@ -1,5 +1,5 @@
 ---
 title: "Autopartes Para:"
 url: /guayaquil/autopartes-para/
-shop: Autoteile
+shop: piezas de automóviles
 ---

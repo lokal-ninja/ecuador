@@ -1,5 +1,5 @@
 ---
 title: "Mini Market Cotalo"
 url: /puerto-ayora/mini-market-cotalo/
-shop: Supermarkt
+shop: supermercado
 ---

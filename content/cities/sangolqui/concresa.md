@@ -1,5 +1,5 @@
 ---
 title: "Concresa"
 url: /sangolqui/concresa/
-shop: Elektronik
+shop: electrónica
 ---

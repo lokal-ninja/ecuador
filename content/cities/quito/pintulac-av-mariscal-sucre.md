@@ -1,5 +1,5 @@
 ---
 title: "Pintulac"
 url: /quito/pintulac-av-mariscal-sucre/
-shop: Farben
+shop: pintura
 ---

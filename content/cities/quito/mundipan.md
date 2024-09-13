@@ -1,5 +1,5 @@
 ---
 title: "Mundipan"
 url: /quito/mundipan/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "World Tuning"
 url: /quito/world-tuning/
-shop: Autoteile
+shop: piezas de automóviles
 ---

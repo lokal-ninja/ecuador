@@ -1,5 +1,5 @@
 ---
 title: "Bachinet"
 url: /quito/bachinet/
-shop: Allgemein
+shop: general
 ---

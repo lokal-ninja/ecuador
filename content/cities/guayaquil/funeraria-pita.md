@@ -1,5 +1,5 @@
 ---
 title: "Funeraría Pita"
 url: /guayaquil/funeraria-pita/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kywi"
 url: /guayaquil/kywi/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

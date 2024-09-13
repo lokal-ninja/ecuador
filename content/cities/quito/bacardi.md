@@ -1,5 +1,5 @@
 ---
 title: "Bacardi"
 url: /quito/bacardi/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automotriz JM"
 url: /sangolqui/automotriz-jm/
-shop: Autoteile
+shop: piezas de automóviles
 ---

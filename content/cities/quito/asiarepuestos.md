@@ -1,5 +1,5 @@
 ---
 title: "AsiaRepuestos"
 url: /quito/asiarepuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

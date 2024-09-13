@@ -1,5 +1,5 @@
 ---
 title: "WAYRA TOURS"
 url: /cuenca/wayra-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

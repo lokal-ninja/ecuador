@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /quito/goodyear/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

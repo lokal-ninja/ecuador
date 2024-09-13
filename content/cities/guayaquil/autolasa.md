@@ -1,5 +1,5 @@
 ---
 title: "Autolasa"
 url: /guayaquil/autolasa/
-shop: Autohaus
+shop: coche
 ---

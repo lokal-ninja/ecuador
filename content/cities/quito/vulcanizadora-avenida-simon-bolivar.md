@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora"
 url: /quito/vulcanizadora-avenida-simon-bolivar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

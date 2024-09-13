@@ -1,5 +1,5 @@
 ---
 title: "Ex Popapel"
 url: /guayaquil/ex-popapel/
-shop: Allgemein
+shop: general
 ---

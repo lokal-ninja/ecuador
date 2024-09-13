@@ -1,5 +1,5 @@
 ---
 title: "Paintbull"
 url: /quito/paintbull/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

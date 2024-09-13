@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Mazda"
 url: /quito/mecanica-mazda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

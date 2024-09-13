@@ -1,5 +1,5 @@
 ---
 title: "Moto Accesorios"
 url: /quito/moto-accesorios-avenida-rio-coca/
-shop: Motorrad
+shop: motocicleta
 ---

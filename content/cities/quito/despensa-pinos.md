@@ -1,5 +1,5 @@
 ---
 title: "Despensa Pinos"
 url: /quito/despensa-pinos/
-shop: Allgemein
+shop: general
 ---

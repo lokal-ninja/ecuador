@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /guayaquil/claro/
-shop: Handy
+shop: teléfono móvil
 ---

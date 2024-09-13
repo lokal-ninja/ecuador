@@ -1,5 +1,5 @@
 ---
 title: "Trayana Foods"
 url: /quito/trayana-foods/
-shop: Supermarkt
+shop: supermercado
 ---

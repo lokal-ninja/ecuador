@@ -1,5 +1,5 @@
 ---
 title: "Electromecanica Jaramillo"
 url: /arenillas/electromecanica-jaramillo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

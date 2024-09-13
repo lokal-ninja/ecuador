@@ -1,5 +1,5 @@
 ---
 title: "Speed Up"
 url: /quito/speed-up/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

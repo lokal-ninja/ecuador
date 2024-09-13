@@ -1,5 +1,5 @@
 ---
 title: "MAXCAR"
 url: /quito/maxcar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

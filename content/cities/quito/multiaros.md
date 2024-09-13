@@ -1,5 +1,5 @@
 ---
 title: "Multiaros"
 url: /quito/multiaros/
-shop: Autoteile
+shop: piezas de automóviles
 ---

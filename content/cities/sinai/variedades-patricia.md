@@ -1,5 +1,5 @@
 ---
 title: "Variedades Patricia"
 url: /sinai/variedades-patricia/
-shop: Kramladen
+shop: tienda de variedades
 ---

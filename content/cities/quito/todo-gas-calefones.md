@@ -1,5 +1,5 @@
 ---
 title: "Todo Gas Calefones"
 url: /quito/todo-gas-calefones/
-shop: Allgemein
+shop: general
 ---

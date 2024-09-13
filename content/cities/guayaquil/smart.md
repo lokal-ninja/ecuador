@@ -1,5 +1,5 @@
 ---
 title: "Smart"
 url: /guayaquil/smart/
-shop: Allgemein
+shop: general
 ---

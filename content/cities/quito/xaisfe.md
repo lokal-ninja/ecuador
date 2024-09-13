@@ -1,5 +1,5 @@
 ---
 title: "Xaisfe"
 url: /quito/xaisfe/
-shop: Schreibwaren
+shop: material de oficina
 ---

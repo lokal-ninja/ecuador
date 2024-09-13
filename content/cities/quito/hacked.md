@@ -1,5 +1,5 @@
 ---
 title: "Hacked"
 url: /quito/hacked/
-shop: Computer
+shop: ordenador
 ---

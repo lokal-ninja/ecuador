@@ -1,5 +1,5 @@
 ---
 title: "Print Media"
 url: /quito/print-media/
-shop: Kopieren
+shop: copyshop
 ---

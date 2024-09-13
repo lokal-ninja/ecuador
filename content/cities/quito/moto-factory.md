@@ -1,5 +1,5 @@
 ---
 title: "Moto Factory"
 url: /quito/moto-factory/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

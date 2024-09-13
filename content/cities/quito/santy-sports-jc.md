@@ -1,5 +1,5 @@
 ---
 title: "Santy Sports JC"
 url: /quito/santy-sports-jc/
-shop: Schuhe
+shop: zapatos
 ---

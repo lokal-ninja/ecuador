@@ -1,5 +1,5 @@
 ---
 title: "Baguette"
 url: /quito/baguette/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Creter Tours"
 url: /quito/creter-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

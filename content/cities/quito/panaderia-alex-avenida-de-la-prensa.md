@@ -1,5 +1,5 @@
 ---
 title: "Panadería Alex"
 url: /quito/panaderia-alex-avenida-de-la-prensa/
-shop: Bäckerei
+shop: panadería
 ---

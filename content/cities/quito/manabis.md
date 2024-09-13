@@ -1,5 +1,5 @@
 ---
 title: "Manabi's"
 url: /quito/manabis/
-shop: Allgemein
+shop: general
 ---

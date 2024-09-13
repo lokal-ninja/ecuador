@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Metropolitana"
 url: /quito/funeraria-metropolitana/
-shop: Bestattungen
+shop: directores de funerarias
 ---

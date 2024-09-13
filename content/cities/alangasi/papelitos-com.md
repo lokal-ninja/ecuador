@@ -1,5 +1,5 @@
 ---
 title: "Papelitos.com"
 url: /alangasi/papelitos-com/
-shop: Kopieren
+shop: copyshop
 ---

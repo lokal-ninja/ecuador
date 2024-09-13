@@ -1,5 +1,5 @@
 ---
 title: "Vellísimo Center"
 url: /quito/vellisimo-center/
-shop: Allgemein
+shop: general
 ---

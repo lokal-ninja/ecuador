@@ -1,5 +1,5 @@
 ---
 title: "Kywi"
 url: /loja/kywi/
-shop: Supermarkt
+shop: supermercado
 ---

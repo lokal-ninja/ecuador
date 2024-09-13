@@ -1,5 +1,5 @@
 ---
 title: "Showroom Store"
 url: /quito/showroom-store/
-shop: Allgemein
+shop: general
 ---

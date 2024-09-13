@@ -1,5 +1,5 @@
 ---
 title: "Licorera Al Paso"
 url: /zumbi/licorera-al-paso/
-shop: Spirituosen
+shop: alcohol
 ---

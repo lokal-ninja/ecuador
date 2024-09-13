@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Johana's"
 url: /guayaquil/pinturas-johanas/
-shop: Farben
+shop: pintura
 ---

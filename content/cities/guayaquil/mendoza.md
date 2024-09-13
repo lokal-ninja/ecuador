@@ -1,5 +1,5 @@
 ---
 title: "Mendoza"
 url: /guayaquil/mendoza/
-shop: Optiker
+shop: óptico
 ---

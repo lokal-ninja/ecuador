@@ -1,5 +1,5 @@
 ---
 title: "Romai"
 url: /quito/romai/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

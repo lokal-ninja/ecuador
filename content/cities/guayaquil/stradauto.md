@@ -1,5 +1,5 @@
 ---
 title: "Stradauto"
 url: /guayaquil/stradauto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

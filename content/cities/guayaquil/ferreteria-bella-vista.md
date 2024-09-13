@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Bella Vista"
 url: /guayaquil/ferreteria-bella-vista/
-shop: Eisenwaren
+shop: hardware
 ---

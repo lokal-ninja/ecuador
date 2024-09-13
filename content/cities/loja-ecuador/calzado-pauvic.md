@@ -1,5 +1,5 @@
 ---
 title: "Calzado Pauvic"
 url: /loja-ecuador/calzado-pauvic/
-shop: Schuhe
+shop: zapatos
 ---

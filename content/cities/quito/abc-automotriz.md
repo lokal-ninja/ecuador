@@ -1,5 +1,5 @@
 ---
 title: "ABC Automotriz"
 url: /quito/abc-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

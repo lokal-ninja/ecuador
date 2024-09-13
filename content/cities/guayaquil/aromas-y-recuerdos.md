@@ -1,5 +1,5 @@
 ---
 title: "Aromas y Recuerdos"
 url: /guayaquil/aromas-y-recuerdos/
-shop: Parfümerie
+shop: perfumería
 ---

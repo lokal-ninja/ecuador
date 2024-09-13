@@ -1,5 +1,5 @@
 ---
 title: "Arteria"
 url: /quito/arteria/
-shop: Tattoo
+shop: tatuaje
 ---

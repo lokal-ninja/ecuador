@@ -1,5 +1,5 @@
 ---
 title: "Wag Motors"
 url: /ambato/wag-motors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

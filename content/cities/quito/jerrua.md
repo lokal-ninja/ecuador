@@ -1,5 +1,5 @@
 ---
 title: "Jerruá"
 url: /quito/jerrua/
-shop: Wein
+shop: vino
 ---

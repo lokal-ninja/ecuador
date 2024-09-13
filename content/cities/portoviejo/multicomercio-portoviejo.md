@@ -1,5 +1,5 @@
 ---
 title: "Multicomercio Portoviejo"
 url: /portoviejo/multicomercio-portoviejo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

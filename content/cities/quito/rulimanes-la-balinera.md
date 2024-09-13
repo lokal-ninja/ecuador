@@ -1,5 +1,5 @@
 ---
 title: "Rulimanes La Balinera"
 url: /quito/rulimanes-la-balinera/
-shop: Elektrisch
+shop: eléctrico
 ---

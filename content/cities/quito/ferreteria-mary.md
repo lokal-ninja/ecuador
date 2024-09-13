@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Mary"
 url: /quito/ferreteria-mary/
-shop: Eisenwaren
+shop: hardware
 ---

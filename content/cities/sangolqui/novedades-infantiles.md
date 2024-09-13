@@ -1,5 +1,5 @@
 ---
 title: "Novedades Infantiles"
 url: /sangolqui/novedades-infantiles/
-shop: Babysachen
+shop: artículos para bebés
 ---

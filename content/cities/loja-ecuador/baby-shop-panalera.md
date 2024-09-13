@@ -1,5 +1,5 @@
 ---
 title: "Baby Shop Pañalera"
 url: /loja-ecuador/baby-shop-panalera/
-shop: Babysachen
+shop: artículos para bebés
 ---

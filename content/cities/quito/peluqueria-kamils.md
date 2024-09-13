@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Kamil's"
 url: /quito/peluqueria-kamils/
-shop: Friseur
+shop: peluquería
 ---

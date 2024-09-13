@@ -1,5 +1,5 @@
 ---
 title: "Graphicolor Imprenta"
 url: /quito/graphicolor-imprenta/
-shop: Kopieren
+shop: copyshop
 ---

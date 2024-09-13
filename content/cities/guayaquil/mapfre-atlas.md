@@ -1,5 +1,5 @@
 ---
 title: "Mapfre Atlas"
 url: /guayaquil/mapfre-atlas/
-shop: Allgemein
+shop: general
 ---

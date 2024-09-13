@@ -1,5 +1,5 @@
 ---
 title: "Tienda Lili"
 url: /loja-ecuador/tienda-lili/
-shop: Kleidung
+shop: ropa
 ---

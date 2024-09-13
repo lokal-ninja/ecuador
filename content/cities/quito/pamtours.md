@@ -1,5 +1,5 @@
 ---
 title: "Pamtours"
 url: /quito/pamtours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

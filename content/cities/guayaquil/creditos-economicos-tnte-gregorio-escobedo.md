@@ -1,5 +1,5 @@
 ---
 title: "Créditos Económicos"
 url: /guayaquil/creditos-economicos-tnte-gregorio-escobedo/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dr. Freno"
 url: /quito/dr-freno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

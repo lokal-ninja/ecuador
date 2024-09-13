@@ -1,5 +1,5 @@
 ---
 title: "Opticas Arza"
 url: /conocoto/opticas-arza/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automotriz Soriano"
 url: /guayaquil/automotriz-soriano/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

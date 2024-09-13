@@ -1,5 +1,5 @@
 ---
 title: "JR Lavandería Express"
 url: /guayaquil/jr-lavanderia-express/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ofiexpress Papelería"
 url: /quito/ofiexpress-papeleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

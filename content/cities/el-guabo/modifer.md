@@ -1,5 +1,5 @@
 ---
 title: "Modifer"
 url: /el-guabo/modifer/
-shop: Möbel
+shop: muebles
 ---

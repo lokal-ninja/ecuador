@@ -1,5 +1,5 @@
 ---
 title: "Lubriaccesorios Lopez"
 url: /quito/lubriaccesorios-lopez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

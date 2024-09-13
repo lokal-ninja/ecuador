@@ -1,5 +1,5 @@
 ---
 title: "Baterias Ledesma"
 url: /guayaquil/baterias-ledesma/
-shop: Autoteile
+shop: piezas de automóviles
 ---

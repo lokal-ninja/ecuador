@@ -1,5 +1,5 @@
 ---
 title: "TECNOIMPORT"
 url: /quito/tecnoimport/
-shop: Warenhaus
+shop: grandes almacenes
 ---

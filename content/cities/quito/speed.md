@@ -1,5 +1,5 @@
 ---
 title: "Speed"
 url: /quito/speed/
-shop: Motorrad
+shop: motocicleta
 ---

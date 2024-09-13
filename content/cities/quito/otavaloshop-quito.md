@@ -1,5 +1,5 @@
 ---
 title: "OtavaloShop Quito"
 url: /quito/otavaloshop-quito/
-shop: Kleidung
+shop: ropa
 ---

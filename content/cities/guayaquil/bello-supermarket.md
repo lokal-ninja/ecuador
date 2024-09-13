@@ -1,5 +1,5 @@
 ---
 title: "Bello Supermarket"
 url: /guayaquil/bello-supermarket/
-shop: Lebensmittel
+shop: comodidad
 ---

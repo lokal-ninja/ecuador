@@ -1,5 +1,5 @@
 ---
 title: "Supermercado El Arbolito"
 url: /quito/supermercado-el-arbolito/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Venturo"
 url: /portoviejo/venturo/
-shop: Schuhe
+shop: zapatos
 ---

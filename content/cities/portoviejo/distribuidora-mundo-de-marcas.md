@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Mundo de Marcas"
 url: /portoviejo/distribuidora-mundo-de-marcas/
-shop: Elektronik
+shop: electrónica
 ---

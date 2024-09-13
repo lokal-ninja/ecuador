@@ -1,5 +1,5 @@
 ---
 title: "Plasticos La Capira"
 url: /portoviejo/plasticos-la-capira/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller"
 url: /tulcan/taller/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

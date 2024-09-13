@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria La Unión"
 url: /alangasi/ferreteria-la-union/
-shop: Eisenwaren
+shop: hardware
 ---

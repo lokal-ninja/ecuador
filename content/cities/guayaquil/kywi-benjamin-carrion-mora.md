@@ -1,5 +1,5 @@
 ---
 title: "Kywi"
 url: /guayaquil/kywi-benjamin-carrion-mora/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

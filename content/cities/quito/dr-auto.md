@@ -1,5 +1,5 @@
 ---
 title: "Dr. Auto"
 url: /quito/dr-auto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

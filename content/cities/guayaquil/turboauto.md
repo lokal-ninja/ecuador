@@ -1,5 +1,5 @@
 ---
 title: "Turboauto"
 url: /guayaquil/turboauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

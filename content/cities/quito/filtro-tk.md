@@ -1,5 +1,5 @@
 ---
 title: "Filtro TK"
 url: /quito/filtro-tk/
-shop: Autoteile
+shop: piezas de automóviles
 ---

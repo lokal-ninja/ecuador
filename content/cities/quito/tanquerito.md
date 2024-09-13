@@ -1,5 +1,5 @@
 ---
 title: "Tanquerito"
 url: /quito/tanquerito/
-shop: Lebensmittel
+shop: comodidad
 ---

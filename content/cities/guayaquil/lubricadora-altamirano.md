@@ -1,5 +1,5 @@
 ---
 title: "Lubricadora Altamirano"
 url: /guayaquil/lubricadora-altamirano/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

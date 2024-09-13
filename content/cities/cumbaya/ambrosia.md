@@ -1,5 +1,5 @@
 ---
 title: "Ambrosia"
 url: /cumbaya/ambrosia/
-shop: Bäckerei
+shop: panadería
 ---

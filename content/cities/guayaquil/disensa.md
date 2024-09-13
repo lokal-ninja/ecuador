@@ -1,5 +1,5 @@
 ---
 title: "Disensa"
 url: /guayaquil/disensa/
-shop: Baustoffe
+shop: comercio
 ---

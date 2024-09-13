@@ -1,5 +1,5 @@
 ---
 title: "Star Motors Hyundai"
 url: /quito/star-motors-hyundai/
-shop: Autohaus
+shop: coche
 ---

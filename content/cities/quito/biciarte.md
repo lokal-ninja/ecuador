@@ -1,5 +1,5 @@
 ---
 title: "BiciArte"
 url: /quito/biciarte/
-shop: Fahrrad
+shop: bicicleta
 ---

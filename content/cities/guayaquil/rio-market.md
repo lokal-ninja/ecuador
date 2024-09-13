@@ -1,5 +1,5 @@
 ---
 title: "Río Market"
 url: /guayaquil/rio-market/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papeleria"
 url: /ibarra/papeleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

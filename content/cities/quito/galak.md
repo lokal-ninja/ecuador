@@ -1,5 +1,5 @@
 ---
 title: "Galak"
 url: /quito/galak/
-shop: Allgemein
+shop: general
 ---

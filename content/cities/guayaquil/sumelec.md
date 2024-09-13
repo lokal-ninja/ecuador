@@ -1,5 +1,5 @@
 ---
 title: "Sumelec"
 url: /guayaquil/sumelec/
-shop: Baustoffe
+shop: comercio
 ---

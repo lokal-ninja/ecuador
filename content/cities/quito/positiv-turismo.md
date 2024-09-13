@@ -1,5 +1,5 @@
 ---
 title: "Positiv Turismo"
 url: /quito/positiv-turismo/
-shop: Allgemein
+shop: general
 ---

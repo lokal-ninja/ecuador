@@ -1,5 +1,5 @@
 ---
 title: "Grupo Jardines del Valle"
 url: /quito/grupo-jardines-del-valle/
-shop: Bestattungen
+shop: directores de funerarias
 ---

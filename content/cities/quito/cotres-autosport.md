@@ -1,5 +1,5 @@
 ---
 title: "Cotres AutoSport"
 url: /quito/cotres-autosport/
-shop: Autoteile
+shop: piezas de automóviles
 ---

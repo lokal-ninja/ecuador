@@ -1,5 +1,5 @@
 ---
 title: "Adelca"
 url: /quito/adelca/
-shop: Eisenwaren
+shop: hardware
 ---

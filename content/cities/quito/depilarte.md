@@ -1,5 +1,5 @@
 ---
 title: "Depilarte"
 url: /quito/depilarte/
-shop: Allgemein
+shop: general
 ---

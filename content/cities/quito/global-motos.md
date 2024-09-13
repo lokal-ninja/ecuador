@@ -1,5 +1,5 @@
 ---
 title: "Global Motos"
 url: /quito/global-motos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

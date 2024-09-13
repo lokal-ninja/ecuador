@@ -1,5 +1,5 @@
 ---
 title: "El Mana"
 url: /quito/el-mana/
-shop: Allgemein
+shop: general
 ---

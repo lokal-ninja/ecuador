@@ -1,5 +1,5 @@
 ---
 title: "Luisa Maldonado"
 url: /guayaquil/luisa-maldonado/
-shop: Friseur
+shop: peluquería
 ---

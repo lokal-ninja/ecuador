@@ -1,5 +1,5 @@
 ---
 title: "Euro Stilos"
 url: /portoviejo/euro-stilos/
-shop: Möbel
+shop: muebles
 ---

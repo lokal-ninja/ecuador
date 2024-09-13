@@ -1,5 +1,5 @@
 ---
 title: "Mundy Cauchos"
 url: /quito/mundy-cauchos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

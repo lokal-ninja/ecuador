@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /quito/porcelanosa/
-shop: Allgemein
+shop: general
 ---

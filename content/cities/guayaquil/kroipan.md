@@ -1,5 +1,5 @@
 ---
 title: "Kroipan"
 url: /guayaquil/kroipan/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netlife"
 url: /guayaquil/netlife/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Santi"
 url: /quito/santi/
-shop: Supermarkt
+shop: supermercado
 ---

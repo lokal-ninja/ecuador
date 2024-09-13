@@ -1,5 +1,5 @@
 ---
 title: "Radiadores Aotero"
 url: /quito/radiadores-aotero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

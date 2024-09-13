@@ -1,5 +1,5 @@
 ---
 title: "Multifrio"
 url: /quito/multifrio/
-shop: Allgemein
+shop: general
 ---

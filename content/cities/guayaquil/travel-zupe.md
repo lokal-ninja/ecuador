@@ -1,5 +1,5 @@
 ---
 title: "Travel Zupe"
 url: /guayaquil/travel-zupe/
-shop: Reisebüro
+shop: agencia de viajes
 ---

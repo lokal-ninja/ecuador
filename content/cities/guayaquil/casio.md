@@ -1,5 +1,5 @@
 ---
 title: "CASIO"
 url: /guayaquil/casio/
-shop: Baustoffe
+shop: comercio
 ---

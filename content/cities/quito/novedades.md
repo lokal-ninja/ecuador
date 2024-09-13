@@ -1,5 +1,5 @@
 ---
 title: "Novedades"
 url: /quito/novedades/
-shop: Kleidung
+shop: ropa
 ---

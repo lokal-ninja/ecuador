@@ -1,5 +1,5 @@
 ---
 title: "Ferrococcidental S.A."
 url: /quito/ferrococcidental-s-a/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Canina"
 url: /quito/peluqueria-canina-avenida-alonso-de-angulo/
-shop: Tiere
+shop: mascotas
 ---

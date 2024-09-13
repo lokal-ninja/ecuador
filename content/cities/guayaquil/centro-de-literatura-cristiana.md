@@ -1,5 +1,5 @@
 ---
 title: "Centro de Literatura Cristiana"
 url: /guayaquil/centro-de-literatura-cristiana/
-shop: Bücher
+shop: libros
 ---
