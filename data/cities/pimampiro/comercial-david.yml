@@ -1,11 +1,11 @@
 id: 951245102
-type: way
+type: node
 latitude: 0.3895
 longitude: -77.94136
 postcode: "100117"
 city: Pimampiro
-street: "Paquisha"
-housenumber: 
+street: Paquisha
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

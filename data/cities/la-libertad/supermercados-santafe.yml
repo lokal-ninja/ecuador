@@ -1,11 +1,11 @@
 id: 1027528957
-type: way
+type: node
 latitude: -2.22967
 longitude: -80.90071
 postcode: "240202"
 city: La Libertad
-street: "Avenida 16"
-housenumber: 29
+street: Avenida 16
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.supersantafe.com/"
+website: https://www.supersantafe.com/

@@ -1,11 +1,11 @@
 id: 1100948114
-type: way
+type: node
 latitude: -0.0977
 longitude: -78.47643
 postcode: "170310"
 city: Quito
-street: "Tadeo Benítez"
-housenumber: 
+street: Tadeo Benítez
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 447599235
-type: way
+type: node
 latitude: -0.15575
 longitude: -78.46245
 postcode: "170401"
 city: Quito
-street: "General Duma"
-housenumber: 
+street: General Duma
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

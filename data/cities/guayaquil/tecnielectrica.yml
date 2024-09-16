@@ -4,8 +4,9 @@ latitude: -2.13686
 longitude: -79.90055
 postcode: ""
 city: Guayaquil
-street: "Av Rodolfo Baquerizo Nazur Alborada 8va etapa Mz852 Edificio SolBanco Oficina 207"
-housenumber: 207
+street: Av Rodolfo Baquerizo Nazur Alborada 8va etapa Mz852 Edificio SolBanco Oficina
+    207
+housenumber: "207"
 phone: "+593995789265"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.tecnielectrica.com.ec"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.tecnielectrica.com.ec

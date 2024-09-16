@@ -1,11 +1,11 @@
 id: 308633305
-type: way
+type: node
 latitude: -3.83186
 longitude: -78.76069
 postcode: ""
 city: Yantzaza
-street: "Avenida Ivan Rofirio"
-housenumber: 1
+street: Avenida Ivan Rofirio
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

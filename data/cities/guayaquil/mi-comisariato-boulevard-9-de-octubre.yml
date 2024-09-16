@@ -1,11 +1,11 @@
 id: 464776530
-type: way
+type: node
 latitude: -2.19087
 longitude: -79.88475
 postcode: "090312"
 city: Guayaquil
-street: "Boulevard 9 de Octubre"
-housenumber: 729
-phone: "+593 4 232-2191"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://clubmicomisariato.com/"
+street: Boulevard 9 de Octubre
+housenumber: "729"
+phone: +593 4 232-2191
+opening_hours: Mo-Su 09:00-20:00
+website: https://clubmicomisariato.com/

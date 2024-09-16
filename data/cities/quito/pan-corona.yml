@@ -1,11 +1,11 @@
 id: 588812282
-type: way
+type: node
 latitude: -0.20115
 longitude: -78.49185
 postcode: ""
 city: Quito
-street: "Avenida Amazonas"
-housenumber: 
+street: Avenida Amazonas
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

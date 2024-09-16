@@ -1,11 +1,11 @@
 id: 411764592
-type: way
+type: node
 latitude: -1.05918
 longitude: -80.45525
 postcode: ""
 city: Portoviejo
-street: "Córdova"
-housenumber: 
+street: Córdova
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

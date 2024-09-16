@@ -1,11 +1,11 @@
 id: 1032425814
-type: way
+type: node
 latitude: -1.10304
 longitude: -78.62818
 postcode: ""
 city: Salcedo
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

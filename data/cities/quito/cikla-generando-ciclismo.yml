@@ -1,11 +1,11 @@
 id: 399932110
-type: way
+type: node
 latitude: -0.16338
 longitude: -78.46423
 postcode: ""
 city: Quito
-street: "Granados"
-housenumber: 
+street: Granados
+housenumber: ""
 phone: ""
-opening_hours: "09:00-20:00"
-website: "www.cikla.net"
+opening_hours: 09:00-20:00
+website: www.cikla.net

@@ -1,11 +1,11 @@
 id: 425002334
-type: way
+type: node
 latitude: -0.2005
 longitude: -78.49087
 postcode: ""
 city: Quito
-street: "Avenida Río Amazonas"
-housenumber: 
+street: Avenida Río Amazonas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

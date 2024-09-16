@@ -1,11 +1,11 @@
 id: 835154798
-type: way
+type: node
 latitude: -0.2717
 longitude: -78.54353
 postcode: ""
 city: Quito
-street: "Avenida Solanda"
-housenumber: 
+street: Avenida Solanda
+housenumber: ""
 phone: ""
-opening_hours: "09:00-06:00"
+opening_hours: 09:00-06:00
 website: ""

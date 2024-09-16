@@ -1,11 +1,11 @@
 id: 713195089
-type: way
+type: node
 latitude: -3.99952
 longitude: -79.20463
 postcode: ""
 city: Loja, Ecuador
-street: "Avenida Universitaria"
-housenumber: 
-phone: "(07)2806144"
-opening_hours: "Mo-Fr 08:30-13:00, 15:00-18:30; Sa 09:30-13:00"
-website: "https://www.tomebamba.com.ec/"
+street: Avenida Universitaria
+housenumber: ""
+phone: (07)2806144
+opening_hours: Mo-Fr 08:30-13:00, 15:00-18:30; Sa 09:30-13:00
+website: https://www.tomebamba.com.ec/

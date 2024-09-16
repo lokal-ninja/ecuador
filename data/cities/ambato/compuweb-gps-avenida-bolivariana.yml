@@ -1,11 +1,11 @@
 id: 620939402
-type: way
+type: node
 latitude: -1.24903
 longitude: -78.61932
-postcode: "EC180160"
+postcode: EC180160
 city: Ambato
-street: "Avenida Bolivariana"
-housenumber: 213
-phone: "098 453 9617"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Avenida Bolivariana
+housenumber: "213"
+phone: 098 453 9617
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

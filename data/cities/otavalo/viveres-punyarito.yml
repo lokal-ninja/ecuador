@@ -1,11 +1,11 @@
 id: 754074577
-type: way
+type: node
 latitude: 0.22005
 longitude: -78.26979
 postcode: "100702"
 city: Otavalo
-street: "Panamericana Norte"
-housenumber: 
+street: Panamericana Norte
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

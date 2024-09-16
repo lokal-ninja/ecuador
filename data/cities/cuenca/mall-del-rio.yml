@@ -1,11 +1,11 @@
 id: 109187160
-type: way
+type: node
 latitude: -2.91939
 longitude: -79.01319
 postcode: ""
 city: Cuenca
-street: "Circunvalación Sur"
-housenumber: 
-phone: "+593 07 281 7616"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "http://www.malldelrio.com/inicio"
+street: Circunvalación Sur
+housenumber: ""
+phone: +593 07 281 7616
+opening_hours: Mo-Su 10:00-22:00
+website: http://www.malldelrio.com/inicio

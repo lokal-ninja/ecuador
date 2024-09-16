@@ -1,11 +1,11 @@
 id: 443243456
-type: way
+type: node
 latitude: -0.27235
 longitude: -78.56322
 postcode: "170721"
 city: Quito
-street: "Oe12e"
-housenumber: 
+street: Oe12e
+housenumber: ""
 phone: ""
-opening_hours: "6:00 - 22:00"
+opening_hours: 6:00 - 22:00
 website: ""

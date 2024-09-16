@@ -1,11 +1,11 @@
 id: 429358459
-type: way
+type: node
 latitude: -0.27481
 longitude: -78.5108
 postcode: ""
 city: Quito
-street: "Avenida Simón Bolívar"
-housenumber: 
+street: Avenida Simón Bolívar
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-17:00"
+opening_hours: Mo-Sa 07:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1116642787
-type: way
+type: node
 latitude: -0.94504
 longitude: -80.73024
 postcode: ""
 city: Manta
-street: "Avenida Flavio Reyes"
-housenumber: 
-phone: "+593 5 5000 893"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://tuti.com.ec/"
+street: Avenida Flavio Reyes
+housenumber: ""
+phone: +593 5 5000 893
+opening_hours: Mo-Su 08:00-21:00
+website: https://tuti.com.ec/

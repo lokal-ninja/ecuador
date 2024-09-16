@@ -1,11 +1,11 @@
 id: 1187500896
-type: way
+type: node
 latitude: -1.68293
 longitude: -78.63744
 postcode: "060102"
 city: Riobamba
-street: "Avenida Leopoldo Freire"
-housenumber: 
-phone: "Desconocido"
-opening_hours: "24/7"
+street: Avenida Leopoldo Freire
+housenumber: ""
+phone: Desconocido
+opening_hours: 24/7
 website: ""

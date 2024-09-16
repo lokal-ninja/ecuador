@@ -1,11 +1,11 @@
 id: 798122175
-type: way
+type: node
 latitude: -0.27326
 longitude: -79.46301
 postcode: "130503"
 city: El Carmen
-street: "4 de Diciembre"
-housenumber: 
+street: 4 de Diciembre
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

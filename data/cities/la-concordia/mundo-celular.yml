@@ -1,11 +1,11 @@
 id: 714020115
-type: way
+type: node
 latitude: 0.00398
 longitude: -79.39623
 postcode: "080701"
 city: La Concordia
-street: "Juan Montalvo"
-housenumber: 
+street: Juan Montalvo
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

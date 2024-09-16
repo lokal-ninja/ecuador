@@ -1,11 +1,11 @@
 id: 805210299
-type: way
+type: node
 latitude: 0.82159
 longitude: -77.70636
 postcode: "040102"
 city: Tulcán
-street: "Luciano Coral"
-housenumber: 
+street: Luciano Coral
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://fb.me/Dr.celltulcan"
+opening_hours: 24/7
+website: https://fb.me/Dr.celltulcan

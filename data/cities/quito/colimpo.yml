@@ -1,11 +1,11 @@
 id: 422495728
-type: way
+type: node
 latitude: -0.1126
 longitude: -78.47926
 postcode: ""
 city: Quito
-street: "De los Ciruelos"
-housenumber: 13295
+street: De los Ciruelos
+housenumber: "13295"
 phone: ""
 opening_hours: ""
 website: ""

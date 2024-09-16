@@ -1,11 +1,11 @@
 id: 423456101
-type: way
+type: node
 latitude: -0.13766
 longitude: -78.47751
 postcode: ""
 city: Quito
-street: "De los Pinos"
-housenumber: 
+street: De los Pinos
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

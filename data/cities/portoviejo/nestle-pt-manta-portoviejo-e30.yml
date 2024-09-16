@@ -1,11 +1,11 @@
 id: 761852800
-type: way
+type: node
 latitude: -1.07986
 longitude: -80.5165
 postcode: ""
 city: Portoviejo
-street: "E30"
-housenumber: 123
+street: E30
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

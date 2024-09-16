@@ -1,11 +1,11 @@
 id: 999742971
-type: way
+type: node
 latitude: -1.35605
 longitude: -79.9016
 postcode: ""
 city: Balzar
-street: "Avenida Amazonas"
-housenumber: 
+street: Avenida Amazonas
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

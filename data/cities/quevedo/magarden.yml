@@ -1,11 +1,11 @@
 id: 1090562356
-type: way
+type: node
 latitude: -1.0078
 longitude: -79.46598
 postcode: "120302"
 city: Quevedo
-street: "Primera"
-housenumber: 
+street: Primera
+housenumber: ""
 phone: "0993615229"
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

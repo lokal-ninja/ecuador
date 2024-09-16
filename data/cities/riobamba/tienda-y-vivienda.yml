@@ -1,11 +1,11 @@
 id: 1187500918
-type: way
+type: node
 latitude: -1.68333
 longitude: -78.63585
 postcode: "060102"
 city: Riobamba
-street: "Santiago"
-housenumber: 
+street: Santiago
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

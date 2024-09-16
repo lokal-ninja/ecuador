@@ -1,11 +1,11 @@
 id: 384452580
-type: way
+type: node
 latitude: -4.32643
 longitude: -79.55654
 postcode: "110606"
 city: Cariamanga
-street: "18 de noviembre"
-housenumber: 
+street: 18 de noviembre
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 429902625
-type: way
+type: node
 latitude: -2.16905
 longitude: -79.89244
 postcode: ""
 city: Guayaquil
 street: ""
-housenumber: 301
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 610703082
-type: way
+type: node
 latitude: 0.81433
 longitude: -77.71633
 postcode: "040102"
 city: Tulcán
-street: "Bolivar"
-housenumber: 
+street: Bolivar
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://fb.me/Dr.celltulcan"
+opening_hours: 24/7
+website: https://fb.me/Dr.celltulcan

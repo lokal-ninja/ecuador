@@ -1,11 +1,11 @@
 id: 824696410
-type: way
+type: node
 latitude: -2.85405
 longitude: -78.91021
 postcode: ""
 city: Challuabamba
-street: "Del Bombero"
-housenumber: 11122
+street: Del Bombero
+housenumber: "11122"
 phone: "072811007"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.laitaliana.com.ec/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.laitaliana.com.ec/

@@ -1,11 +1,11 @@
 id: 426247296
-type: way
+type: node
 latitude: -0.19518
 longitude: -78.48469
 postcode: ""
 city: Quito
-street: "Avenida de La República"
-housenumber: 
+street: Avenida de La República
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su,PH 08:00-17:00"
+opening_hours: Mo-Su,PH 08:00-17:00
 website: ""

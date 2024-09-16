@@ -1,11 +1,11 @@
 id: 499974635
-type: way
+type: node
 latitude: -0.25358
 longitude: -79.1732
 postcode: "230102"
 city: Santo Domingo
-street: "Cuenca"
-housenumber: 
+street: Cuenca
+housenumber: ""
 phone: ""
-opening_hours: "07:45-19:30"
+opening_hours: 07:45-19:30
 website: ""

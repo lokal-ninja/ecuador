@@ -1,11 +1,11 @@
 id: 447598052
-type: way
+type: node
 latitude: -0.09057
 longitude: -78.48112
 postcode: "593"
 city: Quito
-street: "Alberto Einstein"
-housenumber: 
+street: Alberto Einstein
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

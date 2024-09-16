@@ -1,11 +1,11 @@
 id: 107938400
-type: way
+type: node
 latitude: -0.20644
 longitude: -78.48729
 postcode: ""
 city: Quito
-street: "Avenida 12 de Octubre"
-housenumber: 
+street: Avenida 12 de Octubre
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-20:00; Su 09:30-19:00"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-20:00; Su 09:30-19:00
 website: ""

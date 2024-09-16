@@ -1,11 +1,11 @@
 id: 31143135
-type: way
+type: node
 latitude: -0.17597
 longitude: -78.48064
 postcode: "170135"
 city: Quito
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+59322464526"
-opening_hours: "Mo-Fr 09:30-21:00; Sa 10:00-20:30; Su 10:00-20:00"
-website: "https://www.quicentro.com/"
+opening_hours: Mo-Fr 09:30-21:00; Sa 10:00-20:30; Su 10:00-20:00
+website: https://www.quicentro.com/

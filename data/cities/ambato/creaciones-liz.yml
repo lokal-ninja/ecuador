@@ -1,11 +1,11 @@
 id: 431940688
-type: way
+type: node
 latitude: -1.24745
 longitude: -78.6201
 postcode: ""
 city: Ambato
-street: "Pan de Azucar"
-housenumber: 26
-phone: "099 923 0793"
-opening_hours: "09:00-17:00"
+street: Pan de Azucar
+housenumber: "26"
+phone: 099 923 0793
+opening_hours: 09:00-17:00
 website: ""

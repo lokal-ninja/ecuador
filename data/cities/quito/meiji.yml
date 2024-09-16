@@ -1,11 +1,11 @@
 id: 425631234
-type: way
+type: node
 latitude: -0.20818
 longitude: -78.48518
 postcode: ""
 city: Quito
-street: "Toledo"
-housenumber: 
+street: Toledo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 225199199
-type: way
+type: node
 latitude: 0.34099
 longitude: -78.12211
 postcode: "100107"
 city: Ibarra
-street: "José Miguel Leoro"
+street: José Miguel Leoro
 housenumber: 7-18
 phone: ""
-opening_hours: "08:30-13:00,14:30-18:00"
+opening_hours: 08:30-13:00,14:30-18:00
 website: ""
