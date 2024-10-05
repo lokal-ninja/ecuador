@@ -1,6 +1,6 @@
 ---
 title: Zumbi
 url: /zumbi/
-latitude: -3.892
-longitude: -78.778
+latitude: -3.888
+longitude: -78.774
 ---
