@@ -1,5 +1,5 @@
 ---
 title: "Comercial JC"
-url: /palanda/comercial-jc/
+url: /palanda-zamora-chinchipe/comercial-jc/
 shop: piezas de automóviles
 ---
