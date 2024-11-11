@@ -1,5 +1,5 @@
 ---
 title: "Spiga Pan"
-url: /yantzaza/spiga-pan/
+url: /yantzaza-zamora-chinchipe/spiga-pan/
 shop: panadería
 ---
