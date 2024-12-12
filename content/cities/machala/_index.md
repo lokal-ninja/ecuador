@@ -1,6 +1,6 @@
 ---
 title: Machala
 url: /machala/
-latitude: -3.259
-longitude: -79.96
+latitude: -3.258
+longitude: -79.959
 ---
