@@ -1,6 +1,6 @@
 ---
 title: Zumba
 url: /zumba/
-latitude: -4.864
-longitude: -79.133
+latitude: -4.863
+longitude: -79.132
 ---
