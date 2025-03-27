@@ -1,5 +1,5 @@
 ---
 title: "Orve Hogar"
 url: /quito/orve-hogar-avenida-naciones-unidas/
-shop: electrónica
+shop: menaje del hogar
 ---
