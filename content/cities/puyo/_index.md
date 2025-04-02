@@ -1,6 +1,6 @@
 ---
-title: Puyo
+title: PUYO
 url: /puyo/
-latitude: -1.489
-longitude: -78.008
+latitude: -1.488
+longitude: -78.014
 ---
