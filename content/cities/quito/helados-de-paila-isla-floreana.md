@@ -1,5 +1,5 @@
 ---
 title: "Helados de Paila"
-url: /quito/helados-de-paila-de-los-pinos/
+url: /quito/helados-de-paila-isla-floreana/
 shop: helado
 ---
