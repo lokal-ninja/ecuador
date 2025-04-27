@@ -1,5 +1,5 @@
 ---
 title: "Boyacá"
 url: /guayaquil/boyaca/
-shop: general
+shop: hágalo usted mismo
 ---
