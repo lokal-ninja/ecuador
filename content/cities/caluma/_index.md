@@ -1,6 +1,6 @@
 ---
 title: Caluma
 url: /caluma/
-latitude: -1.634
-longitude: -79.259
+latitude: -1.63
+longitude: -79.258
 ---

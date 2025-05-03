@@ -1,5 +1,5 @@
 ---
 title: "Paca"
 url: /quito/paca/
-shop: general
+shop: frutería
 ---
