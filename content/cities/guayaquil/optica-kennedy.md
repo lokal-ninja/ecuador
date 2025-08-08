@@ -1,5 +1,5 @@
 ---
-title: "Optica Kennedy"
+title: "Óptica Kennedy"
 url: /guayaquil/optica-kennedy/
 shop: óptico
 ---
