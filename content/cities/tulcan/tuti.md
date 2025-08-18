@@ -1,5 +1,5 @@
 ---
-title: "TuTi"
+title: "Tuti"
 url: /tulcan/tuti/
 shop: supermercado
 ---
