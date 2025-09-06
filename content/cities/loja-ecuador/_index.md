@@ -1,6 +1,6 @@
 ---
 title: Loja, Ecuador
 url: /loja-ecuador/
-latitude: -3.992
-longitude: -79.199
+latitude: -4.013
+longitude: -79.202
 ---
