@@ -1,6 +1,6 @@
 ---
 title: Urdaneta
 url: /urdaneta/
-latitude: -3.607
-longitude: -79.194
+latitude: -3.604
+longitude: -79.209
 ---
