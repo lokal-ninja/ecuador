@@ -1,6 +1,6 @@
 ---
 title: Cuenca, EC
 url: /cuenca-ec/
-latitude: -2.901
-longitude: -78.998
+latitude: -2.896
+longitude: -79.007
 ---
