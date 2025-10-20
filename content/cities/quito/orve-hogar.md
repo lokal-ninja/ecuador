@@ -1,5 +1,5 @@
 ---
 title: "Orve Hogar"
 url: /quito/orve-hogar/
-shop: grandes almacenes
+shop: menaje del hogar
 ---
