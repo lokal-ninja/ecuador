@@ -1,6 +1,6 @@
 ---
-title: Camilo Ponce Enriquez
+title: Camilo Ponce Enríquez
 url: /camilo-ponce-enriquez/
-latitude: -3.062
-longitude: -79.747
+latitude: -3.059
+longitude: -79.746
 ---
