@@ -1,6 +1,6 @@
 ---
 title: Daule
 url: /daule/
-latitude: -2.056
-longitude: -79.919
+latitude: -2.051
+longitude: -79.904
 ---
