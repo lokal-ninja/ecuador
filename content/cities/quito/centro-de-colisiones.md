@@ -1,5 +1,5 @@
 ---
 title: "Centro de Colisiones"
 url: /quito/centro-de-colisiones/
-shop: reparación de automóviles
+shop: piezas de automóviles
 ---
