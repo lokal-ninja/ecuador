@@ -1,5 +1,5 @@
 ---
-title: "FOTON"
+title: "Foton"
 url: /quito/foton/
-shop: coche
+shop: general
 ---
