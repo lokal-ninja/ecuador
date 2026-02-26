@@ -1,5 +1,5 @@
 ---
 title: "Importadora Andina"
 url: /guayaquil/importadora-andina/
-shop: general
+shop: piezas de automóviles
 ---
