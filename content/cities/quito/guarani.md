@@ -1,5 +1,5 @@
 ---
-title: "Guarani"
+title: "Guaraní"
 url: /quito/guarani/
 shop: panadería
 ---

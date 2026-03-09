@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /quito/claro/
-shop: teléfono móvil
+shop: general
 ---

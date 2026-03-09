@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria Falconi"
+title: "Ferretería Falconí"
 url: /quito/ferreteria-falconi/
 shop: hardware
 ---
