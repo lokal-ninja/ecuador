@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria SK"
+title: "Ferretería SK"
 url: /arenillas/ferreteria-sk/
 shop: hardware
 ---
