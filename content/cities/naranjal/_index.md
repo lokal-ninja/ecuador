@@ -1,6 +1,6 @@
 ---
 title: Naranjal
 url: /naranjal/
-latitude: -2.674
-longitude: -79.619
+latitude: -2.675
+longitude: -79.62
 ---

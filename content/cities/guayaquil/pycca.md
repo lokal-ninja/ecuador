@@ -1,5 +1,5 @@
 ---
 title: "Pycca"
 url: /guayaquil/pycca/
-shop: electrónica
+shop: grandes almacenes
 ---
