@@ -1,5 +1,5 @@
 ---
 title: "Nature's Garden"
 url: /guayaquil/natures-garden/
-shop: general
+shop: alimentación sana
 ---
