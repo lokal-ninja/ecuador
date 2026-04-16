@@ -1,5 +1,5 @@
 ---
-title: "Eta Fashion"
+title: "ETA Fashion"
 url: /guayaquil/eta-fashion/
-shop: ropa
+shop: general
 ---

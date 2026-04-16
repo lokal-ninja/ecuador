@@ -1,5 +1,5 @@
 ---
-title: "Bazar y Papelería Rodo's"
+title: "Bazar y Papelería Rodó's"
 url: /conocoto/bazar-y-papeleria-rodos/
 shop: general
 ---
