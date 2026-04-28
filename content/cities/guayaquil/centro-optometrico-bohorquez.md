@@ -1,5 +1,5 @@
 ---
-title: "Centro Optometrico Bohorquez"
+title: "Centro Optométrico Bohórquez"
 url: /guayaquil/centro-optometrico-bohorquez/
 shop: óptico
 ---

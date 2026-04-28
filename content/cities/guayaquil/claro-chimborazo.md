@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /guayaquil/claro-via-a-daule/
+url: /guayaquil/claro-chimborazo/
 shop: teléfono móvil
 ---

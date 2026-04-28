@@ -1,5 +1,5 @@
 ---
-title: "Rebobinaje de Motores"
+title: "Rebobinaje De Motores"
 url: /quito/rebobinaje-de-motores/
-shop: general
+shop: hardware
 ---
