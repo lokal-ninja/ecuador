@@ -1,5 +1,5 @@
 ---
-title: "Morejon Motos"
+title: "Morejón Motos"
 url: /cuenca/morejon-motos/
 shop: motocicleta
 ---

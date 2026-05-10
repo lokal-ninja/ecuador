@@ -1,6 +1,6 @@
 ---
 title: Girón
 url: /giron/
-latitude: -3.162
-longitude: -79.146
+latitude: -3.16
+longitude: -79.147
 ---

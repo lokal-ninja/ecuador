@@ -1,5 +1,5 @@
 ---
-title: "Optica Metropolis"
+title: "Óptica Metrópolis"
 url: /quito/optica-metropolis/
 shop: óptico
 ---

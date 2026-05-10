@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria Anahi"
+title: "Ferretería Anahí"
 url: /quito/ferreteria-anahi/
 shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria Ximenita"
+title: "Ferretería Ximenita"
 url: /quito/ferreteria-ximenita/
 shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Dissanty Papelerias"
+title: "Dissanty Papelerías"
 url: /quito/dissanty-papelerias-avenida-de-la-prensa/
-shop: general
+shop: material de oficina
 ---
