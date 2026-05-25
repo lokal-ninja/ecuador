@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria"
-url: /quito/ferreteria-cap-rafael-ramos/
+url: /quito/ferreteria-lizardo-ruiz/
 shop: hardware
 ---
