@@ -1,6 +1,6 @@
 ---
 title: Montecristi
 url: /montecristi/
-latitude: -1.051
-longitude: -80.662
+latitude: -1.05
+longitude: -80.663
 ---
