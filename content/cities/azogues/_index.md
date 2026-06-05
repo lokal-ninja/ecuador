@@ -1,6 +1,6 @@
 ---
 title: Azogues
 url: /azogues/
-latitude: -2.737
-longitude: -78.846
+latitude: -2.738
+longitude: -78.817
 ---

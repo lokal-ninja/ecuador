@@ -1,6 +1,6 @@
 ---
-title: Durán
+title: Duran
 url: /duran/
-latitude: -2.185
-longitude: -79.856
+latitude: -2.167
+longitude: -79.846
 ---
