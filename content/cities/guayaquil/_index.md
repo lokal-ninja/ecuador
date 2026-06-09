@@ -1,6 +1,6 @@
 ---
 title: Guayaquil
 url: /guayaquil/
-latitude: -2.115
-longitude: -79.934
+latitude: -2.189
+longitude: -79.88
 ---
