@@ -1,6 +1,6 @@
 ---
-title: Ambato
+title: AMBATO
 url: /ambato/
-latitude: -1.243
-longitude: -78.627
+latitude: -1.234
+longitude: -78.619
 ---
