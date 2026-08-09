@@ -1,5 +1,5 @@
 ---
-title: "Disensa"
+title: "DIsensa"
 url: /quito/disensa/
 shop: hardware
 ---
