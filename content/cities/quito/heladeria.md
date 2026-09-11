@@ -1,5 +1,5 @@
 ---
 title: "Heladeria"
 url: /quito/heladeria/
-shop: helado
+shop: general
 ---

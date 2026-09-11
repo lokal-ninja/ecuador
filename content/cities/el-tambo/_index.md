@@ -1,6 +1,6 @@
 ---
 title: El Tambo
 url: /el-tambo/
-latitude: -2.482
-longitude: -78.963
+latitude: -1.332
+longitude: -78.553
 ---
