@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
 url: /quito/minimarket/
-shop: comodidad
+shop: supermercado
 ---

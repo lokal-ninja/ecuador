@@ -1,5 +1,5 @@
 ---
-title: "Óptica Jimenez"
+title: "Optica Jiménez"
 url: /quito/optica-jimenez/
 shop: óptico
 ---
