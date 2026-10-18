@@ -1,5 +1,5 @@
 ---
 title: "TuTi"
 url: /cuenca/tuti/
-shop: supermercado
+shop: comodidad
 ---

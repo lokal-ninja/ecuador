@@ -1,6 +1,6 @@
 ---
 title: Jipijapa
 url: /jipijapa/
-latitude: -1.343
-longitude: -80.581
+latitude: -1.549
+longitude: -80.536
 ---
