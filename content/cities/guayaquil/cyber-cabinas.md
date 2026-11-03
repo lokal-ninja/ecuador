@@ -1,5 +1,5 @@
 ---
 title: "Cyber Cabinas"
 url: /guayaquil/cyber-cabinas/
-shop: comodidad
+shop: general
 ---
