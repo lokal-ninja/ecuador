@@ -1,5 +1,5 @@
 ---
 title: "Papeleria"
 url: /quito/papeleria/
-shop: general
+shop: material de oficina
 ---
